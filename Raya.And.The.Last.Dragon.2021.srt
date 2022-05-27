@@ -1,0 +1,6038 @@
+﻿1
+00:01:04,898 --> 00:01:06,650
+<font face="Comic Sans MS">I know what you're thinking.</font>
+
+2
+00:01:07,442 --> 00:01:09,486
+<font face="Comic Sans MS">A lone rider.</font>
+
+3
+00:01:09,945 --> 00:01:11,822
+<font face="Comic Sans MS">A dystopian world.</font>
+
+4
+00:01:11,989 --> 00:01:14,533
+<font face="Comic Sans MS">A land that's gone to waste.</font>
+
+5
+00:01:15,242 --> 00:01:18,036
+<font face="Comic Sans MS">How did this world
+get so broken?</font>
+
+6
+00:01:19,371 --> 00:01:22,833
+<font face="Comic Sans MS">Well, that all began
+500 years ago.</font>
+
+7
+00:01:24,793 --> 00:01:26,545
+<font face="Comic Sans MS">Kumandra.</font>
+
+8
+00:01:28,130 --> 00:01:30,382
+<font face="Comic Sans MS">This is what we used to be.</font>
+
+9
+00:01:30,549 --> 00:01:32,009
+<font face="Comic Sans MS">When our land was whole,</font>
+
+10
+00:01:32,092 --> 00:01:34,845
+<font face="Comic Sans MS">and we lived harmoniously
+alongside...</font>
+
+11
+00:01:36,054 --> 00:01:37,139
+<font face="Comic Sans MS">dragons.</font>
+
+12
+00:01:37,306 --> 00:01:38,640
+<font face="Comic Sans MS">Magical creatures
+who brought us</font>
+
+13
+00:01:38,724 --> 00:01:42,311
+<font face="Comic Sans MS">water and rain and peace.</font>
+
+14
+00:01:43,562 --> 00:01:46,190
+<font face="Comic Sans MS">It was paradise.</font>
+
+15
+00:01:46,356 --> 00:01:48,901
+<font face="Comic Sans MS">But then, the Druun came.</font>
+
+16
+00:01:51,278 --> 00:01:54,740
+<font face="Comic Sans MS">A mindless plague
+that spread like wildfire,</font>
+
+17
+00:01:54,907 --> 00:01:56,533
+<font face="Comic Sans MS">multiplying
+as they consumed life</font>
+
+18
+00:01:56,617 --> 00:02:00,037
+<font face="Comic Sans MS">and turned everyone
+they touched into stone.</font>
+
+19
+00:02:01,121 --> 00:02:03,457
+<font face="Comic Sans MS">The dragons fought for us
+the best they could,</font>
+
+20
+00:02:05,417 --> 00:02:07,669
+<font face="Comic Sans MS">but it wasn't enough.</font>
+
+21
+00:02:09,296 --> 00:02:11,131
+<font face="Comic Sans MS">That's when
+the Mighty Sisudatu,</font>
+
+22
+00:02:11,340 --> 00:02:12,674
+<font face="Comic Sans MS">the last dragon,</font>
+
+23
+00:02:12,758 --> 00:02:15,677
+<font face="Comic Sans MS">concentrated all her magic
+into a gem and...</font>
+
+24
+00:02:21,266 --> 00:02:23,560
+<font face="Comic Sans MS">...blasted the Druun away.</font>
+
+25
+00:02:24,603 --> 00:02:26,939
+<font face="Comic Sans MS">Everyone that was turned
+to stone came back.</font>
+
+26
+00:02:27,898 --> 00:02:30,817
+<font face="Comic Sans MS">Except the dragons.</font>
+
+27
+00:02:34,112 --> 00:02:36,740
+<font face="Comic Sans MS">All that was left of Sisu
+was her gem.</font>
+
+28
+00:02:36,990 --> 00:02:40,077
+<font face="Comic Sans MS">It should have been
+this big inspirational moment,</font>
+
+29
+00:02:40,244 --> 00:02:42,579
+<font face="Comic Sans MS">where humanity united
+over her sacrifice.</font>
+
+30
+00:02:42,746 --> 00:02:45,791
+<font face="Comic Sans MS">But instead,
+people being people,</font>
+
+31
+00:02:45,958 --> 00:02:47,835
+<font face="Comic Sans MS">they all fought to possess</font>
+
+32
+00:02:47,918 --> 00:02:50,212
+<font face="Comic Sans MS">the last remnant
+of dragon magic.</font>
+
+33
+00:02:51,421 --> 00:02:54,299
+<font face="Comic Sans MS">Borders were drawn,
+Kumandra divided.</font>
+
+34
+00:02:55,008 --> 00:02:58,136
+<font face="Comic Sans MS">We all became enemies,
+and the gem had to be hidden.</font>
+
+35
+00:02:59,304 --> 00:03:01,515
+<font face="Comic Sans MS">But that's not how
+the world broke.</font>
+
+36
+00:03:01,890 --> 00:03:05,102
+<font face="Comic Sans MS">That didn't truly happen
+until 500 years later,</font>
+
+37
+00:03:05,727 --> 00:03:07,312
+<font face="Comic Sans MS">when I came into the story.</font>
+
+38
+00:03:50,063 --> 00:03:51,064
+<font face="Comic Sans MS">Hmm.</font>
+
+39
+00:04:06,288 --> 00:04:07,289
+<font face="Comic Sans MS">Huh.</font>
+
+40
+00:04:07,581 --> 00:04:09,333
+<font face="Comic Sans MS">Looks like someone's trying
+to be clever.</font>
+
+41
+00:04:12,628 --> 00:04:13,754
+<font face="Comic Sans MS">All right, Tuk Tuk,</font>
+
+42
+00:04:13,837 --> 00:04:15,589
+<font face="Comic Sans MS">let's show 'em
+what clever really looks like.</font>
+
+43
+00:04:26,058 --> 00:04:27,142
+<font face="Comic Sans MS">Tuk Tuk!</font>
+
+44
+00:04:27,851 --> 00:04:28,894
+<font face="Comic Sans MS">Come on!</font>
+
+45
+00:04:29,019 --> 00:04:30,020
+<font face="Comic Sans MS">Focus!</font>
+
+46
+00:04:32,064 --> 00:04:33,065
+<font face="Comic Sans MS">Thank you.</font>
+
+47
+00:04:37,945 --> 00:04:40,405
+<font face="Comic Sans MS">Hey, bud, that was awesome.
+Give me some shell.</font>
+
+48
+00:04:42,241 --> 00:04:43,742
+<font face="Comic Sans MS">I got ya.</font>
+
+49
+00:05:28,871 --> 00:05:29,872
+<font face="Comic Sans MS">Whoa.</font>
+
+50
+00:05:34,042 --> 00:05:35,127
+<font face="Comic Sans MS">Wait a second.</font>
+
+51
+00:05:38,380 --> 00:05:40,257
+<font face="Comic Sans MS">This feels too easy.</font>
+
+52
+00:05:42,676 --> 00:05:44,344
+<font face="Comic Sans MS">Chief Benja.</font>
+
+53
+00:05:44,887 --> 00:05:47,431
+<font face="Comic Sans MS">I know it's your job
+to try and stop me, but</font>
+
+54
+00:05:47,973 --> 00:05:49,141
+<font face="Comic Sans MS">You won't.</font>
+
+55
+00:05:49,308 --> 00:05:51,977
+<font face="Comic Sans MS">Don't mistake spirit
+for skill, young one.</font>
+
+56
+00:05:52,144 --> 00:05:53,687
+<font face="Comic Sans MS">I promise
+you will not set foot</font>
+
+57
+00:05:53,770 --> 00:05:55,731
+<font face="Comic Sans MS">on the Dragon Gem's
+inner circle.</font>
+
+58
+00:05:56,064 --> 00:05:57,316
+<font face="Comic Sans MS">Not even a toe.</font>
+
+59
+00:05:57,649 --> 00:05:59,610
+<font face="Comic Sans MS">You might wanna take out
+that blade.</font>
+
+60
+00:05:59,693 --> 00:06:00,694
+<font face="Comic Sans MS">You're gonna need it.</font>
+
+61
+00:06:01,028 --> 00:06:02,029
+<font face="Comic Sans MS">Not today.</font>
+
+62
+00:06:37,606 --> 00:06:38,607
+<font face="Comic Sans MS">Boop.</font>
+
+63
+00:06:39,024 --> 00:06:42,819
+<font face="Comic Sans MS">Like I said, not one foot
+on the inner circle.</font>
+
+64
+00:06:43,654 --> 00:06:45,155
+<font face="Comic Sans MS">You lost, Raya.</font>
+
+65
+00:06:45,739 --> 00:06:46,740
+<font face="Comic Sans MS">Did I?</font>
+
+66
+00:06:50,035 --> 00:06:51,328
+<font face="Comic Sans MS">Raya...</font>
+
+67
+00:06:51,495 --> 00:06:53,455
+<font face="Comic Sans MS">I probably should have said
+2 feet.</font>
+
+68
+00:06:53,622 --> 00:06:56,792
+<font face="Comic Sans MS">Hey, don't beat yourself up
+too much, Chief Benja.</font>
+
+69
+00:06:56,959 --> 00:06:58,627
+<font face="Comic Sans MS">You gave it your best.</font>
+
+70
+00:06:58,752 --> 00:07:00,420
+<font face="Comic Sans MS">I won't.</font>
+
+71
+00:07:00,504 --> 00:07:03,090
+<font face="Comic Sans MS">And it's either "Father"
+or "Ba" to you.</font>
+
+72
+00:07:04,049 --> 00:07:07,636
+<font face="Comic Sans MS">You did good, dewdrop.
+You passed the test.</font>
+
+73
+00:07:10,848 --> 00:07:12,307
+<font face="Comic Sans MS">Wow.</font>
+
+74
+00:07:13,308 --> 00:07:15,894
+<font face="Comic Sans MS">The spirit of Sisu.</font>
+
+75
+00:07:23,610 --> 00:07:27,364
+<font face="Comic Sans MS">For generations, our family
+has sworn to protect the gem.</font>
+
+76
+00:07:28,323 --> 00:07:31,994
+<font face="Comic Sans MS">Today, you will join
+that legacy.</font>
+
+77
+00:07:32,995 --> 00:07:37,583
+<font face="Comic Sans MS">Raya, Princess of Heart,
+my daughter,</font>
+
+78
+00:07:38,166 --> 00:07:41,295
+<font face="Comic Sans MS">you are now
+a Guardian of the Dragon Gem.</font>
+
+79
+00:08:25,339 --> 00:08:26,757
+<font face="Comic Sans MS">Whoa. Ah...</font>
+
+80
+00:08:27,925 --> 00:08:29,259
+<font face="Comic Sans MS">Well, someone's excited.</font>
+
+81
+00:08:29,426 --> 00:08:30,677
+<font face="Comic Sans MS">Well, yeah!</font>
+
+82
+00:08:30,844 --> 00:08:33,055
+<font face="Comic Sans MS">I mean, anyone hoping
+to steal the Dragon Gem</font>
+
+83
+00:08:33,138 --> 00:08:34,640
+<font face="Comic Sans MS">now has to face the fury</font>
+
+84
+00:08:34,806 --> 00:08:38,268
+<font face="Comic Sans MS">of the two baddest blades
+in all the lands.</font>
+
+85
+00:08:38,352 --> 00:08:40,854
+<font face="Comic Sans MS">I'm glad
+you feel prepared, dewdrop,</font>
+
+86
+00:08:41,021 --> 00:08:43,565
+<font face="Comic Sans MS">because I have something
+important to tell you.</font>
+
+87
+00:08:43,732 --> 00:08:46,693
+<font face="Comic Sans MS">The other lands, they're on
+their way here, as we speak.</font>
+
+88
+00:08:46,860 --> 00:08:48,362
+<font face="Comic Sans MS">They are? Uh...</font>
+
+89
+00:08:48,779 --> 00:08:49,905
+<font face="Comic Sans MS">Okay.</font>
+
+90
+00:08:50,072 --> 00:08:52,574
+<font face="Comic Sans MS">Okay, no, we can do this.
+I'm ready.</font>
+
+91
+00:08:52,741 --> 00:08:54,785
+<font face="Comic Sans MS">I know exactly
+how we'll stop them.</font>
+
+92
+00:08:54,952 --> 00:08:57,788
+<font face="Comic Sans MS">Really? Tell me what you know
+about the other lands.</font>
+
+93
+00:08:58,121 --> 00:08:59,748
+<font face="Comic Sans MS">First... Tail.</font>
+
+94
+00:08:59,915 --> 00:09:02,751
+<font face="Comic Sans MS">A sweltering desert
+with sneaky mercenaries</font>
+
+95
+00:09:02,835 --> 00:09:04,711
+<font face="Comic Sans MS">who fight dirty.</font>
+
+96
+00:09:04,878 --> 00:09:06,171
+<font face="Comic Sans MS">Second, Talon.</font>
+
+97
+00:09:06,338 --> 00:09:08,674
+<font face="Comic Sans MS">A floating market famous
+for fast deals</font>
+
+98
+00:09:08,757 --> 00:09:10,551
+<font face="Comic Sans MS">and fighters
+with even faster hands.</font>
+
+99
+00:09:12,135 --> 00:09:13,554
+<font face="Comic Sans MS">Third, Spine.</font>
+
+100
+00:09:13,720 --> 00:09:15,514
+<font face="Comic Sans MS">A frigid bamboo forest</font>
+
+101
+00:09:15,681 --> 00:09:18,559
+<font face="Comic Sans MS">guarded by
+exceptionally large warriors,</font>
+
+102
+00:09:18,642 --> 00:09:20,853
+<font face="Comic Sans MS">and their giant axes.</font>
+
+103
+00:09:22,020 --> 00:09:25,232
+<font face="Comic Sans MS">Fourth, Fang.
+Our fiercest enemy.</font>
+
+104
+00:09:25,399 --> 00:09:27,568
+<font face="Comic Sans MS">A nation protected
+by angry assassins,</font>
+
+105
+00:09:27,651 --> 00:09:29,778
+<font face="Comic Sans MS">and their even angrier cats.</font>
+
+106
+00:09:32,781 --> 00:09:33,782
+<font face="Comic Sans MS">Okay,</font>
+
+107
+00:09:33,866 --> 00:09:37,202
+<font face="Comic Sans MS">so we're gonna need some
+crossbows and catapults and...</font>
+
+108
+00:09:37,286 --> 00:09:40,372
+<font face="Comic Sans MS">Ooh! What about
+flaming catapults?</font>
+
+109
+00:09:40,539 --> 00:09:44,626
+<font face="Comic Sans MS">Or, how about
+shrimp paste from Tail.</font>
+
+110
+00:09:44,793 --> 00:09:48,088
+<font face="Comic Sans MS">lemongrass from Talon,
+bamboo shoots from Spine,</font>
+
+111
+00:09:48,255 --> 00:09:51,508
+<font face="Comic Sans MS">chilis from Fang
+and palm sugar from Heart?</font>
+
+112
+00:09:51,675 --> 00:09:53,051
+<font face="Comic Sans MS">We'll poison them?</font>
+
+113
+00:09:53,218 --> 00:09:55,721
+<font face="Comic Sans MS">No, we're not going
+to poison them</font>
+
+114
+00:09:55,804 --> 00:09:57,389
+<font face="Comic Sans MS">and we're not going
+to fight them.</font>
+
+115
+00:09:57,556 --> 00:09:59,183
+<font face="Comic Sans MS">We're going to share a meal
+with them.</font>
+
+116
+00:09:59,349 --> 00:10:01,643
+<font face="Comic Sans MS">-Wait, what?
+-I invited them.</font>
+
+117
+00:10:01,810 --> 00:10:02,978
+<font face="Comic Sans MS">But they're our enemies.</font>
+
+118
+00:10:03,145 --> 00:10:04,396
+<font face="Comic Sans MS">They're only our enemies</font>
+
+119
+00:10:04,563 --> 00:10:06,440
+<font face="Comic Sans MS">because they think
+the Dragon Gem</font>
+
+120
+00:10:06,523 --> 00:10:08,192
+<font face="Comic Sans MS">magically brings
+us prosperity.</font>
+
+121
+00:10:08,358 --> 00:10:10,527
+<font face="Comic Sans MS">That's ridiculous.
+It doesn't do that.</font>
+
+122
+00:10:10,694 --> 00:10:12,237
+<font face="Comic Sans MS">They assume it does,</font>
+
+123
+00:10:12,321 --> 00:10:14,573
+<font face="Comic Sans MS">just like we assume things
+about them.</font>
+
+124
+00:10:15,490 --> 00:10:17,618
+<font face="Comic Sans MS">Raya, there's a reason why
+each land</font>
+
+125
+00:10:17,701 --> 00:10:20,245
+<font face="Comic Sans MS">is named after
+a part of the dragon.</font>
+
+126
+00:10:20,412 --> 00:10:23,999
+<font face="Comic Sans MS">We were once unified.
+Harmoniously as one.</font>
+
+127
+00:10:24,082 --> 00:10:25,083
+<font face="Comic Sans MS">Kumandra.</font>
+
+128
+00:10:25,459 --> 00:10:27,336
+<font face="Comic Sans MS">That's ancient history, Ba.</font>
+
+129
+00:10:27,586 --> 00:10:29,546
+<font face="Comic Sans MS">But it doesn't have to be.</font>
+
+130
+00:10:29,713 --> 00:10:31,465
+<font face="Comic Sans MS">Listen, if we don't stop</font>
+
+131
+00:10:31,548 --> 00:10:33,759
+<font face="Comic Sans MS">and learn to trust
+one another again,</font>
+
+132
+00:10:33,926 --> 00:10:35,052
+<font face="Comic Sans MS">it's only a matter of time</font>
+
+133
+00:10:35,135 --> 00:10:37,179
+<font face="Comic Sans MS">before we tear
+each other apart.</font>
+
+134
+00:10:37,804 --> 00:10:41,225
+<font face="Comic Sans MS">This isn't the world
+I want you to live in.</font>
+
+135
+00:10:43,185 --> 00:10:46,563
+<font face="Comic Sans MS">I believe that
+we can be Kumandra again.</font>
+
+136
+00:10:46,730 --> 00:10:49,441
+<font face="Comic Sans MS">But someone has to take
+the first step.</font>
+
+137
+00:10:53,028 --> 00:10:54,196
+<font face="Comic Sans MS">Trust me.</font>
+
+138
+00:11:14,633 --> 00:11:16,426
+<font face="Comic Sans MS">Things look
+a little tense, Ba.</font>
+
+139
+00:11:16,593 --> 00:11:18,679
+<font face="Comic Sans MS">Don't worry,
+I'm gonna open with a joke.</font>
+
+140
+00:11:18,846 --> 00:11:19,972
+<font face="Comic Sans MS">Please don't.</font>
+
+141
+00:11:20,138 --> 00:11:21,431
+<font face="Comic Sans MS">I'm kidding, I'm kidding.</font>
+
+142
+00:11:22,975 --> 00:11:25,185
+<font face="Comic Sans MS">People of Tail, Talon,</font>
+
+143
+00:11:25,269 --> 00:11:27,729
+<font face="Comic Sans MS">Spine, and Fang,</font>
+
+144
+00:11:27,896 --> 00:11:29,773
+<font face="Comic Sans MS">welcome to Heart.</font>
+
+145
+00:11:30,774 --> 00:11:33,318
+<font face="Comic Sans MS">For far too long,
+we have been enemies,</font>
+
+146
+00:11:33,402 --> 00:11:35,696
+<font face="Comic Sans MS">but today is a new day.</font>
+
+147
+00:11:36,154 --> 00:11:39,741
+<font face="Comic Sans MS">Today, we can be Kumandra
+once more.</font>
+
+148
+00:11:41,368 --> 00:11:43,745
+<font face="Comic Sans MS">Nice speech, Chief Benja.</font>
+
+149
+00:11:43,912 --> 00:11:45,539
+<font face="Comic Sans MS">But why'd you really
+bring us here?</font>
+
+150
+00:11:45,622 --> 00:11:46,623
+<font face="Comic Sans MS">Are you gonna rob us?</font>
+
+151
+00:11:46,832 --> 00:11:48,292
+<font face="Comic Sans MS">Why would he need to rob us?</font>
+
+152
+00:11:48,375 --> 00:11:50,627
+<font face="Comic Sans MS">The land of Heart
+already has everything.</font>
+
+153
+00:11:50,794 --> 00:11:53,130
+<font face="Comic Sans MS">Oh, it's easy to pontificate
+on Kumandra</font>
+
+154
+00:11:53,297 --> 00:11:55,174
+<font face="Comic Sans MS">when you hold the mightiest
+weapon in all the lands.</font>
+
+155
+00:11:56,341 --> 00:11:59,344
+<font face="Comic Sans MS">The gem's not a weapon.
+It's a sacred relic.</font>
+
+156
+00:11:59,511 --> 00:12:02,181
+<font face="Comic Sans MS">Kumandra!
+Kumandra's a joke!</font>
+
+157
+00:12:02,639 --> 00:12:03,932
+<font face="Comic Sans MS">He brought us all this way</font>
+
+158
+00:12:04,016 --> 00:12:05,767
+<font face="Comic Sans MS">to talk about fairy tales.</font>
+
+159
+00:12:05,934 --> 00:12:07,269
+<font face="Comic Sans MS">This is pointless!</font>
+
+160
+00:12:15,152 --> 00:12:16,612
+<font face="Comic Sans MS">I have something to say.</font>
+
+161
+00:12:21,491 --> 00:12:22,618
+<font face="Comic Sans MS">Who's hungry?</font>
+
+162
+00:12:25,120 --> 00:12:26,121
+<font face="Comic Sans MS">Oh.</font>
+
+163
+00:12:29,458 --> 00:12:30,876
+<font face="Comic Sans MS">Go ahead. It's all right.</font>
+
+164
+00:12:36,006 --> 00:12:38,258
+<font face="Comic Sans MS">I'm Namaari, of Fang.</font>
+
+165
+00:12:38,550 --> 00:12:41,470
+<font face="Comic Sans MS">Hi, Namaari. I'm Raya.</font>
+
+166
+00:12:42,804 --> 00:12:43,889
+<font face="Comic Sans MS">Is that Sisu?</font>
+
+167
+00:12:45,641 --> 00:12:47,392
+<font face="Comic Sans MS">Sorry, um, yeah,</font>
+
+168
+00:12:47,476 --> 00:12:50,187
+<font face="Comic Sans MS">I might be a little bit
+of a dragon nerd.</font>
+
+169
+00:12:50,354 --> 00:12:53,440
+<font face="Comic Sans MS">Hey, I'm the one wearing
+the Sisu fan necklace.</font>
+
+170
+00:12:53,857 --> 00:12:55,025
+<font face="Comic Sans MS">Come on.</font>
+
+171
+00:12:55,484 --> 00:12:56,610
+<font face="Comic Sans MS">Have you eaten yet?</font>
+
+172
+00:13:04,034 --> 00:13:06,161
+<font face="Comic Sans MS">Seriously?</font>
+
+173
+00:13:06,245 --> 00:13:08,080
+<font face="Comic Sans MS">Your mom actually said that?</font>
+
+174
+00:13:08,622 --> 00:13:11,041
+<font face="Comic Sans MS">Awkward.
+Okay, next question.</font>
+
+175
+00:13:11,208 --> 00:13:13,293
+<font face="Comic Sans MS">Hand-to-hand or swords?</font>
+
+176
+00:13:13,794 --> 00:13:16,004
+<font face="Comic Sans MS">- Blades all day.
+- Right?</font>
+
+177
+00:13:16,171 --> 00:13:18,423
+<font face="Comic Sans MS">Okay, dressy or casual?</font>
+
+178
+00:13:18,590 --> 00:13:19,925
+<font face="Comic Sans MS">Only a monster would choose</font>
+
+179
+00:13:20,008 --> 00:13:21,510
+<font face="Comic Sans MS">to wear this outfit
+on the regular.</font>
+
+180
+00:13:22,678 --> 00:13:24,429
+<font face="Comic Sans MS">Uh, rice or stew?</font>
+
+181
+00:13:26,265 --> 00:13:28,100
+<font face="Comic Sans MS">I didn't think
+that'd stump you.</font>
+
+182
+00:13:28,267 --> 00:13:30,936
+<font face="Comic Sans MS">Uh... This is actually
+one of the first times</font>
+
+183
+00:13:31,019 --> 00:13:32,062
+<font face="Comic Sans MS">I've had rice in awhile.</font>
+
+184
+00:13:32,938 --> 00:13:33,939
+<font face="Comic Sans MS">Really?</font>
+
+185
+00:13:34,106 --> 00:13:36,775
+<font face="Comic Sans MS">Fang may look nice
+on the outside,</font>
+
+186
+00:13:36,942 --> 00:13:40,028
+<font face="Comic Sans MS">but we have some pretty
+big holes on the inside.</font>
+
+187
+00:13:40,404 --> 00:13:41,405
+<font face="Comic Sans MS">Oh.</font>
+
+188
+00:13:41,738 --> 00:13:44,032
+<font face="Comic Sans MS">Sorry. Didn't mean
+to bring it down.</font>
+
+189
+00:13:44,199 --> 00:13:45,701
+<font face="Comic Sans MS">So, where were we?</font>
+
+190
+00:13:45,868 --> 00:13:47,119
+<font face="Comic Sans MS">We both have single parents</font>
+
+191
+00:13:47,202 --> 00:13:48,829
+<font face="Comic Sans MS">who are terrible
+at telling jokes.</font>
+
+192
+00:13:48,996 --> 00:13:50,581
+<font face="Comic Sans MS">We're both warrior women</font>
+
+193
+00:13:50,664 --> 00:13:52,332
+<font face="Comic Sans MS">who despise uncomfortable
+formal wear.</font>
+
+194
+00:13:52,499 --> 00:13:53,959
+<font face="Comic Sans MS">And we're both Sisu superfans.</font>
+
+195
+00:13:54,126 --> 00:13:55,252
+<font face="Comic Sans MS">Yeah.</font>
+
+196
+00:13:55,919 --> 00:14:00,132
+<font face="Comic Sans MS">You know, Fang legend says
+she's still out there.</font>
+
+197
+00:14:00,299 --> 00:14:02,968
+<font face="Comic Sans MS">Sisu? You're kidding, right?</font>
+
+198
+00:14:03,135 --> 00:14:04,928
+<font face="Comic Sans MS">Wanna see something?</font>
+
+199
+00:14:05,012 --> 00:14:07,264
+<font face="Comic Sans MS">Are you supposed to have that?</font>
+
+200
+00:14:07,431 --> 00:14:08,599
+<font face="Comic Sans MS">No.</font>
+
+201
+00:14:08,765 --> 00:14:09,850
+<font face="Comic Sans MS">According to this,</font>
+
+202
+00:14:10,809 --> 00:14:14,396
+<font face="Comic Sans MS">after the Mighty Sisu
+blasted away all the Druun,</font>
+
+203
+00:14:14,563 --> 00:14:17,566
+<font face="Comic Sans MS">she fell into the water
+and floated downstream.</font>
+
+204
+00:14:17,733 --> 00:14:20,903
+<font face="Comic Sans MS">Legends say she's now sleeping
+at the river's end.</font>
+
+205
+00:14:21,069 --> 00:14:24,031
+<font face="Comic Sans MS">But which river?
+There's, like, hundreds.</font>
+
+206
+00:14:24,114 --> 00:14:25,115
+<font face="Comic Sans MS">I don't know.</font>
+
+207
+00:14:25,240 --> 00:14:28,619
+<font face="Comic Sans MS">But if we could find it,
+could you imagine?</font>
+
+208
+00:14:28,785 --> 00:14:30,871
+<font face="Comic Sans MS">A dragon back in the world.</font>
+
+209
+00:14:31,455 --> 00:14:34,333
+<font face="Comic Sans MS">Things could be
+so much better.</font>
+
+210
+00:14:35,834 --> 00:14:36,835
+<font face="Comic Sans MS">Yeah.</font>
+
+211
+00:14:37,711 --> 00:14:41,006
+<font face="Comic Sans MS">Maybe we really could be
+Kumandra again.</font>
+
+212
+00:14:46,178 --> 00:14:47,221
+<font face="Comic Sans MS">Here.</font>
+
+213
+00:14:48,222 --> 00:14:49,223
+<font face="Comic Sans MS">Whoa.</font>
+
+214
+00:14:49,306 --> 00:14:50,307
+<font face="Comic Sans MS">Really?</font>
+
+215
+00:14:50,641 --> 00:14:53,268
+<font face="Comic Sans MS">From one dragon nerd
+to another.</font>
+
+216
+00:14:56,438 --> 00:14:57,439
+<font face="Comic Sans MS">Hmm.</font>
+
+217
+00:15:00,651 --> 00:15:01,652
+<font face="Comic Sans MS">Hey.</font>
+
+218
+00:15:01,735 --> 00:15:04,947
+<font face="Comic Sans MS">Come with me, dep la.
+I wanna show you something.</font>
+
+219
+00:15:26,635 --> 00:15:30,180
+<font face="Comic Sans MS">The spirit of Sisu.
+I can feel it.</font>
+
+220
+00:15:30,722 --> 00:15:31,890
+<font face="Comic Sans MS">It's the last bit
+of dragon magic</font>
+
+221
+00:15:31,974 --> 00:15:34,017
+<font face="Comic Sans MS">left in the whole world.</font>
+
+222
+00:15:35,310 --> 00:15:37,938
+<font face="Comic Sans MS">I see why
+Heart guards it so closely.</font>
+
+223
+00:15:38,605 --> 00:15:42,651
+<font face="Comic Sans MS">Thank you, dep la.
+You've been very helpful.</font>
+
+224
+00:15:45,237 --> 00:15:48,282
+<font face="Comic Sans MS">In a different world, maybe
+we could have been friends,</font>
+
+225
+00:15:48,448 --> 00:15:50,534
+<font face="Comic Sans MS">but I have to do
+what's right for Fang.</font>
+
+226
+00:16:14,057 --> 00:16:17,936
+<font face="Comic Sans MS">Chief Virana, I'm so glad
+Fang accepted our invitation.</font>
+
+227
+00:16:25,485 --> 00:16:26,486
+<font face="Comic Sans MS">Huh?</font>
+
+228
+00:16:29,114 --> 00:16:31,575
+<font face="Comic Sans MS">There is no way
+you're taking Sisu's gem.</font>
+
+229
+00:16:32,159 --> 00:16:34,912
+<font face="Comic Sans MS">Sorry. It's Fang's now.</font>
+
+230
+00:16:53,597 --> 00:16:57,392
+<font face="Comic Sans MS">You will not set foot on
+the Dragon Gem's inner circle.</font>
+
+231
+00:16:57,476 --> 00:16:58,477
+<font face="Comic Sans MS">What's going on?</font>
+
+232
+00:16:58,560 --> 00:16:59,645
+<font face="Comic Sans MS">What is this?</font>
+
+233
+00:16:59,811 --> 00:17:01,063
+<font face="Comic Sans MS">Fang's
+making a play for the gem!</font>
+
+234
+00:17:01,230 --> 00:17:02,648
+<font face="Comic Sans MS">No! Spine should have the gem!</font>
+
+235
+00:17:02,814 --> 00:17:04,149
+<font face="Comic Sans MS">Not if we get to it first!</font>
+
+236
+00:17:04,316 --> 00:17:05,817
+<font face="Comic Sans MS">Our blades say different.</font>
+
+237
+00:17:13,784 --> 00:17:14,910
+<font face="Comic Sans MS">Listen to me!</font>
+
+238
+00:17:15,077 --> 00:17:16,411
+<font face="Comic Sans MS">We have a choice.</font>
+
+239
+00:17:16,578 --> 00:17:18,956
+<font face="Comic Sans MS">We can tear each other apart,</font>
+
+240
+00:17:19,122 --> 00:17:23,293
+<font face="Comic Sans MS">or we can come together
+and build a better world.</font>
+
+241
+00:17:24,211 --> 00:17:26,088
+<font face="Comic Sans MS">It's not too late.</font>
+
+242
+00:17:26,255 --> 00:17:31,176
+<font face="Comic Sans MS">I still believe
+we can be Kumandra again.</font>
+
+243
+00:17:37,015 --> 00:17:38,016
+<font face="Comic Sans MS">Ba!</font>
+
+244
+00:17:38,183 --> 00:17:39,560
+<font face="Comic Sans MS">Out of my way!</font>
+
+245
+00:17:39,768 --> 00:17:41,144
+<font face="Comic Sans MS">The gem belongs to Spine!</font>
+
+246
+00:17:41,520 --> 00:17:42,980
+<font face="Comic Sans MS">Give me the gem!</font>
+
+247
+00:17:49,236 --> 00:17:51,446
+<font face="Comic Sans MS">No... No...</font>
+
+248
+00:18:08,589 --> 00:18:09,590
+<font face="Comic Sans MS">Druun.</font>
+
+249
+00:18:21,018 --> 00:18:22,311
+<font face="Comic Sans MS">There's still magic in them!</font>
+
+250
+00:18:22,477 --> 00:18:23,687
+<font face="Comic Sans MS">- Get the pieces!
+- No!</font>
+
+251
+00:18:29,902 --> 00:18:31,987
+<font face="Comic Sans MS">Ba! Come on, we have to go!</font>
+
+252
+00:18:39,912 --> 00:18:41,455
+<font face="Comic Sans MS">They're repelled by water.</font>
+
+253
+00:18:41,622 --> 00:18:43,165
+<font face="Comic Sans MS">Hurry! Get to the river!</font>
+
+254
+00:18:47,294 --> 00:18:49,171
+<font face="Comic Sans MS">Ba, get up! Come on!</font>
+
+255
+00:18:49,338 --> 00:18:51,548
+<font face="Comic Sans MS">Please, we have
+to keep moving.</font>
+
+256
+00:18:51,673 --> 00:18:52,674
+<font face="Comic Sans MS">Get up!</font>
+
+257
+00:18:56,512 --> 00:18:58,555
+<font face="Comic Sans MS">Ba! We don't have time!</font>
+
+258
+00:19:03,435 --> 00:19:05,521
+<font face="Comic Sans MS">Stand up! I'll help...</font>
+
+259
+00:19:05,687 --> 00:19:07,689
+<font face="Comic Sans MS">Raya, you have to listen.</font>
+
+260
+00:19:07,773 --> 00:19:10,067
+<font face="Comic Sans MS">You are the Guardian
+of the Dragon Gem.</font>
+
+261
+00:19:10,234 --> 00:19:11,693
+<font face="Comic Sans MS">Ba, why are you saying this?</font>
+
+262
+00:19:13,529 --> 00:19:16,073
+<font face="Comic Sans MS">There's still light in this.
+There's still hope.</font>
+
+263
+00:19:16,240 --> 00:19:18,575
+<font face="Comic Sans MS">No! We can make it together.</font>
+
+264
+00:19:20,035 --> 00:19:21,828
+<font face="Comic Sans MS">You're okay.</font>
+
+265
+00:19:21,995 --> 00:19:24,915
+<font face="Comic Sans MS">Raya.
+Don't give up on them.</font>
+
+266
+00:19:27,626 --> 00:19:30,003
+<font face="Comic Sans MS">I love you, my dewdrop.</font>
+
+267
+00:19:30,170 --> 00:19:31,171
+<font face="Comic Sans MS">Ba?</font>
+
+268
+00:19:31,338 --> 00:19:32,798
+<font face="Comic Sans MS">No!</font>
+
+269
+00:19:52,109 --> 00:19:53,318
+<font face="Comic Sans MS">Ba!</font>
+
+270
+00:19:59,575 --> 00:20:00,701
+<font face="Comic Sans MS">Ba.</font>
+
+271
+00:21:33,335 --> 00:21:35,128
+<font face="Comic Sans MS">Please let this be it.</font>
+
+272
+00:21:36,171 --> 00:21:37,881
+<font face="Comic Sans MS">Whoa!</font>
+
+273
+00:21:37,965 --> 00:21:40,217
+<font face="Comic Sans MS">What are you doing,
+you big fur bug?</font>
+
+274
+00:21:40,425 --> 00:21:42,719
+<font face="Comic Sans MS">Hey, buddy, focus.</font>
+
+275
+00:21:42,886 --> 00:21:44,847
+<font face="Comic Sans MS">Eyes forward, Tuk Tuk.</font>
+
+276
+00:21:45,389 --> 00:21:46,723
+<font face="Comic Sans MS">Good boy.</font>
+
+277
+00:21:47,474 --> 00:21:48,934
+<font face="Comic Sans MS">You're so easily distracted.</font>
+
+278
+00:22:11,999 --> 00:22:13,750
+<font face="Comic Sans MS">You're getting a little
+too big for this, bud.</font>
+
+279
+00:22:26,096 --> 00:22:27,723
+<font face="Comic Sans MS">6 years of searching</font>
+
+280
+00:22:27,806 --> 00:22:31,393
+<font face="Comic Sans MS">and we end up
+at a literal shipwreck.</font>
+
+281
+00:22:34,646 --> 00:22:36,565
+<font face="Comic Sans MS">That's not a bad sign, is it?</font>
+
+282
+00:23:26,865 --> 00:23:28,367
+<font face="Comic Sans MS">Sisudatu...</font>
+
+283
+00:23:29,284 --> 00:23:30,577
+<font face="Comic Sans MS">Um...</font>
+
+284
+00:23:30,661 --> 00:23:32,329
+<font face="Comic Sans MS">I don't know
+if you're listening.</font>
+
+285
+00:23:33,080 --> 00:23:36,500
+<font face="Comic Sans MS">I've searched every river
+to find you,</font>
+
+286
+00:23:37,918 --> 00:23:40,963
+<font face="Comic Sans MS">and now I'm here
+at the very last one.</font>
+
+287
+00:23:43,924 --> 00:23:46,844
+<font face="Comic Sans MS">Look, there's not
+a lot of us left,</font>
+
+288
+00:23:48,303 --> 00:23:51,431
+<font face="Comic Sans MS">and we really...
+We really need your help.</font>
+
+289
+00:23:53,767 --> 00:23:55,727
+<font face="Comic Sans MS">If I can be honest,</font>
+
+290
+00:23:56,478 --> 00:23:58,438
+<font face="Comic Sans MS">I really need your help.</font>
+
+291
+00:24:00,315 --> 00:24:02,693
+<font face="Comic Sans MS">I made a mistake.</font>
+
+292
+00:24:02,860 --> 00:24:05,195
+<font face="Comic Sans MS">I trusted someone
+I shouldn't have, and...</font>
+
+293
+00:24:06,864 --> 00:24:08,699
+<font face="Comic Sans MS">...now the world's broken.</font>
+
+294
+00:24:12,953 --> 00:24:14,413
+<font face="Comic Sans MS">Sisudatu...</font>
+
+295
+00:24:16,331 --> 00:24:20,169
+<font face="Comic Sans MS">I just really, really
+want my Ba back.</font>
+
+296
+00:24:22,421 --> 00:24:24,047
+<font face="Comic Sans MS">Please.</font>
+
+297
+00:24:33,432 --> 00:24:34,433
+<font face="Comic Sans MS">Okay...</font>
+
+298
+00:24:38,854 --> 00:24:41,106
+<font face="Comic Sans MS">Here goes everything.</font>
+
+299
+00:24:43,609 --> 00:24:45,944
+<font face="Comic Sans MS">Suvaa de draa sim</font>
+
+300
+00:24:46,737 --> 00:24:49,072
+<font face="Comic Sans MS">Mandra de draa lim</font>
+
+301
+00:24:50,073 --> 00:24:53,785
+<font face="Comic Sans MS">Bavaa de draa
+Tomben</font>
+
+302
+00:25:16,099 --> 00:25:18,101
+<font face="Comic Sans MS">I know, buddy,
+I haven't forgot...</font>
+
+303
+00:25:35,744 --> 00:25:37,496
+<font face="Comic Sans MS">Oh, my... Where am I?</font>
+
+304
+00:25:37,663 --> 00:25:41,291
+<font face="Comic Sans MS">Pengu? Amba? Pranee?
+Are you here?</font>
+
+305
+00:25:41,458 --> 00:25:42,459
+<font face="Comic Sans MS">Oh, Mighty Sisu.</font>
+
+306
+00:25:42,626 --> 00:25:43,961
+<font face="Comic Sans MS">Who said that?</font>
+
+307
+00:25:45,379 --> 00:25:46,505
+<font face="Comic Sans MS">Hello?</font>
+
+308
+00:25:48,298 --> 00:25:49,299
+<font face="Comic Sans MS">Hello?</font>
+
+309
+00:25:49,383 --> 00:25:51,260
+<font face="Comic Sans MS">Oh!</font>
+
+310
+00:25:51,343 --> 00:25:53,011
+<font face="Comic Sans MS">Oh, I'm sorry.
+I didn't see you there.</font>
+
+311
+00:25:53,095 --> 00:25:54,721
+<font face="Comic Sans MS">Not too bad.
+Just a little dusty.</font>
+
+312
+00:25:54,805 --> 00:25:56,139
+<font face="Comic Sans MS">Let me get that for ya.</font>
+
+313
+00:25:56,223 --> 00:25:57,349
+<font face="Comic Sans MS">Sisu?</font>
+
+314
+00:25:57,891 --> 00:26:01,061
+<font face="Comic Sans MS">You are Sisu?</font>
+
+315
+00:26:01,228 --> 00:26:03,146
+<font face="Comic Sans MS">And you're people.</font>
+
+316
+00:26:03,313 --> 00:26:04,398
+<font face="Comic Sans MS">What's your name?</font>
+
+317
+00:26:04,481 --> 00:26:05,482
+<font face="Comic Sans MS">Raya. I'm Raya.</font>
+
+318
+00:26:05,649 --> 00:26:08,902
+<font face="Comic Sans MS">And you're not made of stone,
+which means...</font>
+
+319
+00:26:08,986 --> 00:26:09,987
+<font face="Comic Sans MS">It worked!</font>
+
+320
+00:26:10,070 --> 00:26:11,071
+<font face="Comic Sans MS">We did it!</font>
+
+321
+00:26:11,154 --> 00:26:13,156
+<font face="Comic Sans MS">You hear that, Pengu?
+It worked!</font>
+
+322
+00:26:13,323 --> 00:26:14,658
+<font face="Comic Sans MS">I didn't mess it up!</font>
+
+323
+00:26:15,033 --> 00:26:16,118
+<font face="Comic Sans MS">Is that food?</font>
+
+324
+00:26:16,285 --> 00:26:17,744
+<font face="Comic Sans MS">I was so focused
+on saving the world,</font>
+
+325
+00:26:17,828 --> 00:26:19,079
+<font face="Comic Sans MS">I forgot to have
+breakfast today.</font>
+
+326
+00:26:19,454 --> 00:26:20,664
+<font face="Comic Sans MS">Today?</font>
+
+327
+00:26:20,831 --> 00:26:23,000
+<font face="Comic Sans MS">When exactly
+do you think today is?</font>
+
+328
+00:26:23,166 --> 00:26:24,168
+<font face="Comic Sans MS">Tuesday.</font>
+
+329
+00:26:25,669 --> 00:26:27,379
+<font face="Comic Sans MS">I mean...
+Mmm.</font>
+
+330
+00:26:27,546 --> 00:26:29,756
+<font face="Comic Sans MS">What is this delightful
+culinary treat?</font>
+
+331
+00:26:29,923 --> 00:26:34,261
+<font face="Comic Sans MS">It's jackfruit jerky.
+I dried it myself.</font>
+
+332
+00:26:34,428 --> 00:26:36,972
+<font face="Comic Sans MS">Well, compliments to the chef.</font>
+
+333
+00:26:37,055 --> 00:26:38,056
+<font face="Comic Sans MS">Wanna finish this, Skippy?</font>
+
+334
+00:26:39,224 --> 00:26:40,225
+<font face="Comic Sans MS">Uh...</font>
+
+335
+00:26:40,309 --> 00:26:44,229
+<font face="Comic Sans MS">Sisu, there are a few things
+I need to catch you up on.</font>
+
+336
+00:26:44,396 --> 00:26:45,397
+<font face="Comic Sans MS">Oh, yeah?</font>
+
+337
+00:26:46,398 --> 00:26:47,858
+<font face="Comic Sans MS">You broke it?</font>
+
+338
+00:26:49,276 --> 00:26:52,571
+<font face="Comic Sans MS">Oh, oh. Oh, my. This is bad.
+This is bad.</font>
+
+339
+00:26:52,738 --> 00:26:54,656
+<font face="Comic Sans MS">I've been asleep
+for 500 years,</font>
+
+340
+00:26:54,823 --> 00:26:56,491
+<font face="Comic Sans MS">you brought back
+the Druun,</font>
+
+341
+00:26:56,658 --> 00:26:58,035
+<font face="Comic Sans MS">and none of my brothers
+and sisters came back.</font>
+
+342
+00:26:58,202 --> 00:26:59,536
+<font face="Comic Sans MS">Why didn't they come back?</font>
+
+343
+00:26:59,703 --> 00:27:00,787
+<font face="Comic Sans MS">I don't know.</font>
+
+344
+00:27:00,954 --> 00:27:02,289
+<font face="Comic Sans MS">Also, you broke the gem!</font>
+
+345
+00:27:02,456 --> 00:27:04,249
+<font face="Comic Sans MS">But I still have
+a big chunk of it, though.</font>
+
+346
+00:27:04,416 --> 00:27:05,959
+<font face="Comic Sans MS">Is that supposed
+to make me feel better?</font>
+
+347
+00:27:06,126 --> 00:27:08,253
+<font face="Comic Sans MS">If you lost a puppy,
+and I said...</font>
+
+348
+00:27:08,420 --> 00:27:10,130
+<font face="Comic Sans MS">"Well, we still
+have a big chunk of it!"</font>
+
+349
+00:27:10,297 --> 00:27:12,841
+<font face="Comic Sans MS">Would that make you
+feel better?</font>
+
+350
+00:27:13,008 --> 00:27:14,676
+<font face="Comic Sans MS">Can't you just make
+another one?</font>
+
+351
+00:27:14,843 --> 00:27:16,678
+<font face="Comic Sans MS">No, I can't just
+"make another one."</font>
+
+352
+00:27:16,845 --> 00:27:18,722
+<font face="Comic Sans MS">But you're a dragon.</font>
+
+353
+00:27:19,431 --> 00:27:21,016
+<font face="Comic Sans MS">I'm gonna be real
+with you, all right?</font>
+
+354
+00:27:21,183 --> 00:27:24,853
+<font face="Comic Sans MS">I'm not, like,
+the best dragon, ya know?</font>
+
+355
+00:27:25,020 --> 00:27:27,147
+<font face="Comic Sans MS">But you saved the world.</font>
+
+356
+00:27:27,314 --> 00:27:29,691
+<font face="Comic Sans MS">I did do that. That's true.</font>
+
+357
+00:27:29,858 --> 00:27:31,318
+<font face="Comic Sans MS">But have you ever done
+like a group project,</font>
+
+358
+00:27:31,401 --> 00:27:32,402
+<font face="Comic Sans MS">but there's, like,
+that one kid</font>
+
+359
+00:27:32,486 --> 00:27:33,570
+<font face="Comic Sans MS">who didn't pitch in as much,</font>
+
+360
+00:27:33,654 --> 00:27:35,906
+<font face="Comic Sans MS">but still ended up
+with the same grade?</font>
+
+361
+00:27:36,740 --> 00:27:39,535
+<font face="Comic Sans MS">Yeah, I wasn't the one
+who actually made the gem.</font>
+
+362
+00:27:39,743 --> 00:27:41,662
+<font face="Comic Sans MS">I just turned it in.</font>
+
+363
+00:27:43,789 --> 00:27:44,998
+<font face="Comic Sans MS">Whoa. Uh...</font>
+
+364
+00:27:45,082 --> 00:27:47,084
+<font face="Comic Sans MS">You're glowing.</font>
+
+365
+00:27:47,167 --> 00:27:48,710
+<font face="Comic Sans MS">Oh, thank you.</font>
+
+366
+00:27:48,877 --> 00:27:50,504
+<font face="Comic Sans MS">I use aloe and river slime
+to maintain my...</font>
+
+367
+00:27:50,587 --> 00:27:52,297
+<font face="Comic Sans MS">No, no. Look!</font>
+
+368
+00:27:52,506 --> 00:27:55,384
+<font face="Comic Sans MS">Oh! This is my little sister
+Amba's magic.</font>
+
+369
+00:27:55,509 --> 00:27:56,677
+<font face="Comic Sans MS">I got the glow!</font>
+
+370
+00:27:56,844 --> 00:27:58,011
+<font face="Comic Sans MS">Your little sister's magic?</font>
+
+371
+00:27:58,220 --> 00:27:59,972
+<font face="Comic Sans MS">Yeah, every dragon
+has a unique magic.</font>
+
+372
+00:28:00,138 --> 00:28:01,223
+<font face="Comic Sans MS">Okay, what's yours?</font>
+
+373
+00:28:01,390 --> 00:28:05,018
+<font face="Comic Sans MS">I'm a really strong swimmer.</font>
+
+374
+00:28:05,769 --> 00:28:07,688
+<font face="Comic Sans MS">Wait, wait, wait,
+you touched this gem piece</font>
+
+375
+00:28:07,771 --> 00:28:08,772
+<font face="Comic Sans MS">and it gave you powers.</font>
+
+376
+00:28:08,939 --> 00:28:10,691
+<font face="Comic Sans MS">You know what
+this means, right?</font>
+
+377
+00:28:10,858 --> 00:28:12,693
+<font face="Comic Sans MS">I no longer need
+a night light?</font>
+
+378
+00:28:12,776 --> 00:28:15,904
+<font face="Comic Sans MS">What? No!
+You're still connected to the gem's magic,</font>
+
+379
+00:28:15,988 --> 00:28:17,322
+<font face="Comic Sans MS">and that means
+you can still use it</font>
+
+380
+00:28:17,406 --> 00:28:18,407
+<font face="Comic Sans MS">to save the world.</font>
+
+381
+00:28:18,615 --> 00:28:20,117
+<font face="Comic Sans MS">If we can get
+all the other gem pieces...</font>
+
+382
+00:28:20,200 --> 00:28:21,577
+<font face="Comic Sans MS">- I can reassemble it...
+- ...you can reassemble it...</font>
+
+383
+00:28:21,660 --> 00:28:23,328
+<font face="Comic Sans MS">...and boom
+the Druun away!</font>
+
+384
+00:28:23,954 --> 00:28:25,038
+<font face="Comic Sans MS">And bring my Ba back?</font>
+
+385
+00:28:25,205 --> 00:28:27,374
+<font face="Comic Sans MS">And bring
+all of Kumandra back.</font>
+
+386
+00:29:03,535 --> 00:29:04,536
+<font face="Comic Sans MS">Princess Namaari,</font>
+
+387
+00:29:04,620 --> 00:29:06,413
+<font face="Comic Sans MS">the Tail lands
+are infested with Druun.</font>
+
+388
+00:29:06,580 --> 00:29:08,874
+<font face="Comic Sans MS">Benja's daughter is as good
+as stone out here.</font>
+
+389
+00:29:08,957 --> 00:29:11,793
+<font face="Comic Sans MS">Retrieving
+some useless dragon scroll</font>
+
+390
+00:29:11,877 --> 00:29:13,670
+<font face="Comic Sans MS">isn't worth the risk.</font>
+
+391
+00:29:17,966 --> 00:29:20,427
+<font face="Comic Sans MS">Anyone else wanna question
+why we're out here?</font>
+
+392
+00:29:37,194 --> 00:29:38,862
+<font face="Comic Sans MS">Okay, so here's the sitch.</font>
+
+393
+00:29:39,029 --> 00:29:40,697
+<font face="Comic Sans MS">After the gem broke,
+each piece was taken</font>
+
+394
+00:29:40,781 --> 00:29:42,699
+<font face="Comic Sans MS">by one of the chiefs
+of the five lands,</font>
+
+395
+00:29:43,158 --> 00:29:46,537
+<font face="Comic Sans MS">Fang, Heart, Spine, Talon,
+and Tail.</font>
+
+396
+00:29:46,745 --> 00:29:48,205
+<font face="Comic Sans MS">Where we are now.</font>
+
+397
+00:29:50,582 --> 00:29:52,209
+<font face="Comic Sans MS">Wow. So many questions.</font>
+
+398
+00:29:52,543 --> 00:29:54,711
+<font face="Comic Sans MS">First one,
+why am I wearing this?</font>
+
+399
+00:29:54,878 --> 00:29:57,589
+<font face="Comic Sans MS">Well, we don't want
+to attract attention.</font>
+
+400
+00:29:57,881 --> 00:29:59,883
+<font face="Comic Sans MS">Oh, you definitely chose
+the right hat for that.</font>
+
+401
+00:30:00,634 --> 00:30:01,885
+<font face="Comic Sans MS">So, what makes you think
+the Tail chief's here?</font>
+
+402
+00:30:08,058 --> 00:30:11,520
+<font face="Comic Sans MS">Because this place
+didn't just booby-trap itself.</font>
+
+403
+00:30:15,858 --> 00:30:17,192
+<font face="Comic Sans MS">This doesn't make sense.</font>
+
+404
+00:30:17,359 --> 00:30:18,819
+<font face="Comic Sans MS">None of this
+would stop a Druun.</font>
+
+405
+00:30:19,027 --> 00:30:21,446
+<font face="Comic Sans MS">It's not to stop Druun.
+It's to stop people.</font>
+
+406
+00:30:21,530 --> 00:30:22,614
+<font face="Comic Sans MS">Hmm.</font>
+
+407
+00:30:32,082 --> 00:30:33,125
+<font face="Comic Sans MS">What?</font>
+
+408
+00:30:33,292 --> 00:30:35,043
+<font face="Comic Sans MS">Why are you looking at me
+like that?</font>
+
+409
+00:30:35,127 --> 00:30:37,337
+<font face="Comic Sans MS">Nothing.</font>
+
+410
+00:30:37,504 --> 00:30:39,590
+<font face="Comic Sans MS">I'm just not used to
+seeing dragons.</font>
+
+411
+00:30:39,673 --> 00:30:42,593
+<font face="Comic Sans MS">Impressed, huh? Wait until
+you see my backstroke.</font>
+
+412
+00:30:42,759 --> 00:30:44,595
+<font face="Comic Sans MS">I'm wicked
+when I hit that liquid.</font>
+
+413
+00:30:44,761 --> 00:30:46,555
+<font face="Comic Sans MS">I got water skills that kill.</font>
+
+414
+00:30:46,722 --> 00:30:48,724
+<font face="Comic Sans MS">I slaughter
+when I hit the water.</font>
+
+415
+00:30:49,057 --> 00:30:52,853
+<font face="Comic Sans MS">I'm, like, really good
+at swimming, through rhyme.</font>
+
+416
+00:30:53,020 --> 00:30:54,021
+<font face="Comic Sans MS">I was trying to make that...</font>
+
+417
+00:30:54,104 --> 00:30:55,147
+<font face="Comic Sans MS">That I'm really good
+at swim...</font>
+
+418
+00:30:55,314 --> 00:30:57,191
+<font face="Comic Sans MS">I'm a good swimmer,
+is basically what I'm...</font>
+
+419
+00:30:57,357 --> 00:30:59,610
+<font face="Comic Sans MS">Okay, um,
+we need to keep going.</font>
+
+420
+00:31:04,865 --> 00:31:06,700
+<font face="Comic Sans MS">- Oh, no!
+- What? What is it?</font>
+
+421
+00:31:06,867 --> 00:31:09,411
+<font face="Comic Sans MS">We forgot to bring a gift
+for the Tail chief.</font>
+
+422
+00:31:09,578 --> 00:31:10,829
+<font face="Comic Sans MS">I'm sorry. A gift?</font>
+
+423
+00:31:10,996 --> 00:31:12,456
+<font face="Comic Sans MS">Yeah. A gift says,</font>
+
+424
+00:31:12,539 --> 00:31:15,125
+<font face="Comic Sans MS">"You can trust me,
+can I trust you?"</font>
+
+425
+00:31:17,294 --> 00:31:19,546
+<font face="Comic Sans MS">Aw. Hey there,
+little fella.</font>
+
+426
+00:31:20,714 --> 00:31:22,049
+<font face="Comic Sans MS">This beetle's got a booty.</font>
+
+427
+00:31:22,216 --> 00:31:24,384
+<font face="Comic Sans MS">Uh... Careful.
+It's a Toot N Boom.</font>
+
+428
+00:31:24,551 --> 00:31:25,802
+<font face="Comic Sans MS">Why is it called a...</font>
+
+429
+00:31:29,348 --> 00:31:31,558
+<font face="Comic Sans MS">Got it. Noted. Makes sense.</font>
+
+430
+00:31:37,564 --> 00:31:39,066
+<font face="Comic Sans MS">Uh...</font>
+
+431
+00:31:39,149 --> 00:31:40,150
+<font face="Comic Sans MS">You have to admit though,</font>
+
+432
+00:31:40,234 --> 00:31:41,777
+<font face="Comic Sans MS">these bug booties
+are kind of cute.</font>
+
+433
+00:31:50,077 --> 00:31:52,246
+<font face="Comic Sans MS">I'd say
+we found the Tail chief.</font>
+
+434
+00:31:52,412 --> 00:31:53,789
+<font face="Comic Sans MS">What happened to her?</font>
+
+435
+00:31:53,956 --> 00:31:54,998
+<font face="Comic Sans MS">From the looks of it,</font>
+
+436
+00:31:55,165 --> 00:31:56,583
+<font face="Comic Sans MS">she was hoarding the gem</font>
+
+437
+00:31:56,667 --> 00:31:58,710
+<font face="Comic Sans MS">and became a victim
+of her own traps.</font>
+
+438
+00:31:58,877 --> 00:32:01,129
+<font face="Comic Sans MS">Well, you gotta admire
+her commitment.</font>
+
+439
+00:32:05,217 --> 00:32:07,219
+<font face="Comic Sans MS">Okay. Hold on.</font>
+
+440
+00:32:11,014 --> 00:32:13,100
+<font face="Comic Sans MS">Oh, we were doing
+a jumpy thing!</font>
+
+441
+00:32:13,267 --> 00:32:14,643
+<font face="Comic Sans MS">So sorry. My bad.</font>
+
+442
+00:32:14,726 --> 00:32:16,770
+<font face="Comic Sans MS">I get it now. I'm with it.</font>
+
+443
+00:32:23,402 --> 00:32:24,486
+<font face="Comic Sans MS">Sisu...</font>
+
+444
+00:32:24,820 --> 00:32:26,029
+<font face="Comic Sans MS">don't.</font>
+
+445
+00:32:52,014 --> 00:32:53,557
+<font face="Comic Sans MS">Two down, three to go.</font>
+
+446
+00:32:59,563 --> 00:33:02,024
+<font face="Comic Sans MS">I just shapechanged!
+Into people!</font>
+
+447
+00:33:02,191 --> 00:33:03,525
+<font face="Comic Sans MS">A Dragons can do that?</font>
+
+448
+00:33:03,692 --> 00:33:05,569
+<font face="Comic Sans MS">This was my sister
+Pranee's thing.</font>
+
+449
+00:33:05,736 --> 00:33:08,405
+<font face="Comic Sans MS">Look at my people arms
+and my people face.</font>
+
+450
+00:33:08,572 --> 00:33:10,657
+<font face="Comic Sans MS">Look how close my butt is
+to my head.</font>
+
+451
+00:33:11,200 --> 00:33:12,618
+<font face="Comic Sans MS">Now that
+you don't have to hide me,</font>
+
+452
+00:33:12,784 --> 00:33:14,703
+<font face="Comic Sans MS">getting the rest of the gems
+is gonna be a breeze.</font>
+
+453
+00:33:14,870 --> 00:33:17,122
+<font face="Comic Sans MS">Yeah, well, this one was easy,</font>
+
+454
+00:33:17,206 --> 00:33:18,665
+<font face="Comic Sans MS">but the rest of them
+are being held</font>
+
+455
+00:33:18,832 --> 00:33:21,793
+<font face="Comic Sans MS">by a bunch
+of no-good Binturis.</font>
+
+456
+00:33:21,960 --> 00:33:23,253
+<font face="Comic Sans MS">Binturi?</font>
+
+457
+00:33:23,545 --> 00:33:26,590
+<font face="Comic Sans MS">That's not a very nice way
+to describe an old friend.</font>
+
+458
+00:33:29,426 --> 00:33:30,719
+<font face="Comic Sans MS">Namaari.</font>
+
+459
+00:33:30,886 --> 00:33:32,638
+<font face="Comic Sans MS">What's drippin', dep la?</font>
+
+460
+00:33:32,804 --> 00:33:35,390
+<font face="Comic Sans MS">Oh, I see you've finally
+made a new friend.</font>
+
+461
+00:33:35,557 --> 00:33:36,892
+<font face="Comic Sans MS">And here I was worried</font>
+
+462
+00:33:36,975 --> 00:33:39,144
+<font face="Comic Sans MS">you were gonna end up
+becoming a cat lady</font>
+
+463
+00:33:39,561 --> 00:33:40,562
+<font face="Comic Sans MS">like me.</font>
+
+464
+00:33:42,147 --> 00:33:43,899
+<font face="Comic Sans MS">Something tells me
+you're not besties.</font>
+
+465
+00:33:44,066 --> 00:33:47,236
+<font face="Comic Sans MS">Stealing Dragon Gem pieces,
+are we? Why?</font>
+
+466
+00:33:47,402 --> 00:33:50,113
+<font face="Comic Sans MS">What can I say?
+Bling is my thing.</font>
+
+467
+00:33:50,364 --> 00:33:51,365
+<font face="Comic Sans MS">Hmm.</font>
+
+468
+00:33:51,448 --> 00:33:54,159
+<font face="Comic Sans MS">I gotta admit, Raya,
+until a few months ago,</font>
+
+469
+00:33:54,326 --> 00:33:55,577
+<font face="Comic Sans MS">I thought you were stone.</font>
+
+470
+00:33:55,661 --> 00:33:58,455
+<font face="Comic Sans MS">But then, someone stole
+Fang's dragon scroll.</font>
+
+471
+00:33:58,622 --> 00:34:00,582
+<font face="Comic Sans MS">Oh, is that why
+you're chasing me?</font>
+
+472
+00:34:00,791 --> 00:34:03,126
+<font face="Comic Sans MS">And here I thought
+it was because you missed me.</font>
+
+473
+00:34:05,504 --> 00:34:08,715
+<font face="Comic Sans MS">Are you really looking
+for Sisu?</font>
+
+474
+00:34:10,300 --> 00:34:11,468
+<font face="Comic Sans MS">What are you, 12?</font>
+
+475
+00:34:11,677 --> 00:34:14,221
+<font face="Comic Sans MS">Yeah, I actually was looking
+for Sisu.</font>
+
+476
+00:34:14,388 --> 00:34:16,932
+<font face="Comic Sans MS">Oh, and guess what?
+I found her.</font>
+
+477
+00:34:18,433 --> 00:34:19,810
+<font face="Comic Sans MS">Say hi, Sisu.</font>
+
+478
+00:34:19,893 --> 00:34:20,936
+<font face="Comic Sans MS">Hi!</font>
+
+479
+00:34:21,019 --> 00:34:22,312
+<font face="Comic Sans MS">It's very nice to meet you,</font>
+
+480
+00:34:22,396 --> 00:34:26,108
+<font face="Comic Sans MS">and I love your hair
+and your cats' hair.</font>
+
+481
+00:34:27,276 --> 00:34:28,402
+<font face="Comic Sans MS">Take them.</font>
+
+482
+00:34:38,954 --> 00:34:39,955
+<font face="Comic Sans MS">Run!</font>
+
+483
+00:34:43,292 --> 00:34:44,626
+<font face="Comic Sans MS">Not like that! Two legs!</font>
+
+484
+00:34:44,710 --> 00:34:45,711
+<font face="Comic Sans MS">Right!</font>
+
+485
+00:35:01,935 --> 00:35:03,270
+<font face="Comic Sans MS">Tuk Tuk! Roll!</font>
+
+486
+00:35:06,356 --> 00:35:07,357
+<font face="Comic Sans MS">Whoa!</font>
+
+487
+00:35:15,741 --> 00:35:16,742
+<font face="Comic Sans MS">Jump!</font>
+
+488
+00:35:18,619 --> 00:35:19,661
+<font face="Comic Sans MS">Who was that girl?</font>
+
+489
+00:35:19,786 --> 00:35:20,787
+<font face="Comic Sans MS">That's Namaari.</font>
+
+490
+00:35:20,954 --> 00:35:23,999
+<font face="Comic Sans MS">She's the backstabbing Binturi
+that broke the world.</font>
+
+491
+00:35:32,466 --> 00:35:35,093
+<font face="Comic Sans MS">Wow, those cats
+are really fast, huh?</font>
+
+492
+00:35:36,303 --> 00:35:38,263
+<font face="Comic Sans MS">What do cats and Druun
+have in common?</font>
+
+493
+00:35:38,347 --> 00:35:41,558
+<font face="Comic Sans MS">Um... They have no souls?</font>
+
+494
+00:35:41,808 --> 00:35:44,061
+<font face="Comic Sans MS">And they both hate water.</font>
+
+495
+00:35:44,186 --> 00:35:45,646
+<font face="Comic Sans MS">- Oh.
+- Hold on!</font>
+
+496
+00:35:58,617 --> 00:36:00,536
+<font face="Comic Sans MS">Hello? Is anybody here?</font>
+
+497
+00:36:04,665 --> 00:36:06,583
+<font face="Comic Sans MS">Welcome to the world-famous
+Shrimp-orium.</font>
+
+498
+00:36:06,750 --> 00:36:08,919
+<font face="Comic Sans MS">My name is Boun.
+I'll be your server today.</font>
+
+499
+00:36:09,086 --> 00:36:10,629
+<font face="Comic Sans MS">Would you like to hear
+our daily specials?</font>
+
+500
+00:36:10,796 --> 00:36:11,880
+<font face="Comic Sans MS">Yes, please!</font>
+
+501
+00:36:11,964 --> 00:36:13,382
+<font face="Comic Sans MS">We got shrimp, we got congee.</font>
+
+502
+00:36:13,465 --> 00:36:15,384
+<font face="Comic Sans MS">We got a shrimp congee
+that won't quit.</font>
+
+503
+00:36:15,551 --> 00:36:17,135
+<font face="Comic Sans MS">The captain,
+where is the captain?</font>
+
+504
+00:36:17,302 --> 00:36:18,595
+<font face="Comic Sans MS">Let me go get him.</font>
+
+505
+00:36:20,305 --> 00:36:22,015
+<font face="Comic Sans MS">What's up, my new customers?</font>
+
+506
+00:36:22,182 --> 00:36:23,642
+<font face="Comic Sans MS">I'm Captain Boun,</font>
+
+507
+00:36:23,809 --> 00:36:26,436
+<font face="Comic Sans MS">the owner, chef,
+and chief financial officer</font>
+
+508
+00:36:26,520 --> 00:36:28,146
+<font face="Comic Sans MS">of the Shrimp-orium.</font>
+
+509
+00:36:28,230 --> 00:36:29,231
+<font face="Comic Sans MS">How can I help you?</font>
+
+510
+00:36:29,314 --> 00:36:30,649
+<font face="Comic Sans MS">Well, I'm Sisu and...</font>
+
+511
+00:36:30,816 --> 00:36:32,568
+<font face="Comic Sans MS">And we need
+to get to Talon now.</font>
+
+512
+00:36:32,734 --> 00:36:35,112
+<font face="Comic Sans MS">I'm sorry. The Shrimp-orium
+is not a water taxi.</font>
+
+513
+00:36:35,195 --> 00:36:37,239
+<font face="Comic Sans MS">Toi, that's a lot of jade!</font>
+
+514
+00:36:37,406 --> 00:36:40,242
+<font face="Comic Sans MS">Half now, half when we arrive
+in Talon. Deal?</font>
+
+515
+00:36:41,076 --> 00:36:42,578
+<font face="Comic Sans MS">Clasp onto your congee.</font>
+
+516
+00:36:42,744 --> 00:36:44,454
+<font face="Comic Sans MS">Today's special is</font>
+
+517
+00:36:44,621 --> 00:36:45,622
+<font face="Comic Sans MS">to go.</font>
+
+518
+00:36:52,462 --> 00:36:54,840
+<font face="Comic Sans MS">Uh, Captain Boun?</font>
+
+519
+00:36:54,923 --> 00:36:56,425
+<font face="Comic Sans MS">Does this thing go any faster?</font>
+
+520
+00:36:58,385 --> 00:36:59,887
+<font face="Comic Sans MS">Whoa! You didn't tell me
+Fang was after you!</font>
+
+521
+00:37:00,053 --> 00:37:01,138
+<font face="Comic Sans MS">This is gonna cost you extra!</font>
+
+522
+00:37:01,305 --> 00:37:02,514
+<font face="Comic Sans MS">Don't worry, I got it.</font>
+
+523
+00:37:03,682 --> 00:37:05,184
+<font face="Comic Sans MS">What is she doing?</font>
+
+524
+00:37:15,569 --> 00:37:16,987
+<font face="Comic Sans MS">What is happening?</font>
+
+525
+00:37:17,070 --> 00:37:19,114
+<font face="Comic Sans MS">My friend's
+a really strong swimmer.</font>
+
+526
+00:37:25,329 --> 00:37:27,039
+<font face="Comic Sans MS">Bye-bye, Binturi.</font>
+
+527
+00:37:29,917 --> 00:37:32,085
+<font face="Comic Sans MS">Princess Namaari,
+if they're after gem pieces,</font>
+
+528
+00:37:32,252 --> 00:37:33,879
+<font face="Comic Sans MS">their next stop
+would be Talon.</font>
+
+529
+00:37:34,046 --> 00:37:35,589
+<font face="Comic Sans MS">We're not following them
+to Talon.</font>
+
+530
+00:37:35,756 --> 00:37:36,882
+<font face="Comic Sans MS">We're going back to Fang.</font>
+
+531
+00:37:37,090 --> 00:37:38,842
+<font face="Comic Sans MS">I need to speak
+with Chief Virana.</font>
+
+532
+00:38:08,497 --> 00:38:10,207
+<font face="Comic Sans MS">Sisu? Sisu?</font>
+
+533
+00:38:10,791 --> 00:38:11,792
+<font face="Comic Sans MS">Ah!</font>
+
+534
+00:38:11,875 --> 00:38:13,418
+<font face="Comic Sans MS">Please get out of there.</font>
+
+535
+00:38:13,585 --> 00:38:14,962
+<font face="Comic Sans MS">I'm a water dragon.</font>
+
+536
+00:38:15,128 --> 00:38:16,964
+<font face="Comic Sans MS">This is water.
+It's sort of my thing.</font>
+
+537
+00:38:17,130 --> 00:38:18,340
+<font face="Comic Sans MS">You wanna come in?</font>
+
+538
+00:38:18,507 --> 00:38:19,633
+<font face="Comic Sans MS">Someone could see you.</font>
+
+539
+00:38:19,800 --> 00:38:22,511
+<font face="Comic Sans MS">Oh. Do you mean Captain Pop
+and Lock over there?</font>
+
+540
+00:38:22,678 --> 00:38:23,846
+<font face="Comic Sans MS">What, are you scared</font>
+
+541
+00:38:23,929 --> 00:38:25,389
+<font face="Comic Sans MS">he's gonna challenge me
+to a dance battle?</font>
+
+542
+00:38:32,646 --> 00:38:35,732
+<font face="Comic Sans MS">Sisu, I saw people
+lose their minds</font>
+
+543
+00:38:35,816 --> 00:38:36,817
+<font face="Comic Sans MS">over a Dragon Gem.</font>
+
+544
+00:38:36,984 --> 00:38:39,903
+<font face="Comic Sans MS">Can you imagine what they'd do
+over an actual dragon?</font>
+
+545
+00:38:40,070 --> 00:38:42,322
+<font face="Comic Sans MS">Look, we need you
+to make this all work.</font>
+
+546
+00:38:42,489 --> 00:38:45,409
+<font face="Comic Sans MS">Until we have all the gems,
+you have to stay human.</font>
+
+547
+00:38:45,492 --> 00:38:46,493
+<font face="Comic Sans MS">Please.</font>
+
+548
+00:38:46,660 --> 00:38:48,287
+<font face="Comic Sans MS">Wow, you really
+got some trust issues.</font>
+
+549
+00:38:48,495 --> 00:38:51,164
+<font face="Comic Sans MS">Look, my father
+blindly trusted people,</font>
+
+550
+00:38:51,331 --> 00:38:53,584
+<font face="Comic Sans MS">and now, he's stone.</font>
+
+551
+00:38:54,293 --> 00:38:55,669
+<font face="Comic Sans MS">Hey, we'll get your Ba back.</font>
+
+552
+00:38:56,837 --> 00:38:58,714
+<font face="Comic Sans MS">I got you, girl.
+Come on, who's your dragon?</font>
+
+553
+00:38:59,381 --> 00:39:02,926
+<font face="Comic Sans MS">I mean, human. Because
+I'm gonna be a human until...</font>
+
+554
+00:39:03,093 --> 00:39:04,094
+<font face="Comic Sans MS">Yeah, you... You get it.</font>
+
+555
+00:39:07,639 --> 00:39:09,016
+<font face="Comic Sans MS">Okay, who's hungry?</font>
+
+556
+00:39:09,224 --> 00:39:10,225
+<font face="Comic Sans MS">Oh, I am.</font>
+
+557
+00:39:10,392 --> 00:39:12,352
+<font face="Comic Sans MS">Two house specials.
+How spicy would you like it?</font>
+
+558
+00:39:12,519 --> 00:39:14,980
+<font face="Comic Sans MS">Hot, hotter,
+or Boun-goes-the-dynamite?</font>
+
+559
+00:39:15,147 --> 00:39:16,481
+<font face="Comic Sans MS">- Bring on the heat!
+- Yeah, no.</font>
+
+560
+00:39:16,648 --> 00:39:18,108
+<font face="Comic Sans MS">No, I don't think so.</font>
+
+561
+00:39:18,192 --> 00:39:19,401
+<font face="Comic Sans MS">Uh, what are you doing?</font>
+
+562
+00:39:19,568 --> 00:39:20,944
+<font face="Comic Sans MS">We don't
+know him. It could be poison.</font>
+
+563
+00:39:21,111 --> 00:39:22,905
+<font face="Comic Sans MS">Why would he poison us?</font>
+
+564
+00:39:23,071 --> 00:39:24,406
+<font face="Comic Sans MS">Yeah, why would I poison you?</font>
+
+565
+00:39:24,573 --> 00:39:26,116
+<font face="Comic Sans MS">First, to get my jade purse,</font>
+
+566
+00:39:26,283 --> 00:39:27,326
+<font face="Comic Sans MS">second, to steal my sword,</font>
+
+567
+00:39:27,492 --> 00:39:31,038
+<font face="Comic Sans MS">and third, I don't know,
+to kidnap my Tuk Tuk.</font>
+
+568
+00:39:32,206 --> 00:39:34,625
+<font face="Comic Sans MS">All good points,
+but if this is poison...</font>
+
+569
+00:39:36,043 --> 00:39:37,044
+<font face="Comic Sans MS">Mmm!</font>
+
+570
+00:39:37,127 --> 00:39:38,545
+<font face="Comic Sans MS">...you're gonna die happy.</font>
+
+571
+00:39:38,712 --> 00:39:41,089
+<font face="Comic Sans MS">Yeah, thanks,
+but we got our own eats.</font>
+
+572
+00:39:45,052 --> 00:39:46,512
+<font face="Comic Sans MS">This is delicious.</font>
+
+573
+00:39:46,678 --> 00:39:49,139
+<font face="Comic Sans MS">By the way, not poison.</font>
+
+574
+00:39:50,724 --> 00:39:52,059
+<font face="Comic Sans MS">But it's...</font>
+
+575
+00:39:53,227 --> 00:39:55,145
+<font face="Comic Sans MS">It's hot. Ooh, it's hot!</font>
+
+576
+00:39:55,229 --> 00:39:57,064
+<font face="Comic Sans MS">It's hot! It's really hot!</font>
+
+577
+00:39:57,314 --> 00:39:58,774
+<font face="Comic Sans MS">Oh, my! Oh! Water!</font>
+
+578
+00:39:58,941 --> 00:40:01,485
+<font face="Comic Sans MS">Boun? Captain Boun?
+We need water on deck!</font>
+
+579
+00:41:21,064 --> 00:41:22,274
+<font face="Comic Sans MS">I know, buddy.</font>
+
+580
+00:41:22,733 --> 00:41:25,235
+<font face="Comic Sans MS">You know, during the day,</font>
+
+581
+00:41:25,611 --> 00:41:27,404
+<font face="Comic Sans MS">you can almost forget
+they're here,</font>
+
+582
+00:41:27,905 --> 00:41:29,198
+<font face="Comic Sans MS">but at night...</font>
+
+583
+00:41:31,116 --> 00:41:33,243
+<font face="Comic Sans MS">This is why
+I never leave the boat.</font>
+
+584
+00:41:33,660 --> 00:41:35,120
+<font face="Comic Sans MS">You're a smart kid.</font>
+
+585
+00:41:36,413 --> 00:41:38,207
+<font face="Comic Sans MS">What are Druun, anyways?</font>
+
+586
+00:41:38,624 --> 00:41:42,169
+<font face="Comic Sans MS">A plague.
+Born from human discord.</font>
+
+587
+00:41:42,628 --> 00:41:44,546
+<font face="Comic Sans MS">They've always been here.</font>
+
+588
+00:41:44,713 --> 00:41:48,008
+<font face="Comic Sans MS">Waiting for a moment
+of weakness to attack.</font>
+
+589
+00:41:48,926 --> 00:41:52,221
+<font face="Comic Sans MS">They're like
+the opposite of dragons.</font>
+
+590
+00:41:53,305 --> 00:41:56,767
+<font face="Comic Sans MS">Instead of bringing water
+and life to the world,</font>
+
+591
+00:41:56,934 --> 00:41:58,727
+<font face="Comic Sans MS">they're like a relentless fire</font>
+
+592
+00:41:58,810 --> 00:42:00,479
+<font face="Comic Sans MS">that consumes everything
+in its wake</font>
+
+593
+00:42:00,646 --> 00:42:05,067
+<font face="Comic Sans MS">until there's nothing left
+except ash and stone.</font>
+
+594
+00:42:07,528 --> 00:42:09,321
+<font face="Comic Sans MS">They took my family.</font>
+
+595
+00:42:14,701 --> 00:42:16,453
+<font face="Comic Sans MS">They took mine, too.</font>
+
+596
+00:43:04,334 --> 00:43:05,752
+<font face="Comic Sans MS">Looks like we're here.</font>
+
+597
+00:43:06,920 --> 00:43:10,507
+<font face="Comic Sans MS">So, where are you guys heading
+after Talon?</font>
+
+598
+00:43:10,966 --> 00:43:12,759
+<font face="Comic Sans MS">I might be heading there, too.</font>
+
+599
+00:43:14,303 --> 00:43:16,430
+<font face="Comic Sans MS">I mean, for a fee, of course.</font>
+
+600
+00:43:16,513 --> 00:43:18,849
+<font face="Comic Sans MS">Of course.</font>
+
+601
+00:43:21,602 --> 00:43:24,897
+<font face="Comic Sans MS">Wow! What a smart way
+to Druun-proof your house.</font>
+
+602
+00:43:25,063 --> 00:43:26,148
+<font face="Comic Sans MS">Build right on the water.</font>
+
+603
+00:43:26,356 --> 00:43:28,066
+<font face="Comic Sans MS">People of Talon are geniuses.</font>
+
+604
+00:43:28,233 --> 00:43:30,235
+<font face="Comic Sans MS">Yeah. Talon may look nice,</font>
+
+605
+00:43:30,402 --> 00:43:33,113
+<font face="Comic Sans MS">but it's a hotspot for
+pickpockets and con artists.</font>
+
+606
+00:43:33,280 --> 00:43:35,741
+<font face="Comic Sans MS">Lucky for me. Empty pockets!</font>
+
+607
+00:43:35,949 --> 00:43:37,159
+<font face="Comic Sans MS">Okay, so here's the good news.</font>
+
+608
+00:43:37,326 --> 00:43:38,869
+<font face="Comic Sans MS">I know where the gem piece is.</font>
+
+609
+00:43:38,952 --> 00:43:39,953
+<font face="Comic Sans MS">The bad news?</font>
+
+610
+00:43:40,037 --> 00:43:43,040
+<font face="Comic Sans MS">It's being held by
+the notorious Chief of Talon,</font>
+
+611
+00:43:43,123 --> 00:43:44,124
+<font face="Comic Sans MS">Dang Hai.</font>
+
+612
+00:43:44,333 --> 00:43:47,753
+<font face="Comic Sans MS">What Dang Hai lacks in style,
+he makes up in mean.</font>
+
+613
+00:43:47,836 --> 00:43:48,837
+<font face="Comic Sans MS">Hmm.</font>
+
+614
+00:43:49,213 --> 00:43:50,214
+<font face="Comic Sans MS">Gotcha.</font>
+
+615
+00:43:50,297 --> 00:43:51,882
+<font face="Comic Sans MS">Now, we're just gonna have to
+turn up the charm.</font>
+
+616
+00:43:51,965 --> 00:43:53,008
+<font face="Comic Sans MS">Let's go get him a gift.</font>
+
+617
+00:43:53,175 --> 00:43:55,636
+<font face="Comic Sans MS">Sisu, I think maybe
+it's safer for you</font>
+
+618
+00:43:55,719 --> 00:43:57,221
+<font face="Comic Sans MS">to stay here on the boat.</font>
+
+619
+00:43:57,304 --> 00:43:58,305
+<font face="Comic Sans MS">What?</font>
+
+620
+00:43:58,388 --> 00:44:01,141
+<font face="Comic Sans MS">Without you, we can't
+put the gem back together.</font>
+
+621
+00:44:01,308 --> 00:44:02,351
+<font face="Comic Sans MS">But I wanna help.</font>
+
+622
+00:44:02,518 --> 00:44:04,186
+<font face="Comic Sans MS">I know, and you will.</font>
+
+623
+00:44:04,394 --> 00:44:05,938
+<font face="Comic Sans MS">By staying safe.</font>
+
+624
+00:44:06,438 --> 00:44:08,065
+<font face="Comic Sans MS">I'll be back
+before you know it.</font>
+
+625
+00:44:08,982 --> 00:44:12,194
+<font face="Comic Sans MS">If you see any hungry faces,
+send 'em my way.</font>
+
+626
+00:44:12,361 --> 00:44:14,112
+<font face="Comic Sans MS">You got it, Captain.</font>
+
+627
+00:44:40,389 --> 00:44:42,558
+<font face="Comic Sans MS">All right,
+there's Dang Hai's house.</font>
+
+628
+00:44:42,766 --> 00:44:45,310
+<font face="Comic Sans MS">No detours
+till we score that Dragon Gem.</font>
+
+629
+00:44:46,603 --> 00:44:48,021
+<font face="Comic Sans MS">Whoa. What in the...</font>
+
+630
+00:44:50,440 --> 00:44:52,609
+<font face="Comic Sans MS">Uh...</font>
+
+631
+00:44:52,860 --> 00:44:54,069
+<font face="Comic Sans MS">Okay.</font>
+
+632
+00:44:55,946 --> 00:44:59,408
+<font face="Comic Sans MS">Hey, baby, toddler, thing...</font>
+
+633
+00:44:59,575 --> 00:45:00,659
+<font face="Comic Sans MS">...whatever you're called.</font>
+
+634
+00:45:01,118 --> 00:45:03,453
+<font face="Comic Sans MS">It's really late.
+What are you doing out here?</font>
+
+635
+00:45:04,079 --> 00:45:05,706
+<font face="Comic Sans MS">Where are your parents?</font>
+
+636
+00:45:05,956 --> 00:45:07,583
+<font face="Comic Sans MS">Hey, uh, whose baby...</font>
+
+637
+00:45:08,125 --> 00:45:09,626
+<font face="Comic Sans MS">What? Ongis?</font>
+
+638
+00:45:09,710 --> 00:45:10,711
+<font face="Comic Sans MS">Drop 'em!</font>
+
+639
+00:45:11,879 --> 00:45:13,130
+<font face="Comic Sans MS">Ow!</font>
+
+640
+00:45:16,967 --> 00:45:18,802
+<font face="Comic Sans MS">Really? A con-baby?</font>
+
+641
+00:45:23,056 --> 00:45:24,892
+<font face="Comic Sans MS">Ah, this is giving me
+bad feels.</font>
+
+642
+00:45:25,058 --> 00:45:26,602
+<font face="Comic Sans MS">Chief Dang Hai
+does not sound like</font>
+
+643
+00:45:26,685 --> 00:45:27,978
+<font face="Comic Sans MS">someone you could smooth talk.</font>
+
+644
+00:45:28,145 --> 00:45:29,897
+<font face="Comic Sans MS">And Raya
+didn't even bring a gift.</font>
+
+645
+00:45:30,397 --> 00:45:32,691
+<font face="Comic Sans MS">That's it. I'm going shopping.</font>
+
+646
+00:45:32,941 --> 00:45:34,860
+<font face="Comic Sans MS">Oh, wait.
+I don't have any money.</font>
+
+647
+00:45:35,027 --> 00:45:36,153
+<font face="Comic Sans MS">You're an adult.</font>
+
+648
+00:45:36,320 --> 00:45:37,529
+<font face="Comic Sans MS">You could just put it
+on credit.</font>
+
+649
+00:45:37,696 --> 00:45:39,323
+<font face="Comic Sans MS">Oh... Uh, what's credit?</font>
+
+650
+00:45:39,489 --> 00:45:41,200
+<font face="Comic Sans MS">It's kinda like a promise.</font>
+
+651
+00:45:41,366 --> 00:45:42,784
+<font face="Comic Sans MS">You take what you want now,</font>
+
+652
+00:45:42,868 --> 00:45:44,369
+<font face="Comic Sans MS">and you promise
+you'll pay it back later.</font>
+
+653
+00:45:44,661 --> 00:45:46,538
+<font face="Comic Sans MS">Pay it back later? Huh!</font>
+
+654
+00:45:46,997 --> 00:45:48,582
+<font face="Comic Sans MS">What an amazing concept.</font>
+
+655
+00:45:48,749 --> 00:45:50,042
+<font face="Comic Sans MS">Thanks, Captain Boun.</font>
+
+656
+00:45:54,004 --> 00:45:55,714
+<font face="Comic Sans MS">I'll be buying this
+with credit.</font>
+
+657
+00:45:57,090 --> 00:45:59,051
+<font face="Comic Sans MS">Oh, Dang Hai's
+gonna love this!</font>
+
+658
+00:45:59,218 --> 00:46:00,302
+<font face="Comic Sans MS">Credit, please.</font>
+
+659
+00:46:00,469 --> 00:46:03,222
+<font face="Comic Sans MS">Oh, I like that. Uh, yeah,
+I'll be using credit, yes.</font>
+
+660
+00:46:03,889 --> 00:46:04,932
+<font face="Comic Sans MS">I love credit!</font>
+
+661
+00:46:05,098 --> 00:46:06,225
+<font face="Comic Sans MS">Hey, you!</font>
+
+662
+00:46:08,060 --> 00:46:10,103
+<font face="Comic Sans MS">Are you going
+to pay for any of that?</font>
+
+663
+00:46:10,187 --> 00:46:11,188
+<font face="Comic Sans MS">Oh!</font>
+
+664
+00:46:11,271 --> 00:46:13,649
+<font face="Comic Sans MS">Right, right.
+No, this is on credit.</font>
+
+665
+00:46:13,815 --> 00:46:15,526
+<font face="Comic Sans MS">Yeah, I'm gonna pay it
+back later.</font>
+
+666
+00:46:15,692 --> 00:46:17,903
+<font face="Comic Sans MS">Pay us back later?
+We don't know you.</font>
+
+667
+00:46:18,070 --> 00:46:19,488
+<font face="Comic Sans MS">You have no credit here.</font>
+
+668
+00:46:19,655 --> 00:46:21,573
+<font face="Comic Sans MS">- Pay us right now.
+- Now?</font>
+
+669
+00:46:22,115 --> 00:46:23,408
+<font face="Comic Sans MS">I don't have anything,</font>
+
+670
+00:46:23,492 --> 00:46:25,702
+<font face="Comic Sans MS">but if I could just find
+my girl Raya,</font>
+
+671
+00:46:25,869 --> 00:46:28,038
+<font face="Comic Sans MS">she has a sword, dried eats,</font>
+
+672
+00:46:28,205 --> 00:46:29,456
+<font face="Comic Sans MS">two Dragon Gem pieces.</font>
+
+673
+00:46:29,623 --> 00:46:31,250
+<font face="Comic Sans MS">No, we don't!
+What? Who said that?</font>
+
+674
+00:46:31,416 --> 00:46:32,626
+<font face="Comic Sans MS">You better pay up, Binturi.</font>
+
+675
+00:46:32,793 --> 00:46:33,836
+<font face="Comic Sans MS">This isn't a charity.</font>
+
+676
+00:46:34,002 --> 00:46:35,128
+<font face="Comic Sans MS">Who do you think
+you're stealing from?</font>
+
+677
+00:46:35,212 --> 00:46:37,172
+<font face="Comic Sans MS">Get away from her!</font>
+
+678
+00:46:37,339 --> 00:46:39,341
+<font face="Comic Sans MS">Can't you see
+she's new in town?</font>
+
+679
+00:46:39,508 --> 00:46:41,760
+<font face="Comic Sans MS">Come, dear. Don't be afraid.</font>
+
+680
+00:46:42,344 --> 00:46:43,637
+<font face="Comic Sans MS">It's okay.</font>
+
+681
+00:46:53,522 --> 00:46:54,648
+<font face="Comic Sans MS">Hey, watch out!</font>
+
+682
+00:47:13,625 --> 00:47:14,793
+<font face="Comic Sans MS">Bye!</font>
+
+683
+00:47:20,757 --> 00:47:21,800
+<font face="Comic Sans MS">Diaper!</font>
+
+684
+00:47:38,150 --> 00:47:39,151
+<font face="Comic Sans MS">Thanks.</font>
+
+685
+00:47:39,318 --> 00:47:40,777
+<font face="Comic Sans MS">So, it's none of my business,</font>
+
+686
+00:47:40,944 --> 00:47:42,905
+<font face="Comic Sans MS">but using your baby charm
+to rip people off...</font>
+
+687
+00:47:44,156 --> 00:47:45,532
+<font face="Comic Sans MS">...is super sketchy.</font>
+
+688
+00:47:47,242 --> 00:47:48,619
+<font face="Comic Sans MS">All right,
+where is your family?</font>
+
+689
+00:47:50,204 --> 00:47:51,205
+<font face="Comic Sans MS">Mm.</font>
+
+690
+00:47:54,708 --> 00:47:55,709
+<font face="Comic Sans MS">Oh...</font>
+
+691
+00:47:57,294 --> 00:47:58,295
+<font face="Comic Sans MS">Right.</font>
+
+692
+00:48:05,177 --> 00:48:06,261
+<font face="Comic Sans MS">Hey.</font>
+
+693
+00:48:06,428 --> 00:48:08,931
+<font face="Comic Sans MS">How would you like to earn
+some honest loot?</font>
+
+694
+00:48:09,348 --> 00:48:10,349
+<font face="Comic Sans MS">Gah?</font>
+
+695
+00:48:34,456 --> 00:48:35,666
+<font face="Comic Sans MS">All right, Dang Hai,</font>
+
+696
+00:48:35,749 --> 00:48:37,292
+<font face="Comic Sans MS">I'll take that
+Dragon Gem piece.</font>
+
+697
+00:48:37,501 --> 00:48:39,419
+<font face="Comic Sans MS">Whoa! I'm not Dang Hai.</font>
+
+698
+00:48:40,712 --> 00:48:43,006
+<font face="Comic Sans MS">I'm Chai, the flower guy.</font>
+
+699
+00:48:43,257 --> 00:48:44,258
+<font face="Comic Sans MS">Where is Dang Hai?</font>
+
+700
+00:48:44,341 --> 00:48:46,176
+<font face="Comic Sans MS">He's right over there.</font>
+
+701
+00:48:47,511 --> 00:48:49,763
+<font face="Comic Sans MS">What? Who has his gem piece?</font>
+
+702
+00:48:50,138 --> 00:48:52,474
+<font face="Comic Sans MS">The most vicious chief</font>
+
+703
+00:48:52,558 --> 00:48:54,518
+<font face="Comic Sans MS">Talon has ever seen.</font>
+
+704
+00:48:56,645 --> 00:48:59,189
+<font face="Comic Sans MS">Those folks were,
+like, crazy mad.</font>
+
+705
+00:48:59,356 --> 00:49:00,941
+<font face="Comic Sans MS">I just wanted
+to bring some gifts</font>
+
+706
+00:49:01,024 --> 00:49:02,401
+<font face="Comic Sans MS">to the Talon chief Dang Hai.</font>
+
+707
+00:49:02,568 --> 00:49:04,903
+<font face="Comic Sans MS">Is that who
+you're looking for, dear?</font>
+
+708
+00:49:05,237 --> 00:49:07,531
+<font face="Comic Sans MS">I know exactly where he is.</font>
+
+709
+00:49:07,656 --> 00:49:08,657
+<font face="Comic Sans MS">You do?</font>
+
+710
+00:49:08,740 --> 00:49:10,284
+<font face="Comic Sans MS">Mm-hmm. I will take you there.</font>
+
+711
+00:49:10,450 --> 00:49:13,245
+<font face="Comic Sans MS">See? That's what I've been
+trying to tell my girl Raya.</font>
+
+712
+00:49:13,412 --> 00:49:15,247
+<font face="Comic Sans MS">And she's all like,
+"You can't trust people."</font>
+
+713
+00:49:15,414 --> 00:49:16,498
+<font face="Comic Sans MS">"Don't talk to anyone."</font>
+
+714
+00:49:16,665 --> 00:49:18,876
+<font face="Comic Sans MS">"I only eat terrible foods
+I dried myself."</font>
+
+715
+00:49:18,959 --> 00:49:20,794
+<font face="Comic Sans MS">Come, dear.</font>
+
+716
+00:49:20,961 --> 00:49:24,214
+<font face="Comic Sans MS">Chief Dang Hai
+is just outside the city,</font>
+
+717
+00:49:24,381 --> 00:49:25,757
+<font face="Comic Sans MS">beyond the gates.</font>
+
+718
+00:49:26,008 --> 00:49:28,802
+<font face="Comic Sans MS">Away from
+the water, huh? Wow.</font>
+
+719
+00:49:29,094 --> 00:49:31,013
+<font face="Comic Sans MS">He really likes living
+on the edge.</font>
+
+720
+00:49:32,014 --> 00:49:33,390
+<font face="Comic Sans MS">Hi there, Dang Hai.</font>
+
+721
+00:49:33,473 --> 00:49:34,766
+<font face="Comic Sans MS">Um, I'm Sisu,</font>
+
+722
+00:49:34,933 --> 00:49:38,562
+<font face="Comic Sans MS">and I've come here
+to offer you some...</font>
+
+723
+00:49:40,772 --> 00:49:41,857
+<font face="Comic Sans MS">Uh...</font>
+
+724
+00:49:50,824 --> 00:49:52,367
+<font face="Comic Sans MS">Now, you're gonna tell me</font>
+
+725
+00:49:52,534 --> 00:49:56,455
+<font face="Comic Sans MS">where I can find
+those other Dragon Gem pieces,</font>
+
+726
+00:49:56,622 --> 00:50:01,460
+<font face="Comic Sans MS">or I'll have to leave you
+outside with that thing.</font>
+
+727
+00:50:01,627 --> 00:50:02,794
+<font face="Comic Sans MS">Take your pick.</font>
+
+728
+00:50:03,212 --> 00:50:05,005
+<font face="Comic Sans MS">But I... I trusted you.</font>
+
+729
+00:50:05,172 --> 00:50:07,049
+<font face="Comic Sans MS">Big mistake.</font>
+
+730
+00:50:07,257 --> 00:50:08,675
+<font face="Comic Sans MS">You better talk fast.</font>
+
+731
+00:50:08,842 --> 00:50:11,136
+<font face="Comic Sans MS">It looks hungry.</font>
+
+732
+00:50:13,639 --> 00:50:16,517
+<font face="Comic Sans MS">No. No, no. No, no, no!</font>
+
+733
+00:50:17,726 --> 00:50:18,727
+<font face="Comic Sans MS">Raya!</font>
+
+734
+00:50:18,810 --> 00:50:19,811
+<font face="Comic Sans MS">Stop her!</font>
+
+735
+00:50:21,438 --> 00:50:23,482
+<font face="Comic Sans MS">Sisu, I told you
+to stay on the boat.</font>
+
+736
+00:50:23,815 --> 00:50:24,858
+<font face="Comic Sans MS">Sorry!</font>
+
+737
+00:50:25,025 --> 00:50:26,693
+<font face="Comic Sans MS">Hold on to this for me,
+will ya?</font>
+
+738
+00:50:30,280 --> 00:50:31,281
+<font face="Comic Sans MS">Fog?</font>
+
+739
+00:50:31,448 --> 00:50:33,992
+<font face="Comic Sans MS">Yeah. That was
+my brother Jagan's magic.</font>
+
+740
+00:50:34,159 --> 00:50:36,328
+<font face="Comic Sans MS">Okay.
+3 down, 2 to go.</font>
+
+741
+00:50:37,829 --> 00:50:39,581
+<font face="Comic Sans MS">All right, Captain Boun,
+next stop, Spine...</font>
+
+742
+00:50:39,665 --> 00:50:40,666
+<font face="Comic Sans MS">Aah!</font>
+
+743
+00:50:42,417 --> 00:50:43,585
+<font face="Comic Sans MS">Thanks for the new customers!</font>
+
+744
+00:50:43,752 --> 00:50:45,796
+<font face="Comic Sans MS">Yeah, I sort of promised
+to buy them</font>
+
+745
+00:50:45,879 --> 00:50:47,172
+<font face="Comic Sans MS">all the congee they could eat.</font>
+
+746
+00:50:47,381 --> 00:50:49,800
+<font face="Comic Sans MS">Well, we're stuck with them
+for a while</font>
+
+747
+00:50:49,967 --> 00:50:52,594
+<font face="Comic Sans MS">'cause ongis have
+9 stomachs.</font>
+
+748
+00:50:52,678 --> 00:50:53,679
+<font face="Comic Sans MS">Oh, Toi.</font>
+
+749
+00:50:53,762 --> 00:50:54,763
+<font face="Comic Sans MS">I can't believe it.</font>
+
+750
+00:50:54,930 --> 00:50:56,640
+<font face="Comic Sans MS">That old lady
+was really gonna hurt me.</font>
+
+751
+00:50:56,807 --> 00:50:58,976
+<font face="Comic Sans MS">Well, I'm sorry, Sisu,</font>
+
+752
+00:50:59,059 --> 00:51:01,019
+<font face="Comic Sans MS">but that's what
+the world is now.</font>
+
+753
+00:51:01,186 --> 00:51:02,771
+<font face="Comic Sans MS">You can't trust anyone.</font>
+
+754
+00:51:04,147 --> 00:51:05,607
+<font face="Comic Sans MS">Does that include babies?</font>
+
+755
+00:51:05,691 --> 00:51:07,985
+<font face="Comic Sans MS">- Uh, well...
+- She's so cute.</font>
+
+756
+00:51:08,151 --> 00:51:09,778
+<font face="Comic Sans MS">I mean, look at those cheeks.</font>
+
+757
+00:51:11,655 --> 00:51:13,282
+<font face="Comic Sans MS">Hi, I'm Sisu.</font>
+
+758
+00:51:18,036 --> 00:51:19,371
+<font face="Comic Sans MS">She loves my face.</font>
+
+759
+00:51:19,538 --> 00:51:22,416
+<font face="Comic Sans MS">Yeah, watch out
+she doesn't steal your teeth.</font>
+
+760
+00:51:22,583 --> 00:51:23,834
+<font face="Comic Sans MS">Here, let me help you.</font>
+
+761
+00:51:24,001 --> 00:51:25,627
+<font face="Comic Sans MS">Oh, that's so sweet.</font>
+
+762
+00:51:25,919 --> 00:51:28,255
+<font face="Comic Sans MS">Okay, that's, uh...
+That's too much sweet...</font>
+
+763
+00:51:28,422 --> 00:51:30,215
+<font face="Comic Sans MS">Too much sweetness.
+It's too much!</font>
+
+764
+00:51:44,229 --> 00:51:46,190
+<font face="Comic Sans MS">Chief Virana,
+we're running out of room.</font>
+
+765
+00:51:46,773 --> 00:51:48,650
+<font face="Comic Sans MS">We need to expand
+to the mainland.</font>
+
+766
+00:51:48,817 --> 00:51:50,652
+<font face="Comic Sans MS">And how do you propose
+we handle the Druun,</font>
+
+767
+00:51:50,736 --> 00:51:52,154
+<font face="Comic Sans MS">General Atitāya?</font>
+
+768
+00:51:52,279 --> 00:51:53,280
+<font face="Comic Sans MS">Without proper protection,</font>
+
+769
+00:51:53,363 --> 00:51:55,532
+<font face="Comic Sans MS">it would be a death sentence
+for our people.</font>
+
+770
+00:51:55,699 --> 00:51:57,743
+<font face="Comic Sans MS">I might have a solution
+for that, Mother.</font>
+
+771
+00:51:57,826 --> 00:52:00,245
+<font face="Comic Sans MS">My little morning mist...</font>
+
+772
+00:52:00,412 --> 00:52:02,372
+<font face="Comic Sans MS">Oh, it's good to see you home.</font>
+
+773
+00:52:02,831 --> 00:52:05,584
+<font face="Comic Sans MS">I located Raya.
+She's out stealing gem pieces.</font>
+
+774
+00:52:05,834 --> 00:52:06,835
+<font face="Comic Sans MS">What?</font>
+
+775
+00:52:07,044 --> 00:52:08,545
+<font face="Comic Sans MS">I'd like to take
+the royal army</font>
+
+776
+00:52:08,629 --> 00:52:10,130
+<font face="Comic Sans MS">and intercept her in Spine.</font>
+
+777
+00:52:10,214 --> 00:52:12,758
+<font face="Comic Sans MS">Well,
+if she's going into Spine,</font>
+
+778
+00:52:13,342 --> 00:52:15,427
+<font face="Comic Sans MS">I doubt there'll be much left
+of her to intercept.</font>
+
+779
+00:52:15,594 --> 00:52:17,387
+<font face="Comic Sans MS">She's more capable
+than you realize.</font>
+
+780
+00:52:17,763 --> 00:52:19,097
+<font face="Comic Sans MS">We have to stop her.</font>
+
+781
+00:52:20,516 --> 00:52:21,892
+<font face="Comic Sans MS">Walk with me.</font>
+
+782
+00:52:23,435 --> 00:52:24,686
+<font face="Comic Sans MS">Look around.</font>
+
+783
+00:52:24,853 --> 00:52:28,398
+<font face="Comic Sans MS">We made all this
+by making smart decisions,</font>
+
+784
+00:52:28,482 --> 00:52:29,733
+<font face="Comic Sans MS">not emotional ones.</font>
+
+785
+00:52:30,609 --> 00:52:31,985
+<font face="Comic Sans MS">We are safe.</font>
+
+786
+00:52:32,152 --> 00:52:35,072
+<font face="Comic Sans MS">Our canal protects us
+from those monsters.</font>
+
+787
+00:52:35,447 --> 00:52:37,616
+<font face="Comic Sans MS">I don't think it's wise
+to risk yourself</font>
+
+788
+00:52:37,699 --> 00:52:38,867
+<font face="Comic Sans MS">when you don't have to.</font>
+
+789
+00:52:39,368 --> 00:52:40,536
+<font face="Comic Sans MS">But you heard the general.</font>
+
+790
+00:52:40,702 --> 00:52:43,288
+<font face="Comic Sans MS">We're running out of space.
+We need to expand.</font>
+
+791
+00:52:43,455 --> 00:52:47,000
+<font face="Comic Sans MS">If we had all the gem pieces,
+we could do that safely.</font>
+
+792
+00:52:47,125 --> 00:52:48,126
+<font face="Comic Sans MS">You're right.</font>
+
+793
+00:52:48,293 --> 00:52:50,045
+<font face="Comic Sans MS">This isn't
+an emotional decision.</font>
+
+794
+00:52:50,212 --> 00:52:51,839
+<font face="Comic Sans MS">It's the only decision
+we can make</font>
+
+795
+00:52:51,922 --> 00:52:53,549
+<font face="Comic Sans MS">to secure Fang's future.</font>
+
+796
+00:52:58,804 --> 00:53:01,932
+<font face="Comic Sans MS">Namaari, you're truly growing</font>
+
+797
+00:53:02,015 --> 00:53:04,017
+<font face="Comic Sans MS">into the leader
+I raised you to be.</font>
+
+798
+00:53:04,810 --> 00:53:07,145
+<font face="Comic Sans MS">General Atitāya,
+ready the royal army</font>
+
+799
+00:53:07,229 --> 00:53:08,647
+<font face="Comic Sans MS">for my daughter's command.</font>
+
+800
+00:53:08,730 --> 00:53:11,400
+<font face="Comic Sans MS">Thank you, Mother.
+I won't let you down.</font>
+
+801
+00:53:18,699 --> 00:53:20,450
+<font face="Comic Sans MS">Hey! Stop eating!</font>
+
+802
+00:53:25,080 --> 00:53:26,081
+<font face="Comic Sans MS">Whoa!</font>
+
+803
+00:53:27,624 --> 00:53:29,084
+<font face="Comic Sans MS">Sorry, buddy, I got this.</font>
+
+804
+00:53:29,251 --> 00:53:30,544
+<font face="Comic Sans MS">Did you just throw
+a shrimp at me?</font>
+
+805
+00:53:30,711 --> 00:53:31,920
+<font face="Comic Sans MS">That's not even edible!</font>
+
+806
+00:53:32,004 --> 00:53:33,130
+<font face="Comic Sans MS">- Hey!
+- Don't look at me...</font>
+
+807
+00:53:33,213 --> 00:53:34,214
+<font face="Comic Sans MS">Uh... Hey, guys?</font>
+
+808
+00:53:34,298 --> 00:53:35,340
+<font face="Comic Sans MS">...like that,
+you fuzzy garbage can!</font>
+
+809
+00:53:35,424 --> 00:53:36,717
+<font face="Comic Sans MS">Do you wanna play
+hide-and-seek?</font>
+
+810
+00:53:38,468 --> 00:53:40,012
+<font face="Comic Sans MS">All right. Ready?</font>
+
+811
+00:53:40,804 --> 00:53:42,431
+<font face="Comic Sans MS">1.</font>
+
+812
+00:53:43,682 --> 00:53:44,808
+<font face="Comic Sans MS">2.</font>
+
+813
+00:53:45,726 --> 00:53:48,228
+<font face="Comic Sans MS">- Thanks.
+- 2 and a half.</font>
+
+814
+00:53:49,062 --> 00:53:50,063
+<font face="Comic Sans MS">3.</font>
+
+815
+00:53:51,106 --> 00:53:52,858
+<font face="Comic Sans MS">Remind me to never have kids.</font>
+
+816
+00:53:53,525 --> 00:53:55,360
+<font face="Comic Sans MS">Being people is hard.</font>
+
+817
+00:53:55,444 --> 00:53:56,445
+<font face="Comic Sans MS">Yep.</font>
+
+818
+00:53:56,570 --> 00:53:57,988
+<font face="Comic Sans MS">6.</font>
+
+819
+00:53:58,530 --> 00:53:59,781
+<font face="Comic Sans MS">7.</font>
+
+820
+00:54:00,157 --> 00:54:01,617
+<font face="Comic Sans MS">You have small heads.</font>
+
+821
+00:54:01,783 --> 00:54:02,826
+<font face="Comic Sans MS">No tails.</font>
+
+822
+00:54:02,993 --> 00:54:04,661
+<font face="Comic Sans MS">You lie to get what you want,</font>
+
+823
+00:54:04,745 --> 00:54:06,163
+<font face="Comic Sans MS">like the Talon chief
+back there.</font>
+
+824
+00:54:06,330 --> 00:54:08,081
+<font face="Comic Sans MS">Yeah, well,
+the world's broken.</font>
+
+825
+00:54:08,248 --> 00:54:09,708
+<font face="Comic Sans MS">You can't trust anyone.</font>
+
+826
+00:54:09,875 --> 00:54:11,585
+<font face="Comic Sans MS">Or maybe the world's broken</font>
+
+827
+00:54:11,668 --> 00:54:13,337
+<font face="Comic Sans MS">because you don't
+trust anyone.</font>
+
+828
+00:54:13,420 --> 00:54:15,756
+<font face="Comic Sans MS">You sound just like my Ba.</font>
+
+829
+00:54:16,048 --> 00:54:17,508
+<font face="Comic Sans MS">Well, he sounds like
+a smart man.</font>
+
+830
+00:54:17,883 --> 00:54:19,343
+<font face="Comic Sans MS">Yeah, he was.</font>
+
+831
+00:54:19,510 --> 00:54:21,470
+<font face="Comic Sans MS">I really wanted
+to believe him.</font>
+
+832
+00:54:21,637 --> 00:54:22,930
+<font face="Comic Sans MS">I really wanted to believe</font>
+
+833
+00:54:23,013 --> 00:54:25,098
+<font face="Comic Sans MS">that we could be
+Kumandra again.</font>
+
+834
+00:54:25,265 --> 00:54:26,350
+<font face="Comic Sans MS">And we can.</font>
+
+835
+00:54:26,517 --> 00:54:28,852
+<font face="Comic Sans MS">Literally thousands of people
+turned to stone</font>
+
+836
+00:54:28,936 --> 00:54:30,103
+<font face="Comic Sans MS">would argue otherwise.</font>
+
+837
+00:54:30,270 --> 00:54:32,147
+<font face="Comic Sans MS">That doesn't mean
+you shouldn't try.</font>
+
+838
+00:54:32,314 --> 00:54:35,067
+<font face="Comic Sans MS">And I did.
+And you know what happened?</font>
+
+839
+00:54:35,234 --> 00:54:38,362
+<font face="Comic Sans MS">I got kicked in the back
+by someone who gave me a gift.</font>
+
+840
+00:54:39,196 --> 00:54:40,280
+<font face="Comic Sans MS">Look around.</font>
+
+841
+00:54:40,447 --> 00:54:42,157
+<font face="Comic Sans MS">We're a world
+of orphans because</font>
+
+842
+00:54:42,241 --> 00:54:44,368
+<font face="Comic Sans MS">people couldn't stop fighting
+over a gem.</font>
+
+843
+00:54:44,535 --> 00:54:46,703
+<font face="Comic Sans MS">Wanna know why other dragons
+didn't come back?</font>
+
+844
+00:54:47,246 --> 00:54:49,748
+<font face="Comic Sans MS">It's because
+people don't deserve them.</font>
+
+845
+00:54:49,915 --> 00:54:51,166
+<font face="Comic Sans MS">But you can change that.</font>
+
+846
+00:54:51,333 --> 00:54:53,669
+<font face="Comic Sans MS">No, Sisu, I am done trying.</font>
+
+847
+00:54:53,836 --> 00:54:55,295
+<font face="Comic Sans MS">Kumandra is a fairy tale.</font>
+
+848
+00:54:55,462 --> 00:54:57,214
+<font face="Comic Sans MS">The only thing
+important to me now</font>
+
+849
+00:54:57,297 --> 00:54:58,549
+<font face="Comic Sans MS">is bringing my Ba back.</font>
+
+850
+00:55:00,300 --> 00:55:02,302
+<font face="Comic Sans MS">Um... I think we're in Spine.</font>
+
+851
+00:55:08,183 --> 00:55:09,184
+<font face="Comic Sans MS">Sisu!</font>
+
+852
+00:55:09,268 --> 00:55:10,853
+<font face="Comic Sans MS">Hey, my congee!</font>
+
+853
+00:55:11,019 --> 00:55:13,730
+<font face="Comic Sans MS">Don't go anywhere.
+I'll be right back.</font>
+
+854
+00:55:25,701 --> 00:55:27,661
+<font face="Comic Sans MS">Sisu! Come back! Please!</font>
+
+855
+00:55:27,828 --> 00:55:28,912
+<font face="Comic Sans MS">What... What are you doing?</font>
+
+856
+00:55:29,079 --> 00:55:30,831
+<font face="Comic Sans MS">I'm going to show you
+that you're wrong!</font>
+
+857
+00:55:30,998 --> 00:55:34,501
+<font face="Comic Sans MS">How? By getting squashed by
+a bunch of Spine rage-heads?</font>
+
+858
+00:55:34,585 --> 00:55:35,586
+<font face="Comic Sans MS">No.</font>
+
+859
+00:55:35,669 --> 00:55:36,712
+<font face="Comic Sans MS">By proving to you</font>
+
+860
+00:55:36,795 --> 00:55:38,463
+<font face="Comic Sans MS">that if you wanna get
+someone's trust,</font>
+
+861
+00:55:38,630 --> 00:55:40,090
+<font face="Comic Sans MS">you have to give
+a little trust first.</font>
+
+862
+00:55:40,174 --> 00:55:41,383
+<font face="Comic Sans MS">Wait, Sisu, don't...</font>
+
+863
+00:55:44,428 --> 00:55:47,472
+<font face="Comic Sans MS">In hindsight,
+maybe I was a little hasty,</font>
+
+864
+00:55:47,723 --> 00:55:49,266
+<font face="Comic Sans MS">but, uh, who's hungry?</font>
+
+865
+00:55:49,433 --> 00:55:51,226
+<font face="Comic Sans MS">No? I'll leave you alone.</font>
+
+866
+00:55:55,314 --> 00:55:56,982
+<font face="Comic Sans MS">Okay, where are we?</font>
+
+867
+00:55:59,610 --> 00:56:01,028
+<font face="Comic Sans MS">Interesting choice of digs.</font>
+
+868
+00:56:07,242 --> 00:56:09,328
+<font face="Comic Sans MS">You two must be
+dung of brain</font>
+
+869
+00:56:09,494 --> 00:56:12,956
+<font face="Comic Sans MS">to think you could steal
+Spine's Dragon Gem.</font>
+
+870
+00:56:14,124 --> 00:56:15,125
+<font face="Comic Sans MS">Gem?</font>
+
+871
+00:56:15,250 --> 00:56:16,752
+<font face="Comic Sans MS">Who said anything about gems?</font>
+
+872
+00:56:16,835 --> 00:56:17,836
+<font face="Comic Sans MS">We have no interest in gems.</font>
+
+873
+00:56:19,046 --> 00:56:20,047
+<font face="Comic Sans MS">Okay, yeah, I can see how</font>
+
+874
+00:56:20,130 --> 00:56:21,340
+<font face="Comic Sans MS">that makes me look
+like a liar.</font>
+
+875
+00:56:21,507 --> 00:56:22,966
+<font face="Comic Sans MS">Actually, I think
+it was the lying</font>
+
+876
+00:56:23,050 --> 00:56:24,051
+<font face="Comic Sans MS">that made you look
+like a liar.</font>
+
+877
+00:56:30,098 --> 00:56:31,141
+<font face="Comic Sans MS">I'm not sure what's funny.</font>
+
+878
+00:56:31,308 --> 00:56:34,603
+<font face="Comic Sans MS">Your fear
+is like delectable nectar</font>
+
+879
+00:56:34,770 --> 00:56:37,731
+<font face="Comic Sans MS">feeding the tum-tum
+of my soul.</font>
+
+880
+00:56:37,898 --> 00:56:39,107
+<font face="Comic Sans MS">It's good.</font>
+
+881
+00:56:39,274 --> 00:56:41,485
+<font face="Comic Sans MS">Tastes like... mango.</font>
+
+882
+00:56:41,652 --> 00:56:43,111
+<font face="Comic Sans MS">Oh. I love mango.</font>
+
+883
+00:56:43,320 --> 00:56:45,489
+<font face="Comic Sans MS">Of course you love mango!</font>
+
+884
+00:56:45,656 --> 00:56:47,699
+<font face="Comic Sans MS">Only a tongue-less
+cretin wouldn't.</font>
+
+885
+00:56:47,783 --> 00:56:48,784
+<font face="Comic Sans MS">Oh, Toi!</font>
+
+886
+00:56:48,867 --> 00:56:50,410
+<font face="Comic Sans MS">It's been such a long time</font>
+
+887
+00:56:50,494 --> 00:56:51,578
+<font face="Comic Sans MS">since I've last peered</font>
+
+888
+00:56:51,662 --> 00:56:53,830
+<font face="Comic Sans MS">into the eyes
+of a trembling enemy.</font>
+
+889
+00:56:54,289 --> 00:56:56,333
+<font face="Comic Sans MS">Where has the time gone?</font>
+
+890
+00:56:57,251 --> 00:56:59,336
+<font face="Comic Sans MS">It's been so long.</font>
+
+891
+00:57:00,671 --> 00:57:01,713
+<font face="Comic Sans MS">He seems lonely.</font>
+
+892
+00:57:01,797 --> 00:57:03,507
+<font face="Comic Sans MS">No! I'm not lonely.</font>
+
+893
+00:57:03,674 --> 00:57:05,342
+<font face="Comic Sans MS">I'm a Spine warrior.</font>
+
+894
+00:57:05,509 --> 00:57:08,470
+<font face="Comic Sans MS">I was born and bred to do
+only one thing.</font>
+
+895
+00:57:08,637 --> 00:57:10,097
+<font face="Comic Sans MS">To invoke fear</font>
+
+896
+00:57:10,180 --> 00:57:12,975
+<font face="Comic Sans MS">and to crush the skulls
+of my enemies!</font>
+
+897
+00:57:13,141 --> 00:57:14,268
+<font face="Comic Sans MS">That's actually two things.</font>
+
+898
+00:57:16,812 --> 00:57:19,147
+<font face="Comic Sans MS">Look at your face.</font>
+
+899
+00:57:19,231 --> 00:57:21,692
+<font face="Comic Sans MS">Hey. What do you plan on doing
+with us?</font>
+
+900
+00:57:21,775 --> 00:57:23,777
+<font face="Comic Sans MS">Oh, it's gonna be bad.</font>
+
+901
+00:57:23,944 --> 00:57:25,153
+<font face="Comic Sans MS">Horrifying!</font>
+
+902
+00:57:25,320 --> 00:57:27,197
+<font face="Comic Sans MS">It'll take me 2 weeks
+to clean up!</font>
+
+903
+00:57:27,364 --> 00:57:29,116
+<font face="Comic Sans MS">You have no idea, do you?</font>
+
+904
+00:57:29,199 --> 00:57:30,200
+<font face="Comic Sans MS">Yes, I do.</font>
+
+905
+00:57:30,284 --> 00:57:33,662
+<font face="Comic Sans MS">I'm formulating this
+gruesome plan in my head...</font>
+
+906
+00:57:33,829 --> 00:57:36,164
+<font face="Comic Sans MS">Makes me sick
+just thinking about it.</font>
+
+907
+00:57:36,331 --> 00:57:37,875
+<font face="Comic Sans MS">You... You just wait.</font>
+
+908
+00:57:38,041 --> 00:57:41,503
+<font face="Comic Sans MS">Until then, why don't you
+just hang around?</font>
+
+909
+00:57:41,587 --> 00:57:42,588
+<font face="Comic Sans MS">Good one, huh?</font>
+
+910
+00:57:51,471 --> 00:57:52,472
+<font face="Comic Sans MS">Huh?</font>
+
+911
+00:57:54,016 --> 00:57:55,267
+<font face="Comic Sans MS">A little one?</font>
+
+912
+00:57:55,434 --> 00:57:56,852
+<font face="Comic Sans MS">All right!</font>
+
+913
+00:57:56,935 --> 00:57:58,270
+<font face="Comic Sans MS">Phew! Good work, Captain Boun!</font>
+
+914
+00:57:58,437 --> 00:57:59,438
+<font face="Comic Sans MS">- Fang's here!
+- What?</font>
+
+915
+00:57:59,646 --> 00:58:02,941
+<font face="Comic Sans MS">People of Spine,
+we are hunting for Raya,</font>
+
+916
+00:58:03,108 --> 00:58:04,860
+<font face="Comic Sans MS">a fugitive from Heart!</font>
+
+917
+00:58:05,027 --> 00:58:07,279
+<font face="Comic Sans MS">Send her out,
+or we're coming in!</font>
+
+918
+00:58:09,948 --> 00:58:11,325
+<font face="Comic Sans MS">You're the only one here?</font>
+
+919
+00:58:11,783 --> 00:58:14,786
+<font face="Comic Sans MS">My people battled the Druun
+with much valor,</font>
+
+920
+00:58:15,078 --> 00:58:16,121
+<font face="Comic Sans MS">but lost.</font>
+
+921
+00:58:25,589 --> 00:58:26,590
+<font face="Comic Sans MS">Okay.</font>
+
+922
+00:58:26,673 --> 00:58:28,884
+<font face="Comic Sans MS">But the Fang gang's here
+for me, not for you,</font>
+
+923
+00:58:29,051 --> 00:58:30,677
+<font face="Comic Sans MS">so, um,
+if I can distract them,</font>
+
+924
+00:58:30,761 --> 00:58:32,012
+<font face="Comic Sans MS">then you guys
+can get out of here.</font>
+
+925
+00:58:32,179 --> 00:58:33,680
+<font face="Comic Sans MS">You're gonna fight
+an entire army?</font>
+
+926
+00:58:33,847 --> 00:58:35,349
+<font face="Comic Sans MS">No, I'm just gonna stall them.</font>
+
+927
+00:58:35,516 --> 00:58:37,476
+<font face="Comic Sans MS">Look, I know how to push
+Namaari's buttons.</font>
+
+928
+00:58:37,643 --> 00:58:40,145
+<font face="Comic Sans MS">And once you guys are clear,
+I'm out of there.</font>
+
+929
+00:58:45,234 --> 00:58:46,235
+<font face="Comic Sans MS">What's your name?</font>
+
+930
+00:58:46,401 --> 00:58:48,570
+<font face="Comic Sans MS">The moniker given to me
+is Tong.</font>
+
+931
+00:58:48,737 --> 00:58:50,656
+<font face="Comic Sans MS">Okay, Tong, look,
+you don't know me,</font>
+
+932
+00:58:50,739 --> 00:58:51,740
+<font face="Comic Sans MS">and I don't know you,</font>
+
+933
+00:58:51,907 --> 00:58:53,742
+<font face="Comic Sans MS">but I'm sure that
+you know a back door</font>
+
+934
+00:58:53,825 --> 00:58:54,826
+<font face="Comic Sans MS">or a way outta here,</font>
+
+935
+00:58:54,993 --> 00:58:57,788
+<font face="Comic Sans MS">and it's really important that
+my friends stay safe, okay?</font>
+
+936
+00:58:57,955 --> 00:59:01,917
+<font face="Comic Sans MS">So, I am sincerely asking you,
+will you help us?</font>
+
+937
+00:59:02,918 --> 00:59:04,044
+<font face="Comic Sans MS">Please.</font>
+
+938
+00:59:13,554 --> 00:59:15,097
+<font face="Comic Sans MS">Okay.</font>
+
+939
+00:59:15,764 --> 00:59:17,182
+<font face="Comic Sans MS">Note to self,</font>
+
+940
+00:59:17,558 --> 00:59:18,809
+<font face="Comic Sans MS">don't die.</font>
+
+941
+00:59:19,685 --> 00:59:21,019
+<font face="Comic Sans MS">Burn them out.</font>
+
+942
+00:59:28,610 --> 00:59:30,696
+<font face="Comic Sans MS">Hey there, Princess Undercut.</font>
+
+943
+00:59:30,863 --> 00:59:31,864
+<font face="Comic Sans MS">Fancy meeting you here.</font>
+
+944
+00:59:32,030 --> 00:59:33,407
+<font face="Comic Sans MS">You
+and the Dragon Gem pieces</font>
+
+945
+00:59:33,490 --> 00:59:34,616
+<font face="Comic Sans MS">are coming with me.</font>
+
+946
+00:59:34,700 --> 00:59:36,952
+<font face="Comic Sans MS">Hmm.
+My sword here says we're not.</font>
+
+947
+00:59:38,787 --> 00:59:41,540
+<font face="Comic Sans MS">Yeah, I knew you couldn't
+handle rolling solo.</font>
+
+948
+00:59:41,707 --> 00:59:43,667
+<font face="Comic Sans MS">You're nothing
+without your band.</font>
+
+949
+00:59:44,418 --> 00:59:45,711
+<font face="Comic Sans MS">Stand down.</font>
+
+950
+00:59:46,587 --> 00:59:48,046
+<font face="Comic Sans MS">This shouldn't take long.</font>
+
+951
+01:00:12,237 --> 01:00:13,614
+<font face="Comic Sans MS">Did you need that, dep la?</font>
+
+952
+01:00:15,490 --> 01:00:16,491
+<font face="Comic Sans MS">Nah.</font>
+
+953
+01:00:16,575 --> 01:00:19,494
+<font face="Comic Sans MS">Looks like somebody's
+been taking classes.</font>
+
+954
+01:00:34,510 --> 01:00:36,220
+<font face="Comic Sans MS">Why are you stealing
+gem pieces?</font>
+
+955
+01:00:39,765 --> 01:00:43,227
+<font face="Comic Sans MS">Oh, I'm just
+trying to get a matching set.</font>
+
+956
+01:00:48,440 --> 01:00:51,193
+<font face="Comic Sans MS">You didn't happen
+to bring Fang's gem, did you?</font>
+
+957
+01:01:00,494 --> 01:01:03,413
+<font face="Comic Sans MS">No? Never mind.</font>
+
+958
+01:01:03,580 --> 01:01:06,250
+<font face="Comic Sans MS">I'll just swing by
+and grab it later.</font>
+
+959
+01:01:07,709 --> 01:01:10,045
+<font face="Comic Sans MS">Oh, I'm gonna enjoy this.</font>
+
+960
+01:01:38,365 --> 01:01:40,325
+<font face="Comic Sans MS">Yep, she's a dragon.</font>
+
+961
+01:01:40,492 --> 01:01:41,660
+<font face="Comic Sans MS">Let's go.</font>
+
+962
+01:01:41,827 --> 01:01:42,828
+<font face="Comic Sans MS">Come on!</font>
+
+963
+01:02:06,059 --> 01:02:07,728
+<font face="Comic Sans MS">Did you just hit me
+with a shrimp tail?</font>
+
+964
+01:02:09,104 --> 01:02:11,273
+<font face="Comic Sans MS">When were you gonna tell us
+she was Sisu?</font>
+
+965
+01:02:11,440 --> 01:02:13,775
+<font face="Comic Sans MS">Well, technically,
+you always knew she was Sisu.</font>
+
+966
+01:02:14,526 --> 01:02:15,527
+<font face="Comic Sans MS">Seriously?</font>
+
+967
+01:02:15,777 --> 01:02:17,196
+<font face="Comic Sans MS">Why are you here,</font>
+
+968
+01:02:17,279 --> 01:02:18,906
+<font face="Comic Sans MS">divine water dragon?</font>
+
+969
+01:02:18,989 --> 01:02:20,532
+<font face="Comic Sans MS">Isn't that obvious, big guy?</font>
+
+970
+01:02:20,616 --> 01:02:22,701
+<font face="Comic Sans MS">My girl Raya and I
+are gonna fix the world.</font>
+
+971
+01:02:22,784 --> 01:02:24,203
+<font face="Comic Sans MS">Bring everyone back.</font>
+
+972
+01:02:24,286 --> 01:02:26,038
+<font face="Comic Sans MS">You're gonna
+bring everyone back?</font>
+
+973
+01:02:26,121 --> 01:02:27,122
+<font face="Comic Sans MS">I wanna help.</font>
+
+974
+01:02:27,372 --> 01:02:30,584
+<font face="Comic Sans MS">I'm sorry,
+I can't let you do that.</font>
+
+975
+01:02:30,751 --> 01:02:31,877
+<font face="Comic Sans MS">It's too dangerous.</font>
+
+976
+01:02:31,960 --> 01:02:35,714
+<font face="Comic Sans MS">You're not the only one
+who lost family to the Druun.</font>
+
+977
+01:02:39,468 --> 01:02:40,469
+<font face="Comic Sans MS">Please.</font>
+
+978
+01:02:40,886 --> 01:02:42,346
+<font face="Comic Sans MS">Let me help you.</font>
+
+979
+01:02:51,021 --> 01:02:53,106
+<font face="Comic Sans MS">I too wish to join
+this fellowship</font>
+
+980
+01:02:53,190 --> 01:02:55,484
+<font face="Comic Sans MS">of Druun butt-kickery!</font>
+
+981
+01:03:07,788 --> 01:03:10,040
+<font face="Comic Sans MS">My big brother Pengu's magic.</font>
+
+982
+01:04:16,273 --> 01:04:18,400
+<font face="Comic Sans MS">All right, Captain Boun.
+To Fang.</font>
+
+983
+01:04:18,692 --> 01:04:19,776
+<font face="Comic Sans MS">You got it!</font>
+
+984
+01:04:38,337 --> 01:04:40,839
+<font face="Comic Sans MS">All right, everyone,
+here's the plan.</font>
+
+985
+01:04:41,006 --> 01:04:43,008
+<font face="Comic Sans MS">The last gem piece is in Fang,</font>
+
+986
+01:04:43,175 --> 01:04:45,928
+<font face="Comic Sans MS">the most heavily guarded
+of the five lands.</font>
+
+987
+01:04:46,220 --> 01:04:48,180
+<font face="Comic Sans MS">Now, they're protected
+by an artificial canal</font>
+
+988
+01:04:48,347 --> 01:04:50,641
+<font face="Comic Sans MS">that separates them
+from the rest of the world.</font>
+
+989
+01:04:50,807 --> 01:04:52,351
+<font face="Comic Sans MS">The only way in or out</font>
+
+990
+01:04:52,518 --> 01:04:53,977
+<font face="Comic Sans MS">is by water.</font>
+
+991
+01:04:58,607 --> 01:05:02,694
+<font face="Comic Sans MS">Luckily for us,
+we have a magic water dragon.</font>
+
+992
+01:05:04,821 --> 01:05:07,115
+<font face="Comic Sans MS">Now, the palace will be
+swarmingwith Fang soldiers.</font>
+
+993
+01:05:07,616 --> 01:05:09,034
+<font face="Comic Sans MS">To sneak past them,
+we'll need to...</font>
+
+994
+01:05:09,201 --> 01:05:10,452
+<font face="Comic Sans MS">I got this, guys.</font>
+
+995
+01:05:10,702 --> 01:05:12,037
+<font face="Comic Sans MS">I'll take care
+of the first wave.</font>
+
+996
+01:05:14,206 --> 01:05:15,207
+<font face="Comic Sans MS">Tong will follow up</font>
+
+997
+01:05:15,290 --> 01:05:17,209
+<font face="Comic Sans MS">with hisgiant axe
+of bad-axery.</font>
+
+998
+01:05:18,418 --> 01:05:21,046
+<font face="Comic Sans MS">And then come the ongis
+and that crazy con-baby...</font>
+
+999
+01:05:23,048 --> 01:05:26,134
+<font face="Comic Sans MS">...who will toss the gem
+to the Mighty Sisudatu.</font>
+
+1000
+01:05:27,553 --> 01:05:30,472
+<font face="Comic Sans MS">And then, bye-bye, Binturis.</font>
+
+1001
+01:05:34,810 --> 01:05:36,895
+<font face="Comic Sans MS">Super flow plan, am I right?</font>
+
+1002
+01:05:37,437 --> 01:05:40,065
+<font face="Comic Sans MS">Uh, no. Yeah, that's not flow.
+That's a clog.</font>
+
+1003
+01:05:40,148 --> 01:05:41,149
+<font face="Comic Sans MS">I agree.</font>
+
+1004
+01:05:41,650 --> 01:05:42,734
+<font face="Comic Sans MS">Here's my plan.</font>
+
+1005
+01:05:43,318 --> 01:05:44,444
+<font face="Comic Sans MS">We infiltrate Fang,</font>
+
+1006
+01:05:44,611 --> 01:05:46,113
+<font face="Comic Sans MS">confront Namaari,</font>
+
+1007
+01:05:47,781 --> 01:05:49,533
+<font face="Comic Sans MS">and offer her something nice
+and go...</font>
+
+1008
+01:05:49,700 --> 01:05:51,702
+<font face="Comic Sans MS">Hey! Wanna help us
+save the world?</font>
+
+1009
+01:05:51,869 --> 01:05:54,621
+<font face="Comic Sans MS">Because all it takes
+is one gem piece.</font>
+
+1010
+01:05:54,788 --> 01:05:56,081
+<font face="Comic Sans MS">Yes!</font>
+
+1011
+01:05:56,164 --> 01:05:57,875
+<font face="Comic Sans MS">I've been waiting
+for someone to ask me!</font>
+
+1012
+01:05:58,041 --> 01:05:59,168
+<font face="Comic Sans MS">Here you go!</font>
+
+1013
+01:05:59,543 --> 01:06:01,837
+<font face="Comic Sans MS">Best friends forever!</font>
+
+1014
+01:06:04,590 --> 01:06:06,800
+<font face="Comic Sans MS">Yeah, I think I'd rather
+go with Boun's plan.</font>
+
+1015
+01:06:06,884 --> 01:06:07,885
+<font face="Comic Sans MS">What?</font>
+
+1016
+01:06:07,968 --> 01:06:08,969
+<font face="Comic Sans MS">Yes!</font>
+
+1017
+01:06:09,052 --> 01:06:10,053
+<font face="Comic Sans MS">What, why?</font>
+
+1018
+01:06:10,137 --> 01:06:11,346
+<font face="Comic Sans MS">Because it's Fang.</font>
+
+1019
+01:06:11,513 --> 01:06:13,640
+<font face="Comic Sans MS">Their blades
+are specially designed</font>
+
+1020
+01:06:13,724 --> 01:06:15,517
+<font face="Comic Sans MS">for the stabbing of backs.</font>
+
+1021
+01:06:15,684 --> 01:06:16,727
+<font face="Comic Sans MS">If it weren't for them,</font>
+
+1022
+01:06:16,810 --> 01:06:18,020
+<font face="Comic Sans MS">none of this
+would have happened.</font>
+
+1023
+01:06:18,187 --> 01:06:19,730
+<font face="Comic Sans MS">They're the worst.</font>
+
+1024
+01:06:21,440 --> 01:06:23,108
+<font face="Comic Sans MS">If we're just honest with her,</font>
+
+1025
+01:06:23,275 --> 01:06:24,693
+<font face="Comic Sans MS">deep down, I got a feeling</font>
+
+1026
+01:06:24,776 --> 01:06:26,486
+<font face="Comic Sans MS">she wants to fix the world
+as much as we do.</font>
+
+1027
+01:06:26,653 --> 01:06:28,572
+<font face="Comic Sans MS">You weren't there
+when Namaari betrayed me.</font>
+
+1028
+01:06:28,906 --> 01:06:30,699
+<font face="Comic Sans MS">We're sticking with my plan.</font>
+
+1029
+01:06:33,827 --> 01:06:36,079
+<font face="Comic Sans MS">Whoa. Uh...
+What's with the downpour?</font>
+
+1030
+01:06:36,246 --> 01:06:37,998
+<font face="Comic Sans MS">Come on!
+I need to show you something.</font>
+
+1031
+01:06:43,086 --> 01:06:45,088
+<font face="Comic Sans MS">So, what do we do now?</font>
+
+1032
+01:06:45,380 --> 01:06:46,590
+<font face="Comic Sans MS">I don't know.</font>
+
+1033
+01:06:47,216 --> 01:06:49,384
+<font face="Comic Sans MS">Where are you taking me?</font>
+
+1034
+01:07:16,286 --> 01:07:18,413
+<font face="Comic Sans MS">Sisu, why did you
+bring me here?</font>
+
+1035
+01:07:18,622 --> 01:07:20,123
+<font face="Comic Sans MS">This is where it all happened.</font>
+
+1036
+01:07:20,457 --> 01:07:22,251
+<font face="Comic Sans MS">Yeah, I know.</font>
+
+1037
+01:07:23,627 --> 01:07:25,546
+<font face="Comic Sans MS">- I was there.
+- No.</font>
+
+1038
+01:07:26,380 --> 01:07:29,842
+<font face="Comic Sans MS">This is where it all happened
+500 years ago.</font>
+
+1039
+01:07:36,098 --> 01:07:38,892
+<font face="Comic Sans MS">I want you to meet
+my brothers and sisters.</font>
+
+1040
+01:07:39,268 --> 01:07:40,894
+<font face="Comic Sans MS">The real mighty ones.</font>
+
+1041
+01:07:41,854 --> 01:07:43,146
+<font face="Comic Sans MS">I miss them.</font>
+
+1042
+01:07:43,772 --> 01:07:45,649
+<font face="Comic Sans MS">I never knew
+they were here.</font>
+
+1043
+01:07:47,860 --> 01:07:49,695
+<font face="Comic Sans MS">See that classy-looking one
+over there?</font>
+
+1044
+01:07:50,070 --> 01:07:52,906
+<font face="Comic Sans MS">That's Amba.
+I get my glow from her.</font>
+
+1045
+01:07:53,073 --> 01:07:56,243
+<font face="Comic Sans MS">And that's Pranee.
+She's a shapeshifter.</font>
+
+1046
+01:07:56,827 --> 01:07:58,704
+<font face="Comic Sans MS">Jagan, fog.</font>
+
+1047
+01:07:59,705 --> 01:08:01,540
+<font face="Comic Sans MS">And Pengu.</font>
+
+1048
+01:08:02,499 --> 01:08:03,959
+<font face="Comic Sans MS">He's our big brother.</font>
+
+1049
+01:08:04,960 --> 01:08:06,503
+<font face="Comic Sans MS">He brings the rain.</font>
+
+1050
+01:08:07,254 --> 01:08:09,798
+<font face="Comic Sans MS">We were the last dragons.</font>
+
+1051
+01:08:12,718 --> 01:08:15,053
+<font face="Comic Sans MS">All the other dragons
+had been turned to stone.</font>
+
+1052
+01:08:16,388 --> 01:08:18,015
+<font face="Comic Sans MS">We were drowning
+in a sea of Druun.</font>
+
+1053
+01:08:21,643 --> 01:08:25,731
+<font face="Comic Sans MS">But my oldest brother Pengu
+refused to accept defeat.</font>
+
+1054
+01:08:26,690 --> 01:08:29,026
+<font face="Comic Sans MS">This is where
+we'd make our last stand...</font>
+
+1055
+01:08:30,194 --> 01:08:31,403
+<font face="Comic Sans MS">united.</font>
+
+1056
+01:08:35,324 --> 01:08:37,784
+<font face="Comic Sans MS">So, one by one,</font>
+
+1057
+01:08:38,368 --> 01:08:41,038
+<font face="Comic Sans MS">they combined all their magic,</font>
+
+1058
+01:08:41,205 --> 01:08:44,208
+<font face="Comic Sans MS">creating the Dragon Gem.</font>
+
+1059
+01:08:49,296 --> 01:08:51,089
+<font face="Comic Sans MS">I don't know why
+they chose me.</font>
+
+1060
+01:08:52,174 --> 01:08:54,176
+<font face="Comic Sans MS">It could have been any of us.</font>
+
+1061
+01:08:56,929 --> 01:08:58,472
+<font face="Comic Sans MS">All I know</font>
+
+1062
+01:08:59,056 --> 01:09:00,641
+<font face="Comic Sans MS">is I trusted them...</font>
+
+1063
+01:09:02,476 --> 01:09:04,144
+<font face="Comic Sans MS">...and they trusted me.</font>
+
+1064
+01:09:06,563 --> 01:09:07,981
+<font face="Comic Sans MS">And so...</font>
+
+1065
+01:09:18,242 --> 01:09:20,160
+<font face="Comic Sans MS">When they put their faith
+in me,</font>
+
+1066
+01:09:20,869 --> 01:09:23,622
+<font face="Comic Sans MS">it empowered me beyond
+anything I could imagine.</font>
+
+1067
+01:09:24,164 --> 01:09:26,291
+<font face="Comic Sans MS">The same can happen
+with Namaari.</font>
+
+1068
+01:09:27,167 --> 01:09:29,378
+<font face="Comic Sans MS">I really wish
+I could believe that.</font>
+
+1069
+01:09:29,878 --> 01:09:32,172
+<font face="Comic Sans MS">I once thought
+that we could be friends.</font>
+
+1070
+01:09:32,464 --> 01:09:33,549
+<font face="Comic Sans MS">After all this,</font>
+
+1071
+01:09:34,091 --> 01:09:35,384
+<font face="Comic Sans MS">maybe you can be.</font>
+
+1072
+01:09:36,093 --> 01:09:38,428
+<font face="Comic Sans MS">Even if she wanted to help us,</font>
+
+1073
+01:09:39,012 --> 01:09:40,848
+<font face="Comic Sans MS">how could I possibly
+trust her?</font>
+
+1074
+01:09:41,014 --> 01:09:42,975
+<font face="Comic Sans MS">But if somehow you could,</font>
+
+1075
+01:09:43,058 --> 01:09:44,935
+<font face="Comic Sans MS">you wouldn't just bring
+your Ba back.</font>
+
+1076
+01:09:45,394 --> 01:09:47,229
+<font face="Comic Sans MS">You'd also bring back
+his dream.</font>
+
+1077
+01:09:47,688 --> 01:09:48,939
+<font face="Comic Sans MS">Kumandra.</font>
+
+1078
+01:10:13,005 --> 01:10:15,132
+<font face="Comic Sans MS">Do you think
+he would even recognize me?</font>
+
+1079
+01:10:16,550 --> 01:10:17,843
+<font face="Comic Sans MS">So much has changed.</font>
+
+1080
+01:10:20,137 --> 01:10:21,763
+<font face="Comic Sans MS">Of course he will.</font>
+
+1081
+01:10:22,639 --> 01:10:24,099
+<font face="Comic Sans MS">You remind me of him.</font>
+
+1082
+01:10:24,725 --> 01:10:26,143
+<font face="Comic Sans MS">Oh, yeah? Strong?</font>
+
+1083
+01:10:26,226 --> 01:10:28,145
+<font face="Comic Sans MS">Good-looking
+with impeccable hair?</font>
+
+1084
+01:10:31,190 --> 01:10:32,608
+<font face="Comic Sans MS">Hopeful.</font>
+
+1085
+01:10:36,820 --> 01:10:39,072
+<font face="Comic Sans MS">How would I even
+approach Namaari</font>
+
+1086
+01:10:39,156 --> 01:10:40,657
+<font face="Comic Sans MS">after all that's happened?</font>
+
+1087
+01:10:41,116 --> 01:10:45,078
+<font face="Comic Sans MS">It may feel impossible,
+but sometimes,</font>
+
+1088
+01:10:45,245 --> 01:10:46,997
+<font face="Comic Sans MS">you just have to take
+the first step,</font>
+
+1089
+01:10:47,080 --> 01:10:48,248
+<font face="Comic Sans MS">even before you're ready.</font>
+
+1090
+01:10:49,249 --> 01:10:50,292
+<font face="Comic Sans MS">Trust me.</font>
+
+1091
+01:10:58,884 --> 01:11:01,011
+<font face="Comic Sans MS">Okay. We'll go with your plan.</font>
+
+1092
+01:11:01,345 --> 01:11:03,805
+<font face="Comic Sans MS">What? My plan?
+You're gonna go with my plan?</font>
+
+1093
+01:11:03,889 --> 01:11:06,433
+<font face="Comic Sans MS">- Yeah.
+- All right!</font>
+
+1094
+01:11:06,600 --> 01:11:07,851
+<font face="Comic Sans MS">You're not gonna regret this.</font>
+
+1095
+01:11:08,018 --> 01:11:09,520
+<font face="Comic Sans MS">But we're gonna need
+a really good gift.</font>
+
+1096
+01:11:09,686 --> 01:11:11,855
+<font face="Comic Sans MS">What do you think she's into?
+Cats? Knives?</font>
+
+1097
+01:11:12,064 --> 01:11:13,440
+<font face="Comic Sans MS">Cats with knives?</font>
+
+1098
+01:11:13,524 --> 01:11:14,775
+<font face="Comic Sans MS">Knives with little cats
+on them?</font>
+
+1099
+01:11:14,858 --> 01:11:18,529
+<font face="Comic Sans MS">Actually, I know exactly what
+to give her.</font>
+
+1100
+01:11:23,575 --> 01:11:27,329
+<font face="Comic Sans MS">And that is how
+the land of Fang rose</font>
+
+1101
+01:11:27,496 --> 01:11:31,083
+<font face="Comic Sans MS">in spite of all the monsters
+that wanted to destroy us.</font>
+
+1102
+01:11:31,250 --> 01:11:34,711
+<font face="Comic Sans MS">Because we're smart, resilient,</font>
+
+1103
+01:11:35,128 --> 01:11:36,505
+<font face="Comic Sans MS">and we take care of one another.</font>
+
+1104
+01:11:36,672 --> 01:11:38,423
+<font face="Comic Sans MS">Mother! We need to talk.</font>
+
+1105
+01:11:38,590 --> 01:11:39,716
+<font face="Comic Sans MS">It's Princess Namaari!</font>
+
+1106
+01:11:41,009 --> 01:11:43,595
+<font face="Comic Sans MS">All right, all right,
+now, run along, kittens.</font>
+
+1107
+01:11:43,679 --> 01:11:45,973
+<font face="Comic Sans MS">I have to speak with the princess.</font>
+
+1108
+01:11:46,139 --> 01:11:48,600
+<font face="Comic Sans MS">Mother, you won't believe what I saw.</font>
+
+1109
+01:11:48,767 --> 01:11:50,394
+<font face="Comic Sans MS">You saw a dragon.</font>
+
+1110
+01:11:51,436 --> 01:11:52,980
+<font face="Comic Sans MS">General Atitāya informed me</font>
+
+1111
+01:11:53,146 --> 01:11:55,524
+<font face="Comic Sans MS">that you'd be returning home
+without the gem pieces.</font>
+
+1112
+01:11:55,691 --> 01:11:57,150
+<font face="Comic Sans MS">It was Sisu.</font>
+
+1113
+01:11:57,317 --> 01:11:59,319
+<font face="Comic Sans MS">She can fix what we broke.</font>
+
+1114
+01:11:59,486 --> 01:12:00,904
+<font face="Comic Sans MS">She can bring everyone back.</font>
+
+1115
+01:12:01,071 --> 01:12:03,407
+<font face="Comic Sans MS">And that's what scares me.</font>
+
+1116
+01:12:03,615 --> 01:12:05,284
+<font face="Comic Sans MS">When everyone comes back,</font>
+
+1117
+01:12:05,367 --> 01:12:07,202
+<font face="Comic Sans MS">who do you think
+they'll come for?</font>
+
+1118
+01:12:07,327 --> 01:12:08,328
+<font face="Comic Sans MS">You forget.</font>
+
+1119
+01:12:08,412 --> 01:12:10,747
+<font face="Comic Sans MS">The other lands blame us
+for what's happened.</font>
+
+1120
+01:12:10,914 --> 01:12:13,458
+<font face="Comic Sans MS">But we... We never meant
+for anyone to get hurt.</font>
+
+1121
+01:12:13,667 --> 01:12:17,004
+<font face="Comic Sans MS">Yes, but if we had the dragon</font>
+
+1122
+01:12:17,171 --> 01:12:18,964
+<font face="Comic Sans MS">and the gem pieces,</font>
+
+1123
+01:12:19,131 --> 01:12:21,008
+<font face="Comic Sans MS">we would be forgiven.</font>
+
+1124
+01:12:21,175 --> 01:12:22,676
+<font face="Comic Sans MS">We could save the world.</font>
+
+1125
+01:12:22,843 --> 01:12:25,971
+<font face="Comic Sans MS">But more importantly,
+our people would remain safe.</font>
+
+1126
+01:12:26,138 --> 01:12:28,682
+<font face="Comic Sans MS">But Raya isn't just gonna
+give Sisu to us.</font>
+
+1127
+01:12:29,850 --> 01:12:31,768
+<font face="Comic Sans MS">We're not going to give her
+a choice.</font>
+
+1128
+01:12:32,603 --> 01:12:34,229
+<font face="Comic Sans MS">What are you going to do?</font>
+
+1129
+01:12:34,563 --> 01:12:36,690
+<font face="Comic Sans MS">That's no longer
+your concern, my love.</font>
+
+1130
+01:12:37,191 --> 01:12:38,525
+<font face="Comic Sans MS">You've done enough.</font>
+
+1131
+01:12:49,912 --> 01:12:51,163
+<font face="Comic Sans MS">If she refuses to help,</font>
+
+1132
+01:12:51,330 --> 01:12:53,415
+<font face="Comic Sans MS">we've just flushed
+our tactical advantage</font>
+
+1133
+01:12:53,582 --> 01:12:55,459
+<font face="Comic Sans MS">- into the dung pot.
+- I know.</font>
+
+1134
+01:12:55,626 --> 01:12:57,503
+<font face="Comic Sans MS">Yeah. She really has no reason
+to help us.</font>
+
+1135
+01:12:57,586 --> 01:12:58,587
+<font face="Comic Sans MS">I know!</font>
+
+1136
+01:12:58,670 --> 01:12:59,880
+<font face="Comic Sans MS">This jerky's terrible.</font>
+
+1137
+01:12:59,963 --> 01:13:00,964
+<font face="Comic Sans MS">I know!</font>
+
+1138
+01:13:01,048 --> 01:13:03,217
+<font face="Comic Sans MS">Are you sure
+those 4 miniature menaces</font>
+
+1139
+01:13:03,300 --> 01:13:04,301
+<font face="Comic Sans MS">will be successful?</font>
+
+1140
+01:13:04,510 --> 01:13:06,887
+<font face="Comic Sans MS">I don't know.</font>
+
+1141
+01:13:17,898 --> 01:13:19,942
+<font face="Comic Sans MS">Huh?</font>
+
+1142
+01:13:26,698 --> 01:13:27,741
+<font face="Comic Sans MS">Hmm?</font>
+
+1143
+01:13:54,101 --> 01:13:55,102
+<font face="Comic Sans MS">Huh?</font>
+
+1144
+01:14:21,128 --> 01:14:22,337
+<font face="Comic Sans MS">There's too much spice.</font>
+
+1145
+01:14:22,421 --> 01:14:24,047
+<font face="Comic Sans MS">Uh, no.
+There's too much bamboo.</font>
+
+1146
+01:14:24,214 --> 01:14:25,215
+<font face="Comic Sans MS">What do you know?</font>
+
+1147
+01:14:25,299 --> 01:14:26,508
+<font face="Comic Sans MS">You have the taste buds
+of a tall baby.</font>
+
+1148
+01:14:26,675 --> 01:14:28,302
+<font face="Comic Sans MS">Well, you dress like
+a tall baby.</font>
+
+1149
+01:14:28,468 --> 01:14:29,970
+<font face="Comic Sans MS">Give me the spoon!
+I'm taking over!</font>
+
+1150
+01:14:30,137 --> 01:14:32,264
+<font face="Comic Sans MS">Back off, tidal wave.
+I'm the professional here.</font>
+
+1151
+01:14:32,431 --> 01:14:33,724
+<font face="Comic Sans MS">May I?</font>
+
+1152
+01:14:38,103 --> 01:14:39,104
+<font face="Comic Sans MS">Whoa!</font>
+
+1153
+01:14:39,188 --> 01:14:40,189
+<font face="Comic Sans MS">That's good.</font>
+
+1154
+01:14:40,314 --> 01:14:42,232
+<font face="Comic Sans MS">It's just a little
+something my Ba showed me.</font>
+
+1155
+01:14:42,316 --> 01:14:43,859
+<font face="Comic Sans MS">Aw. Did he also show you</font>
+
+1156
+01:14:43,942 --> 01:14:45,569
+<font face="Comic Sans MS">how to make
+that delicious jerky?</font>
+
+1157
+01:14:45,652 --> 01:14:47,821
+<font face="Comic Sans MS">No, that was all me.</font>
+
+1158
+01:14:50,949 --> 01:14:53,160
+<font face="Comic Sans MS">It'll be nice to share a meal
+with him again.</font>
+
+1159
+01:14:53,368 --> 01:14:54,578
+<font face="Comic Sans MS">I know what you mean.</font>
+
+1160
+01:14:55,287 --> 01:14:57,206
+<font face="Comic Sans MS">I have this really
+obnoxious sister</font>
+
+1161
+01:14:57,289 --> 01:14:58,874
+<font face="Comic Sans MS">who always tousles my hair.</font>
+
+1162
+01:15:00,250 --> 01:15:02,002
+<font face="Comic Sans MS">I can't wait to see her
+the most.</font>
+
+1163
+01:15:02,169 --> 01:15:03,712
+<font face="Comic Sans MS">After we win the day,</font>
+
+1164
+01:15:03,879 --> 01:15:06,256
+<font face="Comic Sans MS">I look forward
+to filling my eyeball</font>
+
+1165
+01:15:06,423 --> 01:15:11,678
+<font face="Comic Sans MS">with the joytastic image
+of my village full again.</font>
+
+1166
+01:15:13,555 --> 01:15:17,434
+<font face="Comic Sans MS">And you will be reunited
+with your family, Noi.</font>
+
+1167
+01:15:17,809 --> 01:15:19,811
+<font face="Comic Sans MS">Uh, what did you
+just call her?</font>
+
+1168
+01:15:19,978 --> 01:15:21,313
+<font face="Comic Sans MS">Noi. It's her name.</font>
+
+1169
+01:15:22,481 --> 01:15:23,982
+<font face="Comic Sans MS">It's written on her collar.</font>
+
+1170
+01:15:24,149 --> 01:15:26,068
+<font face="Comic Sans MS">Have none of you ever checked?</font>
+
+1171
+01:15:26,276 --> 01:15:28,487
+<font face="Comic Sans MS">And they think of me
+as the ruffian.</font>
+
+1172
+01:15:33,033 --> 01:15:34,034
+<font face="Comic Sans MS">What's that mean?</font>
+
+1173
+01:15:34,159 --> 01:15:35,160
+<font face="Comic Sans MS">It means we're on.</font>
+
+1174
+01:15:36,328 --> 01:15:37,329
+<font face="Comic Sans MS">Sisu,</font>
+
+1175
+01:15:37,496 --> 01:15:38,705
+<font face="Comic Sans MS">until we get that gem</font>
+
+1176
+01:15:38,789 --> 01:15:41,250
+<font face="Comic Sans MS">and confirm Namaari's actually
+on our side,</font>
+
+1177
+01:15:41,500 --> 01:15:43,544
+<font face="Comic Sans MS">promise me you'll stay hidden.</font>
+
+1178
+01:15:58,267 --> 01:16:00,143
+<font face="Comic Sans MS">I see you got my gift.</font>
+
+1179
+01:16:01,228 --> 01:16:03,313
+<font face="Comic Sans MS">I never thought
+I'd see this again.</font>
+
+1180
+01:16:03,480 --> 01:16:04,982
+<font face="Comic Sans MS">Well, uh...</font>
+
+1181
+01:16:05,148 --> 01:16:06,900
+<font face="Comic Sans MS">I tried to take
+good care of it.</font>
+
+1182
+01:16:09,361 --> 01:16:12,197
+<font face="Comic Sans MS">You're not the only
+dragon nerd here.</font>
+
+1183
+01:16:33,218 --> 01:16:34,428
+<font face="Comic Sans MS">The final piece.</font>
+
+1184
+01:16:34,595 --> 01:16:36,513
+<font face="Comic Sans MS">Time to bring everyone back.</font>
+
+1185
+01:16:42,394 --> 01:16:44,938
+<font face="Comic Sans MS">Sisu and the gem pieces
+are coming with me.</font>
+
+1186
+01:16:45,314 --> 01:16:46,773
+<font face="Comic Sans MS">- Sisu!
+- Stay back!</font>
+
+1187
+01:16:46,940 --> 01:16:49,484
+<font face="Comic Sans MS">It was foolish
+to trust someone from Fang!</font>
+
+1188
+01:16:49,651 --> 01:16:50,986
+<font face="Comic Sans MS">Don't come any closer!</font>
+
+1189
+01:16:51,153 --> 01:16:52,154
+<font face="Comic Sans MS">Namaari,</font>
+
+1190
+01:16:52,446 --> 01:16:54,531
+<font face="Comic Sans MS">it doesn't have to be
+like this.</font>
+
+1191
+01:16:54,698 --> 01:16:57,284
+<font face="Comic Sans MS">I don't have any other choice.</font>
+
+1192
+01:16:57,951 --> 01:17:01,079
+<font face="Comic Sans MS">Hey. I got this.</font>
+
+1193
+01:17:09,546 --> 01:17:11,465
+<font face="Comic Sans MS">I know you don't wanna
+hurt anybody.</font>
+
+1194
+01:17:11,632 --> 01:17:12,966
+<font face="Comic Sans MS">What are you doing?</font>
+
+1195
+01:17:13,425 --> 01:17:15,135
+<font face="Comic Sans MS">You just want a better world.</font>
+
+1196
+01:17:15,302 --> 01:17:17,179
+<font face="Comic Sans MS">Like we all do.</font>
+
+1197
+01:17:17,971 --> 01:17:19,223
+<font face="Comic Sans MS">Sisu...</font>
+
+1198
+01:17:20,849 --> 01:17:22,559
+<font face="Comic Sans MS">I trust you, Namaari.</font>
+
+1199
+01:17:37,824 --> 01:17:39,076
+<font face="Comic Sans MS">No!</font>
+
+1200
+01:17:42,579 --> 01:17:43,580
+<font face="Comic Sans MS">Sisu!</font>
+
+1201
+01:17:49,127 --> 01:17:51,296
+<font face="Comic Sans MS">No...</font>
+
+1202
+01:18:06,562 --> 01:18:08,355
+<font face="Comic Sans MS">What's happening?</font>
+
+1203
+01:18:08,939 --> 01:18:10,315
+<font face="Comic Sans MS">I don't know.</font>
+
+1204
+01:18:11,066 --> 01:18:13,318
+<font face="Comic Sans MS">It appears that
+with the last dragon gone,</font>
+
+1205
+01:18:13,402 --> 01:18:14,987
+<font face="Comic Sans MS">so too goes the water.</font>
+
+1206
+01:18:16,029 --> 01:18:18,740
+<font face="Comic Sans MS">Now there is nothing
+to stop the Druun.</font>
+
+1207
+01:18:19,908 --> 01:18:21,243
+<font face="Comic Sans MS">Nothing.</font>
+
+1208
+01:18:32,588 --> 01:18:33,589
+<font face="Comic Sans MS">Raya?</font>
+
+1209
+01:18:34,590 --> 01:18:35,841
+<font face="Comic Sans MS">Where's Raya?</font>
+
+1210
+01:19:11,001 --> 01:19:12,336
+<font face="Comic Sans MS">Namaari!</font>
+
+1211
+01:19:13,462 --> 01:19:15,547
+<font face="Comic Sans MS">Let's finish this, Binturi.</font>
+
+1212
+01:19:40,989 --> 01:19:43,367
+<font face="Comic Sans MS">Raya!</font>
+
+1213
+01:19:50,249 --> 01:19:51,708
+<font face="Comic Sans MS">She cannot see us.</font>
+
+1214
+01:19:52,125 --> 01:19:54,711
+<font face="Comic Sans MS">Raya's blinded
+by her own rage.</font>
+
+1215
+01:19:56,088 --> 01:19:58,173
+<font face="Comic Sans MS">The gem's powers are fading!</font>
+
+1216
+01:20:00,300 --> 01:20:01,760
+<font face="Comic Sans MS">All these people
+are Druun food</font>
+
+1217
+01:20:01,844 --> 01:20:02,970
+<font face="Comic Sans MS">if we don't get them out.</font>
+
+1218
+01:20:06,390 --> 01:20:09,393
+<font face="Comic Sans MS">Come on!
+Trust me, it's gonna be okay.</font>
+
+1219
+01:20:10,686 --> 01:20:12,813
+<font face="Comic Sans MS">Stupid Druun! Out of my way!</font>
+
+1220
+01:20:12,980 --> 01:20:14,231
+<font face="Comic Sans MS">Go, go, go!</font>
+
+1221
+01:20:15,524 --> 01:20:17,484
+<font face="Comic Sans MS">Up we go! Yep!</font>
+
+1222
+01:20:27,744 --> 01:20:29,079
+<font face="Comic Sans MS">Go, go! Hurry!</font>
+
+1223
+01:20:29,413 --> 01:20:32,249
+<font face="Comic Sans MS">Get to the water!
+Keep going! Keep going!</font>
+
+1224
+01:20:36,086 --> 01:20:38,088
+<font face="Comic Sans MS">Come on! Come on!</font>
+
+1225
+01:21:24,301 --> 01:21:26,220
+<font face="Comic Sans MS">I never meant
+for any of this to happen.</font>
+
+1226
+01:21:26,386 --> 01:21:27,596
+<font face="Comic Sans MS">Liar!</font>
+
+1227
+01:21:29,056 --> 01:21:31,099
+<font face="Comic Sans MS">I don't care
+if you believe me.</font>
+
+1228
+01:21:31,892 --> 01:21:32,935
+<font face="Comic Sans MS">Sisu did.</font>
+
+1229
+01:21:34,478 --> 01:21:35,979
+<font face="Comic Sans MS">But you didn't trust her.</font>
+
+1230
+01:21:37,564 --> 01:21:39,149
+<font face="Comic Sans MS">That's why we're here.</font>
+
+1231
+01:21:40,275 --> 01:21:41,818
+<font face="Comic Sans MS">Do whatever you want.</font>
+
+1232
+01:21:42,486 --> 01:21:45,614
+<font face="Comic Sans MS">But you're as much to blame
+for Sisu's death as I am.</font>
+
+1233
+01:21:55,207 --> 01:21:56,583
+<font face="Comic Sans MS">Tong, there's still
+people back there!</font>
+
+1234
+01:21:56,750 --> 01:21:58,293
+<font face="Comic Sans MS">Hurry!
+We're running out of time!</font>
+
+1235
+01:21:58,377 --> 01:21:59,419
+<font face="Comic Sans MS">Got it!</font>
+
+1236
+01:21:59,503 --> 01:22:01,755
+<font face="Comic Sans MS">Everyone, out! Come with me!</font>
+
+1237
+01:22:36,582 --> 01:22:38,083
+<font face="Comic Sans MS">Okay, Tuk,
+these are the last of 'em.</font>
+
+1238
+01:22:38,250 --> 01:22:39,960
+<font face="Comic Sans MS">Go! We're right behind you.</font>
+
+1239
+01:22:41,461 --> 01:22:42,462
+<font face="Comic Sans MS">Tuk Tuk!</font>
+
+1240
+01:22:45,591 --> 01:22:47,050
+<font face="Comic Sans MS">What are you waiting for? Go!</font>
+
+1241
+01:22:54,766 --> 01:22:56,018
+<font face="Comic Sans MS">Raya!</font>
+
+1242
+01:22:57,186 --> 01:22:59,730
+<font face="Comic Sans MS">It's the one who slayed Sisu!</font>
+
+1243
+01:23:11,742 --> 01:23:14,161
+<font face="Comic Sans MS">Raya! Raya!</font>
+
+1244
+01:23:14,328 --> 01:23:16,205
+<font face="Comic Sans MS">The gem's magic,
+it's almost gone!</font>
+
+1245
+01:23:16,371 --> 01:23:18,040
+<font face="Comic Sans MS">They aren't backing off!</font>
+
+1246
+01:23:18,207 --> 01:23:19,750
+<font face="Comic Sans MS">They're everywhere!</font>
+
+1247
+01:23:44,274 --> 01:23:46,276
+<font face="Comic Sans MS">I don't know why
+they chose me.</font>
+
+1248
+01:23:47,694 --> 01:23:49,238
+<font face="Comic Sans MS">It could have been any of us.</font>
+
+1249
+01:23:50,322 --> 01:23:53,116
+<font face="Comic Sans MS">All I know is I trusted them,</font>
+
+1250
+01:23:53,659 --> 01:23:55,452
+<font face="Comic Sans MS">and they trusted me.</font>
+
+1251
+01:23:56,286 --> 01:23:57,746
+<font face="Comic Sans MS">And so...</font>
+
+1252
+01:24:00,624 --> 01:24:02,251
+<font face="Comic Sans MS">Everyone, give me your gems.</font>
+
+1253
+01:24:02,376 --> 01:24:04,711
+<font face="Comic Sans MS">We can still put it together.
+It can still work.</font>
+
+1254
+01:24:04,795 --> 01:24:07,422
+<font face="Comic Sans MS">Sisu's gone, Raya!
+We don't have her magic!</font>
+
+1255
+01:24:07,506 --> 01:24:10,384
+<font face="Comic Sans MS">It's not about her magic.
+It's about trust.</font>
+
+1256
+01:24:10,467 --> 01:24:11,510
+<font face="Comic Sans MS">What?</font>
+
+1257
+01:24:11,593 --> 01:24:14,346
+<font face="Comic Sans MS">That's why it worked.
+That's why we can do it, too.</font>
+
+1258
+01:24:14,513 --> 01:24:17,474
+<font face="Comic Sans MS">By doing the one thing
+Sisu wanted us to do.</font>
+
+1259
+01:24:17,641 --> 01:24:19,685
+<font face="Comic Sans MS">What my Ba wanted us to do.</font>
+
+1260
+01:24:19,852 --> 01:24:22,729
+<font face="Comic Sans MS">To finally trust each other
+and fix this.</font>
+
+1261
+01:24:23,897 --> 01:24:26,400
+<font face="Comic Sans MS">But we have to come together.</font>
+
+1262
+01:24:26,567 --> 01:24:27,734
+<font face="Comic Sans MS">Please.</font>
+
+1263
+01:24:27,901 --> 01:24:29,695
+<font face="Comic Sans MS">After what she's done?</font>
+
+1264
+01:24:29,778 --> 01:24:31,238
+<font face="Comic Sans MS">We'll never trust her!</font>
+
+1265
+01:24:37,035 --> 01:24:38,745
+<font face="Comic Sans MS">Then let me take
+the first step.</font>
+
+1266
+01:24:50,048 --> 01:24:51,175
+<font face="Comic Sans MS">Raya! No!</font>
+
+1267
+01:28:12,042 --> 01:28:14,545
+<font face="Comic Sans MS">It worked! It worked!</font>
+
+1268
+01:29:00,215 --> 01:29:02,509
+<font face="Comic Sans MS">Tuk Tuk!</font>
+
+1269
+01:29:03,135 --> 01:29:04,219
+<font face="Comic Sans MS">Oh!</font>
+
+1270
+01:30:21,880 --> 01:30:23,423
+<font face="Comic Sans MS">Pranee! Amba!</font>
+
+1271
+01:30:23,632 --> 01:30:24,633
+<font face="Comic Sans MS">Jagan!</font>
+
+1272
+01:30:24,842 --> 01:30:26,468
+<font face="Comic Sans MS">Pengu!</font>
+
+1273
+01:30:26,552 --> 01:30:28,929
+<font face="Comic Sans MS">Yeah!</font>
+
+1274
+01:31:00,252 --> 01:31:01,253
+<font face="Comic Sans MS">Raya.</font>
+
+1275
+01:31:02,462 --> 01:31:03,630
+<font face="Comic Sans MS">Sisu.</font>
+
+1276
+01:31:04,464 --> 01:31:07,885
+<font face="Comic Sans MS">I am so hungry.</font>
+
+1277
+01:31:08,510 --> 01:31:09,887
+<font face="Comic Sans MS">I got some jerky.</font>
+
+1278
+01:31:10,429 --> 01:31:11,638
+<font face="Comic Sans MS">Not that hungry.</font>
+
+1279
+01:31:20,898 --> 01:31:22,524
+<font face="Comic Sans MS">Sisu!</font>
+
+1280
+01:31:22,608 --> 01:31:26,862
+<font face="Comic Sans MS">Aw, it's good to breathe in
+your glorious dragon stench again.</font>
+
+1281
+01:31:26,945 --> 01:31:28,572
+<font face="Comic Sans MS">Okay, I take that
+as a compliment.</font>
+
+1282
+01:32:18,830 --> 01:32:19,957
+<font face="Comic Sans MS">Momma!</font>
+
+1283
+01:32:20,040 --> 01:32:21,542
+<font face="Comic Sans MS">My baby!</font>
+
+1284
+01:32:25,003 --> 01:32:26,171
+<font face="Comic Sans MS">Mom, look, it's Boun!</font>
+
+1285
+01:32:28,298 --> 01:32:29,424
+<font face="Comic Sans MS">It's Boun!</font>
+
+1286
+01:33:08,922 --> 01:33:10,132
+<font face="Comic Sans MS">Ba?</font>
+
+1287
+01:33:14,595 --> 01:33:16,263
+<font face="Comic Sans MS">Dewdrop?</font>
+
+1288
+01:33:19,057 --> 01:33:20,058
+<font face="Comic Sans MS">Ba!</font>
+
+1289
+01:33:37,284 --> 01:33:38,744
+<font face="Comic Sans MS">Is that really her?</font>
+
+1290
+01:33:42,706 --> 01:33:46,502
+<font face="Comic Sans MS">Chief Benja,
+your daughter did you proud.</font>
+
+1291
+01:33:47,294 --> 01:33:50,255
+<font face="Comic Sans MS">Hope you don't mind,
+she brought some friends.</font>
+
+1292
+01:34:18,909 --> 01:34:20,536
+<font face="Comic Sans MS">Ba?</font>
+
+1293
+01:34:21,203 --> 01:34:23,956
+<font face="Comic Sans MS">Welcome to Kumandra.</font>
+
+1294
+01:35:17,176 --> 01:35:19,011
+<font face="Comic Sans MS">We have a choice</font>
+
+1295
+01:35:19,094 --> 01:35:21,346
+<font face="Comic Sans MS">To build or destroy</font>
+
+1296
+01:35:21,430 --> 01:35:26,185
+<font face="Comic Sans MS">To fight or to come together</font>
+
+1297
+01:35:26,685 --> 01:35:28,478
+<font face="Comic Sans MS">Love is a bridge</font>
+
+1298
+01:35:28,562 --> 01:35:30,898
+<font face="Comic Sans MS">And trust is a gift</font>
+
+1299
+01:35:30,981 --> 01:35:36,195
+<font face="Comic Sans MS">We give it
+And it gets better</font>
+
+1300
+01:35:36,278 --> 01:35:38,655
+<font face="Comic Sans MS">There's an energy
+in the water</font>
+
+1301
+01:35:38,739 --> 01:35:41,033
+<font face="Comic Sans MS">There is magic
+deep in our heart</font>
+
+1302
+01:35:41,116 --> 01:35:43,285
+<font face="Comic Sans MS">There's a legacy
+that we honor</font>
+
+1303
+01:35:43,368 --> 01:35:45,621
+<font face="Comic Sans MS">When we bring
+the light to the dark</font>
+
+1304
+01:35:45,704 --> 01:35:48,248
+<font face="Comic Sans MS">Whatever brings us together</font>
+
+1305
+01:35:48,332 --> 01:35:50,626
+<font face="Comic Sans MS">Can never tear us apart</font>
+
+1306
+01:35:50,709 --> 01:35:53,086
+<font face="Comic Sans MS">We become stronger than ever</font>
+
+1307
+01:35:53,170 --> 01:35:55,005
+<font face="Comic Sans MS">When we just trust</font>
+
+1308
+01:35:55,088 --> 01:35:57,799
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1309
+01:35:57,883 --> 01:35:59,718
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1310
+01:35:59,801 --> 01:36:02,429
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1311
+01:36:02,513 --> 01:36:04,431
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1312
+01:36:04,515 --> 01:36:07,267
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1313
+01:36:07,351 --> 01:36:09,102
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1314
+01:36:09,186 --> 01:36:11,855
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1315
+01:36:11,939 --> 01:36:13,315
+<font face="Comic Sans MS">We’ll lead the way</font>
+
+1316
+01:36:13,774 --> 01:36:15,275
+<font face="Comic Sans MS">When you're broken</font>
+
+1317
+01:36:15,359 --> 01:36:17,986
+<font face="Comic Sans MS">Open up your heart and feel</font>
+
+1318
+01:36:18,070 --> 01:36:22,574
+<font face="Comic Sans MS">There's no difference
+We're all family here</font>
+
+1319
+01:36:23,116 --> 01:36:25,452
+<font face="Comic Sans MS">Despite all of our doubts</font>
+
+1320
+01:36:25,536 --> 01:36:27,788
+<font face="Comic Sans MS">All our up and downs</font>
+
+1321
+01:36:27,871 --> 01:36:33,085
+<font face="Comic Sans MS">There's never really
+anything to fear</font>
+
+1322
+01:36:33,585 --> 01:36:35,796
+<font face="Comic Sans MS">There's an energy
+in the water</font>
+
+1323
+01:36:35,879 --> 01:36:37,965
+<font face="Comic Sans MS">There is magic
+deep in our heart</font>
+
+1324
+01:36:38,048 --> 01:36:40,551
+<font face="Comic Sans MS">There's a legacy
+that we honor</font>
+
+1325
+01:36:40,634 --> 01:36:43,178
+<font face="Comic Sans MS">When we bring the light
+to the dark</font>
+
+1326
+01:36:43,262 --> 01:36:45,514
+<font face="Comic Sans MS">Whatever brings us together</font>
+
+1327
+01:36:45,597 --> 01:36:47,766
+<font face="Comic Sans MS">Can never tear us apart</font>
+
+1328
+01:36:47,850 --> 01:36:50,269
+<font face="Comic Sans MS">We become stronger than ever</font>
+
+1329
+01:36:50,352 --> 01:36:52,104
+<font face="Comic Sans MS">When we just trust</font>
+
+1330
+01:36:52,187 --> 01:36:54,648
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1331
+01:36:54,731 --> 01:36:56,692
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1332
+01:36:56,775 --> 01:36:59,361
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1333
+01:36:59,444 --> 01:37:01,572
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1334
+01:37:01,655 --> 01:37:04,116
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1335
+01:37:04,199 --> 01:37:06,243
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1336
+01:37:06,326 --> 01:37:08,745
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1337
+01:37:08,829 --> 01:37:11,248
+<font face="Comic Sans MS">We'll lead the way</font>
+
+1338
+01:37:20,924 --> 01:37:22,885
+<font face="Comic Sans MS">Takin' my first step</font>
+
+1339
+01:37:22,968 --> 01:37:25,429
+<font face="Comic Sans MS">I see you as myself</font>
+
+1340
+01:37:25,512 --> 01:37:30,184
+<font face="Comic Sans MS">Nothing we can't do</font>
+
+1341
+01:37:30,267 --> 01:37:32,769
+<font face="Comic Sans MS">Put the past behind</font>
+
+1342
+01:37:32,853 --> 01:37:35,105
+<font face="Comic Sans MS">Learn from life this time</font>
+
+1343
+01:37:35,189 --> 01:37:40,110
+<font face="Comic Sans MS">We can start brand new</font>
+
+1344
+01:37:40,194 --> 01:37:42,571
+<font face="Comic Sans MS">There's an energy
+in the water</font>
+
+1345
+01:37:42,654 --> 01:37:44,948
+<font face="Comic Sans MS">There is magic
+deep in our heart</font>
+
+1346
+01:37:45,032 --> 01:37:47,367
+<font face="Comic Sans MS">There's a legacy
+that we honor</font>
+
+1347
+01:37:47,451 --> 01:37:49,870
+<font face="Comic Sans MS">When we bring
+the light to the dark</font>
+
+1348
+01:37:49,953 --> 01:37:52,122
+<font face="Comic Sans MS">Whatever brings us together</font>
+
+1349
+01:37:52,206 --> 01:37:54,166
+<font face="Comic Sans MS">Can never tear us apart</font>
+
+1350
+01:37:54,249 --> 01:37:56,793
+<font face="Comic Sans MS">We become stronger than ever</font>
+
+1351
+01:37:56,877 --> 01:37:58,629
+<font face="Comic Sans MS">When we just trust</font>
+
+1352
+01:37:58,712 --> 01:38:01,381
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1353
+01:38:01,465 --> 01:38:03,425
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1354
+01:38:03,509 --> 01:38:06,261
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1355
+01:38:06,345 --> 01:38:08,138
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1356
+01:38:08,263 --> 01:38:10,807
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1357
+01:38:10,891 --> 01:38:12,809
+<font face="Comic Sans MS">We’ll lead the way
+When we just trust</font>
+
+1358
+01:38:12,893 --> 01:38:15,646
+<font face="Comic Sans MS">Trust and believe it
+You'll see that</font>
+
+1359
+01:38:15,729 --> 01:38:17,397
+<font face="Comic Sans MS">We'll lead the way</font>
+
+1360
+01:38:18,899 --> 01:38:20,526
+<font face="Comic Sans MS">Kumandra, Kumandra</font>
+
+1361
+01:38:21,109 --> 01:38:22,945
+<font face="Comic Sans MS">Kumandra, Kumandra</font>
+
+1362
+01:38:23,487 --> 01:38:25,030
+<font face="Comic Sans MS">Kumandra, Kumandra</font>
+
+1363
+01:38:25,948 --> 01:38:27,658
+<font face="Comic Sans MS">Kumandra, Kumandra</font>
+
