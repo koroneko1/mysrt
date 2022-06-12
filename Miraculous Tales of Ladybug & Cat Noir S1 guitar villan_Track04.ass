@@ -1,0 +1,398 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: ,0:00:02.18,0:00:04.62,Default,,0,0,0,,{\i1}&lrm;In the daytime, I'm Marinette,{\i0}
+Dialogue: ,0:00:04.74,0:00:07.02,Default,,0,0,0,,{\i1}&lrm;just a normal girl with a normal life,{\i0}
+Dialogue: ,0:00:07.98,0:00:10.94,Default,,0,0,0,,{\i1}&lrm;but there's something about me{\i0}\N{\i1}&lrm;that no-one knows yet,{\i0}
+Dialogue: ,0:00:11.26,0:00:12.90,Default,,0,0,0,,{\i1}&lrm;because I have a secret.{\i0}
+Dialogue: ,0:00:13.46,0:00:15.78,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! Simply the best! ♪{\i0}
+Dialogue: ,0:00:16.26,0:00:18.78,Default,,0,0,0,,{\i1}&lrm;♪ Up to the test when things go wrong! ♪{\i0}
+Dialogue: ,0:00:18.94,0:00:21.42,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! The luckiest! ♪{\i0}
+Dialogue: ,0:00:21.58,0:00:24.34,Default,,0,0,0,,{\i1}&lrm;♪ The power of love, always so strong! ♪{\i0}
+Dialogue: ,0:00:24.50,0:00:28.50,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! ♪{\i0}
+Dialogue: ,0:00:29.46,0:00:32.50,Default,,0,0,0,,&lrm;[Rock music]
+Dialogue: ,0:00:42.54,0:00:44.58,Default,,0,0,0,,&lrm;[singing] {\i1}&lrm;My miraculous!{\i0}
+Dialogue: ,0:00:44.74,0:00:46.02,Default,,0,0,0,,&lrm;[clapping]
+Dialogue: ,0:00:46.98,0:00:49.42,Default,,0,0,0,,&lrm;So, what do you think of my new album?
+Dialogue: ,0:00:49.58,0:00:51.42,Default,,0,0,0,,&lrm;Can you feel it, Bob? Isn't it killer?
+Dialogue: ,0:00:51.58,0:00:53.14,Default,,0,0,0,,&lrm;Not bad, Jagged, not bad,
+Dialogue: ,0:00:53.30,0:00:55.94,Default,,0,0,0,,&lrm;but if you really want\N&lrm;to make something killer,
+Dialogue: ,0:00:56.10,0:00:58.54,Default,,0,0,0,,&lrm;let's talk about this duet with Mr XY.
+Dialogue: ,0:00:58.70,0:01:00.34,Default,,0,0,0,,&lrm;No way, he's not a rocker.
+Dialogue: ,0:01:00.50,0:01:02.86,Default,,0,0,0,,&lrm;He's a baby. I bet he doesn't even shave.
+Dialogue: ,0:01:03.30,0:01:06.18,Default,,0,0,0,,&lrm;This "baby" just pushed you\N&lrm;off the No 1 spot.
+Dialogue: ,0:01:06.34,0:01:09.22,Default,,0,0,0,,&lrm;And? Doesn't make him\N&lrm;a true musician like me.
+Dialogue: ,0:01:09.38,0:01:12.42,Default,,0,0,0,,&lrm;Penny thinks everything I do is killer.
+Dialogue: ,0:01:12.58,0:01:15.02,Default,,0,0,0,,&lrm;Penny's your agent but I'm your real boss.
+Dialogue: ,0:01:15.18,0:01:19.14,Default,,0,0,0,,{\i1}&lrm;Bottom line is that Bob Roth Records{\i0}\N{\i1}&lrm;cannot afford to be No 2{\i0}
+Dialogue: ,0:01:19.30,0:01:21.22,Default,,0,0,0,,&lrm;or rep a No 2 rock star.
+Dialogue: ,0:01:21.38,0:01:24.06,Default,,0,0,0,,&lrm;Get real.\N&lrm;You have to modernise your music,
+Dialogue: ,0:01:24.22,0:01:26.30,Default,,0,0,0,,&lrm;change your look, get a new style.
+Dialogue: ,0:01:26.46,0:01:29.78,Default,,0,0,0,,&lrm;You wanna talk real?\N&lrm;I'm a genuine rock 'n' roller, Bob,
+Dialogue: ,0:01:29.94,0:01:31.78,Default,,0,0,0,,{\i1}&lrm;not some popstar in diapers.{\i0}
+Dialogue: ,0:01:31.90,0:01:35.42,Default,,0,0,0,,{\i1}&lrm;I'm an artist with real talent.{\i0}\N{\i1}&lrm;Even my hair's real.{\i0}
+Dialogue: ,0:01:35.58,0:01:39.42,Default,,0,0,0,,&lrm;That's what people love about me.\N&lrm;Isn't that right, Fang? Yeah.
+Dialogue: ,0:01:39.58,0:01:43.18,Default,,0,0,0,,&lrm;The artwork you did for my album\N&lrm;is a waste of my time.
+Dialogue: ,0:01:43.34,0:01:46.98,Default,,0,0,0,,&lrm;Seriously, Bob? What is this trash?\N&lrm;It looks like a perfume ad.
+Dialogue: ,0:01:47.14,0:01:49.22,Default,,0,0,0,,&lrm;That's what people want these days.
+Dialogue: ,0:01:49.38,0:01:50.58,Default,,0,0,0,,&lrm;Well I don't.
+Dialogue: ,0:01:50.74,0:01:54.54,Default,,0,0,0,,&lrm;My album covers exude the smell\N&lrm;of sweat and leather.
+Dialogue: ,0:01:55.06,0:01:58.62,Default,,0,0,0,,&lrm;If your next album doesn't rank\N&lrm;No 1 in the charts,
+Dialogue: ,0:01:58.78,0:02:01.58,Default,,0,0,0,,&lrm;it'll be your last\N&lrm;with Bob Roth Records!
+Dialogue: ,0:02:01.74,0:02:04.82,Default,,0,0,0,,&lrm;I'd rather do nothing\N&lrm;than sing a pathetic duet with
+Dialogue: ,0:02:04.98,0:02:06.34,Default,,0,0,0,,&lrm;a baby-faced nobody.
+Dialogue: ,0:02:06.50,0:02:09.26,Default,,0,0,0,,&lrm;Jagged and I had an idea.\N&lrm;Its concept is modern
+Dialogue: ,0:02:09.42,0:02:12.70,Default,,0,0,0,,&lrm;but it also respects\N&lrm;Jagged's own "rugged" style.
+Dialogue: ,0:02:12.86,0:02:15.46,Default,,0,0,0,,&lrm;The girl who made\N&lrm;these glasses has real talent.
+Dialogue: ,0:02:15.62,0:02:16.78,Default,,0,0,0,,&lrm;She gets my style.
+Dialogue: ,0:02:16.94,0:02:19.42,Default,,0,0,0,,&lrm;She'll design the cover of my new album.
+Dialogue: ,0:02:19.58,0:02:20.74,Default,,0,0,0,,&lrm;A schoolgirl?
+Dialogue: ,0:02:20.90,0:02:22.42,Default,,0,0,0,,&lrm;See? That's just it.
+Dialogue: ,0:02:22.58,0:02:25.14,Default,,0,0,0,,&lrm;She's the same age\N&lrm;as the target audience.
+Dialogue: ,0:02:25.46,0:02:26.66,Default,,0,0,0,,&lrm;Here's her address.
+Dialogue: ,0:02:26.82,0:02:27.90,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:02:28.06,0:02:29.26,Default,,0,0,0,,&lrm;[snarling]
+Dialogue: ,0:02:29.42,0:02:32.50,Default,,0,0,0,,&lrm;OK. But think about that duet\N&lrm;with Mr XY.
+Dialogue: ,0:02:32.66,0:02:33.94,Default,,0,0,0,,&lrm;Find that girl, Bob!
+Dialogue: ,0:02:34.46,0:02:36.42,Default,,0,0,0,,&lrm;[Bob] {\i1}&lrm;So, are you interested?{\i0}
+Dialogue: ,0:02:36.58,0:02:37.70,Default,,0,0,0,,&lrm;[Marinette] {\i1}&lrm;Wait,{\i0}
+Dialogue: ,0:02:37.86,0:02:39.22,Default,,0,0,0,,&lrm;let me get this straight.
+Dialogue: ,0:02:39.38,0:02:42.86,Default,,0,0,0,,&lrm;You want me to design\N&lrm;the album cover for Jagged Stone?
+Dialogue: ,0:02:43.02,0:02:45.34,Default,,0,0,0,,&lrm;My... all-time favourite singer?
+Dialogue: ,0:02:45.50,0:02:48.18,Default,,0,0,0,,&lrm;That's right, requested\N&lrm;by Jagged himself.
+Dialogue: ,0:02:48.34,0:02:50.98,Default,,0,0,0,,&lrm;I brought a few visuals\N&lrm;so you can get an idea.
+Dialogue: ,0:02:52.38,0:02:56.22,Default,,0,0,0,,&lrm;This doesn't seem like Jagged,\N&lrm;more like a perfume ad.
+Dialogue: ,0:02:56.38,0:02:59.46,Default,,0,0,0,,&lrm;It's the direction\N&lrm;of his new image, more modern.
+Dialogue: ,0:02:59.62,0:03:01.22,Default,,0,0,0,,&lrm;Really?
+Dialogue: ,0:03:01.38,0:03:02.78,Default,,0,0,0,,&lrm;I was thinking more...
+Dialogue: ,0:03:02.94,0:03:05.86,Default,,0,0,0,,&lrm;Don't think.\N&lrm;This is what is selling these days.
+Dialogue: ,0:03:06.02,0:03:07.22,Default,,0,0,0,,&lrm;Sure.
+Dialogue: ,0:03:07.38,0:03:10.86,Default,,0,0,0,,&lrm;We're in a hurry, we need a proposal\N&lrm;by the end of the day.
+Dialogue: ,0:03:11.02,0:03:12.06,Default,,0,0,0,,&lrm;You up to it?
+Dialogue: ,0:03:15.74,0:03:17.30,Default,,0,0,0,,&lrm;Yeah, OK.
+Dialogue: ,0:03:18.06,0:03:19.82,Default,,0,0,0,,&lrm;[Bob] See you later then.
+Dialogue: ,0:03:19.98,0:03:22.54,Default,,0,0,0,,&lrm;[Tom] My daughter, famous designer.
+Dialogue: ,0:03:22.70,0:03:24.86,Default,,0,0,0,,&lrm;You're gonna kill it, Marinette style!
+Dialogue: ,0:03:25.02,0:03:26.34,Default,,0,0,0,,&lrm;Boo-ya!
+Dialogue: ,0:03:27.22,0:03:29.02,Default,,0,0,0,,&lrm;[electronic music]
+Dialogue: ,0:03:37.14,0:03:38.74,Default,,0,0,0,,&lrm;[she groans]
+Dialogue: ,0:03:40.82,0:03:43.22,Default,,0,0,0,,&lrm;Why does Jagged Stone want\N&lrm;to change his style?
+Dialogue: ,0:03:43.38,0:03:47.18,Default,,0,0,0,,&lrm;XY's music is so... cold\N&lrm;and lifeless, repetitive, mundane...
+Dialogue: ,0:03:47.34,0:03:49.02,Default,,0,0,0,,&lrm;The total opposite of Jagged's.
+Dialogue: ,0:03:49.18,0:03:50.98,Default,,0,0,0,,&lrm;And what I've just done is...
+Dialogue: ,0:03:51.14,0:03:52.82,Default,,0,0,0,,&lrm;so not my style, either.
+Dialogue: ,0:03:52.98,0:03:54.98,Default,,0,0,0,,&lrm;So why're you doing it, then?
+Dialogue: ,0:03:55.14,0:03:56.54,Default,,0,0,0,,&lrm;That's what I was asked to do.
+Dialogue: ,0:03:56.70,0:04:00.02,Default,,0,0,0,,&lrm;Follow your gut feeling,\N&lrm;do something that's really you.
+Dialogue: ,0:04:00.18,0:04:02.42,Default,,0,0,0,,&lrm;But you heard what Mr Roth said,
+Dialogue: ,0:04:02.58,0:04:04.74,Default,,0,0,0,,&lrm;"This is what's selling these days".
+Dialogue: ,0:04:04.90,0:04:08.62,Default,,0,0,0,,&lrm;Yeah, but Jagged Stone wanted you\N&lrm;because of your style.
+Dialogue: ,0:04:09.10,0:04:12.10,Default,,0,0,0,,&lrm;[groaning] The pressure... I can't deal...
+Dialogue: ,0:04:12.26,0:04:15.02,Default,,0,0,0,,&lrm;Marinette, superhero,\N&lrm;defender of the innocent,
+Dialogue: ,0:04:15.18,0:04:18.46,Default,,0,0,0,,&lrm;fighter of all the rights,\N&lrm;can't deal with the pressure?
+Dialogue: ,0:04:22.86,0:04:25.14,Default,,0,0,0,,&lrm;[electronic music]
+Dialogue: ,0:04:29.54,0:04:32.90,Default,,0,0,0,,&lrm;What happened to the raw\N&lrm;impulsive artistry that make this?
+Dialogue: ,0:04:33.06,0:04:35.38,Default,,0,0,0,,&lrm;Yeah, about that... Mr Roth told me...
+Dialogue: ,0:04:35.54,0:04:37.98,Default,,0,0,0,,&lrm;She represents our target audience.
+Dialogue: ,0:04:38.14,0:04:40.86,Default,,0,0,0,,&lrm;Her modern concept is\N&lrm;exactly what you need.
+Dialogue: ,0:04:41.02,0:04:43.62,Default,,0,0,0,,&lrm;It looks like the cover of that YZ guy.
+Dialogue: ,0:04:43.78,0:04:45.18,Default,,0,0,0,,&lrm;Don't listen to Bob.
+Dialogue: ,0:04:45.34,0:04:47.74,Default,,0,0,0,,&lrm;Can you do another one... Jagged-style?
+Dialogue: ,0:04:47.90,0:04:49.30,Default,,0,0,0,,&lrm;Yeah, sure...
+Dialogue: ,0:04:49.46,0:04:50.94,Default,,0,0,0,,&lrm;But I don't know if...
+Dialogue: ,0:04:51.10,0:04:52.94,Default,,0,0,0,,&lrm;You're my girl, Marinette, remember,
+Dialogue: ,0:04:53.10,0:04:54.82,Default,,0,0,0,,&lrm;raw, impulsive artistry.
+Dialogue: ,0:04:54.98,0:04:57.42,Default,,0,0,0,,&lrm;-We're all done here, Bob.\N&lrm;-No, we are...
+Dialogue: ,0:04:57.82,0:04:59.78,Default,,0,0,0,,&lrm;[snarling]\N&lrm;[Bob whimpers]
+Dialogue: ,0:04:59.94,0:05:02.26,Default,,0,0,0,,&lrm;[Penny] {\i1}&lrm;Come, Marinette. Don't worry.{\i0}
+Dialogue: ,0:05:02.78,0:05:03.78,Default,,0,0,0,,&lrm;Just do your best.
+Dialogue: ,0:05:03.94,0:05:05.42,Default,,0,0,0,,&lrm;[snarling]\N&lrm;We are not...
+Dialogue: ,0:05:08.54,0:05:09.58,Default,,0,0,0,,{\i1}&lrm;Why am I No 1?{\i0}
+Dialogue: ,0:05:09.74,0:05:12.26,Default,,0,0,0,,{\i1}&lrm;Simple, it's all about technology.{\i0}
+Dialogue: ,0:05:12.42,0:05:15.70,Default,,0,0,0,,{\i1}&lrm;This computer produces music{\i0}\N{\i1}&lrm;and lyrics people will like.{\i0}
+Dialogue: ,0:05:15.86,0:05:17.46,Default,,0,0,0,,{\i1}&lrm;It's guaranteed success.{\i0}
+Dialogue: ,0:05:19.22,0:05:20.94,Default,,0,0,0,,{\i1}&lrm;You knocked Jagged Stone off{\i0}\N{\i1}&lrm;the No 1 spot.{\i0}
+Dialogue: ,0:05:21.10,0:05:22.22,Default,,0,0,0,,{\i1}&lrm;What do you think of him?{\i0}
+Dialogue: ,0:05:22.38,0:05:25.30,Default,,0,0,0,,{\i1}&lrm;Jagged Stone?{\i0}\N{\i1}&lrm;The "Hero of Rock n' Roll"?{\i0}
+Dialogue: ,0:05:25.46,0:05:28.34,Default,,0,0,0,,{\i1}&lrm;Try "Ragged" Stone.{\i0}\N{\i1}&lrm;He's old school, a has-been.{\i0}
+Dialogue: ,0:05:28.50,0:05:31.22,Default,,0,0,0,,&lrm;Me? Old school? A has been?
+Dialogue: ,0:05:31.98,0:05:33.42,Default,,0,0,0,,{\i1}&lrm;His career is over now.{\i0}
+Dialogue: ,0:05:33.58,0:05:35.90,Default,,0,0,0,,{\i1}&lrm;He'll never be No 1, not while XY here.{\i0}
+Dialogue: ,0:05:36.34,0:05:39.74,Default,,0,0,0,,&lrm;Why you... little perfume ad!
+Dialogue: ,0:05:39.90,0:05:41.10,Default,,0,0,0,,{\i1}&lrm;My music is killer.{\i0}
+Dialogue: ,0:05:41.26,0:05:43.06,Default,,0,0,0,,&lrm;He's stealing my catchphrases!
+Dialogue: ,0:05:43.22,0:05:46.50,Default,,0,0,0,,{\i1}&lrm;Mr XY will be giving{\i0}\N{\i1}&lrm;a very special one-time concert{\i0}
+Dialogue: ,0:05:46.66,0:05:48.42,Default,,0,0,0,,{\i1}&lrm;from the Eiffel Tower{\i0}
+Dialogue: ,0:05:48.58,0:05:51.90,Default,,0,0,0,,{\i1}&lrm;to celebrate his album's success{\i0}\N{\i1}&lrm;and thank his fans.{\i0}
+Dialogue: ,0:05:52.06,0:05:54.58,Default,,0,0,0,,{\i1}&lrm;Ragged, wanna hear{\i0}\N{\i1}&lrm;what today's music sounds like?{\i0}
+Dialogue: ,0:05:54.74,0:05:56.02,Default,,0,0,0,,{\i1}&lrm;Come to my concert.{\i0}
+Dialogue: ,0:05:56.18,0:05:59.02,Default,,0,0,0,,{\i1}&lrm;I'll get you a front-row seat, old man.{\i0}
+Dialogue: ,0:05:59.18,0:06:00.74,Default,,0,0,0,,&lrm;He can't say that!
+Dialogue: ,0:06:00.90,0:06:03.02,Default,,0,0,0,,&lrm;He's an insult to rock, and me!
+Dialogue: ,0:06:08.02,0:06:10.50,Default,,0,0,0,,&lrm;[rock music]\N&lrm;[munching]
+Dialogue: ,0:06:17.06,0:06:19.38,Default,,0,0,0,,&lrm;I feel a disharmonious soul,
+Dialogue: ,0:06:19.54,0:06:21.46,Default,,0,0,0,,&lrm;an angry discord.
+Dialogue: ,0:06:21.62,0:06:24.90,Default,,0,0,0,,&lrm;ideal prey for my evil Akumas...
+Dialogue: ,0:06:29.34,0:06:30.82,Default,,0,0,0,,&lrm;Go find that Jagged Stone
+Dialogue: ,0:06:30.98,0:06:33.06,Default,,0,0,0,,&lrm;and rock his world!
+Dialogue: ,0:06:40.90,0:06:43.02,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:06:50.66,0:06:53.70,Default,,0,0,0,,&lrm;Guitar Villain, I am Hawk Moth.
+Dialogue: ,0:06:54.10,0:06:58.14,Default,,0,0,0,,&lrm;I'm giving you and your crocodile\N&lrm;the power to show the whole world
+Dialogue: ,0:06:58.30,0:07:00.82,Default,,0,0,0,,&lrm;that you are the No 1 rocker.
+Dialogue: ,0:07:00.98,0:07:02.46,Default,,0,0,0,,&lrm;Just make sure you get me
+Dialogue: ,0:07:02.62,0:07:05.18,Default,,0,0,0,,&lrm;Ladybug and Cat Noir's\N&lrm;Miraculouses in return.
+Dialogue: ,0:07:05.66,0:07:07.78,Default,,0,0,0,,&lrm;Yeah, let's rock.
+Dialogue: ,0:07:14.94,0:07:16.90,Default,,0,0,0,,&lrm;Hey, Marinette. Hey, hi.
+Dialogue: ,0:07:17.06,0:07:18.54,Default,,0,0,0,,&lrm;Hey...Oh,
+Dialogue: ,0:07:18.70,0:07:21.58,Default,,0,0,0,,&lrm;What's going on?\N&lrm;I mean, how's up? I mean...
+Dialogue: ,0:07:21.74,0:07:22.98,Default,,0,0,0,,&lrm;[she sighs]
+Dialogue: ,0:07:23.14,0:07:24.62,Default,,0,0,0,,&lrm;Adrikins!
+Dialogue: ,0:07:24.78,0:07:26.30,Default,,0,0,0,,&lrm;There you are.
+Dialogue: ,0:07:26.46,0:07:28.78,Default,,0,0,0,,&lrm;Amazing Chloe has a surprise for you.
+Dialogue: ,0:07:28.94,0:07:31.22,Default,,0,0,0,,&lrm;She knows you're a fan of Jagged Stone.
+Dialogue: ,0:07:31.38,0:07:32.42,Default,,0,0,0,,&lrm;I am.
+Dialogue: ,0:07:32.58,0:07:36.42,Default,,0,0,0,,&lrm;So... you get a private meeting\N&lrm;with your favourite star.
+Dialogue: ,0:07:36.58,0:07:39.26,Default,,0,0,0,,&lrm;He's staying right here in daddy's hotel.
+Dialogue: ,0:07:39.42,0:07:41.54,Default,,0,0,0,,&lrm;Is Chloe the best? Is Chloe the best?
+Dialogue: ,0:07:44.54,0:07:45.58,Default,,0,0,0,,&lrm;Did you hear that?
+Dialogue: ,0:07:45.74,0:07:49.90,Default,,0,0,0,,&lrm;Chloe speaking in the 3rd person?\N&lrm;Totally... annoying.
+Dialogue: ,0:07:50.18,0:07:53.14,Default,,0,0,0,,&lrm;No, the part where Adrien likes\N&lrm;Jagged just like me.
+Dialogue: ,0:07:53.30,0:07:55.70,Default,,0,0,0,,&lrm;Now I definitely can't\N&lrm;mess up the artwork.
+Dialogue: ,0:07:55.86,0:07:56.98,Default,,0,0,0,,&lrm;So now what?
+Dialogue: ,0:07:57.14,0:08:00.06,Default,,0,0,0,,&lrm;I'm going to design\N&lrm;Jagged Stone's album my way
+Dialogue: ,0:08:00.22,0:08:01.34,Default,,0,0,0,,&lrm;and no one else's.
+Dialogue: ,0:08:01.50,0:08:03.62,Default,,0,0,0,,&lrm;Way to go. Follow your instinct.
+Dialogue: ,0:08:04.42,0:08:05.46,Default,,0,0,0,,&lrm;[questioning sigh]
+Dialogue: ,0:08:05.62,0:08:06.74,Default,,0,0,0,,&lrm;Talking bag,
+Dialogue: ,0:08:06.90,0:08:09.14,Default,,0,0,0,,&lrm;new technology... imported from Japan.
+Dialogue: ,0:08:11.02,0:08:14.50,Default,,0,0,0,,&lrm;You and I like the same kind\N&lrm;of music, isn't that awesome?
+Dialogue: ,0:08:14.66,0:08:16.54,Default,,0,0,0,,&lrm;I thought you liked Mr XY.
+Dialogue: ,0:08:16.70,0:08:18.78,Default,,0,0,0,,&lrm;Of course. Don't you?
+Dialogue: ,0:08:18.94,0:08:20.06,Default,,0,0,0,,&lrm;Not really.
+Dialogue: ,0:08:20.22,0:08:21.94,Default,,0,0,0,,&lrm;Well, neither do I.
+Dialogue: ,0:08:22.10,0:08:24.18,Default,,0,0,0,,&lrm;See? We have the same great taste.
+Dialogue: ,0:08:24.34,0:08:27.30,Default,,0,0,0,,&lrm;A duet with Mr XY\N&lrm;will prove that Jagged's still...
+Dialogue: ,0:08:27.46,0:08:28.62,Default,,0,0,0,,&lrm;[gasping]
+Dialogue: ,0:08:28.78,0:08:30.82,Default,,0,0,0,,&lrm;From now on,\N&lrm;you can call me Guitar Villain.
+Dialogue: ,0:08:30.98,0:08:33.06,Default,,0,0,0,,&lrm;I'll never do a duet with Mr XY.
+Dialogue: ,0:08:33.22,0:08:35.90,Default,,0,0,0,,&lrm;In fact, soon,\N&lrm;there won't even be a Mr XY.
+Dialogue: ,0:08:36.06,0:08:37.78,Default,,0,0,0,,&lrm;Rockin' Riff Baby!
+Dialogue: ,0:08:37.94,0:08:44.06,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:08:44.34,0:08:46.86,Default,,0,0,0,,&lrm;Soon, there'll be nothing\N&lrm;but Guitar Villain fans.
+Dialogue: ,0:08:47.02,0:08:48.50,Default,,0,0,0,,&lrm;The one and only rocker.
+Dialogue: ,0:08:49.02,0:08:51.02,Default,,0,0,0,,&lrm;Such symphony to my ears.
+Dialogue: ,0:08:51.18,0:08:52.66,Default,,0,0,0,,&lrm;It won't be long before
+Dialogue: ,0:08:52.82,0:08:55.78,Default,,0,0,0,,&lrm;Ladybug and Cat Noir show up\N&lrm;to meet their doom.
+Dialogue: ,0:08:56.14,0:08:58.46,Default,,0,0,0,,&lrm;Hurry, Adrien. Get me outta here.
+Dialogue: ,0:08:58.62,0:08:59.62,Default,,0,0,0,,&lrm;[she gasps]
+Dialogue: ,0:09:02.58,0:09:05.62,Default,,0,0,0,,&lrm;Yeah, Guitar Villain.
+Dialogue: ,0:09:05.78,0:09:07.62,Default,,0,0,0,,&lrm;Plagg, claws out!
+Dialogue: ,0:09:22.50,0:09:24.02,Default,,0,0,0,,&lrm;[gasping]
+Dialogue: ,0:09:25.50,0:09:27.30,Default,,0,0,0,,&lrm;Rockin' Riff, baby!
+Dialogue: ,0:09:27.46,0:09:31.38,Default,,0,0,0,,&lrm;[Rock music]
+Dialogue: ,0:09:36.34,0:09:38.58,Default,,0,0,0,,&lrm;[squeaking]
+Dialogue: ,0:09:38.74,0:09:40.82,Default,,0,0,0,,&lrm;Rockin' Riff, baby!
+Dialogue: ,0:09:40.98,0:09:41.98,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:09:51.46,0:09:54.06,Default,,0,0,0,,&lrm;Hey, Jagged, try and rock my world.
+Dialogue: ,0:09:54.22,0:09:56.62,Default,,0,0,0,,&lrm;The name's Guitar Villain, pussycat.
+Dialogue: ,0:09:56.78,0:09:58.66,Default,,0,0,0,,&lrm;Awesome Solo!
+Dialogue: ,0:10:11.74,0:10:13.66,Default,,0,0,0,,&lrm;Awesome Solo!
+Dialogue: ,0:10:15.82,0:10:17.74,Default,,0,0,0,,&lrm;Welcome to my fan club.
+Dialogue: ,0:10:17.90,0:10:20.46,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:10:21.58,0:10:23.58,Default,,0,0,0,,&lrm;[rumbling]\N&lrm;[she gasps]
+Dialogue: ,0:10:24.46,0:10:26.38,Default,,0,0,0,,&lrm;Do see what I see, Tikki?
+Dialogue: ,0:10:26.54,0:10:28.90,Default,,0,0,0,,&lrm;If you see a dragon, then yes I do.
+Dialogue: ,0:10:29.06,0:10:30.46,Default,,0,0,0,,&lrm;I've gotta transform.
+Dialogue: ,0:10:33.54,0:10:35.18,Default,,0,0,0,,&lrm;Tikki, spots on!
+Dialogue: ,0:10:55.34,0:10:56.46,Default,,0,0,0,,&lrm;Cat Noir, you OK?
+Dialogue: ,0:10:56.62,0:10:58.06,Default,,0,0,0,,&lrm;Good to see you, milady.
+Dialogue: ,0:11:01.26,0:11:02.50,Default,,0,0,0,,&lrm;Cat Noir, your stick!
+Dialogue: ,0:11:09.02,0:11:10.58,Default,,0,0,0,,&lrm;[he yells]
+Dialogue: ,0:11:14.18,0:11:15.26,Default,,0,0,0,,&lrm;[he chuckles]
+Dialogue: ,0:11:18.06,0:11:21.94,Default,,0,0,0,,&lrm;You're wasting my time.\N&lrm;I've got a concert to get to.
+Dialogue: ,0:11:22.10,0:11:23.82,Default,,0,0,0,,&lrm;We've gotta follow him.
+Dialogue: ,0:11:23.98,0:11:27.10,Default,,0,0,0,,&lrm;His power comes from his guitar.\N&lrm;We've gotta stop him from playing.
+Dialogue: ,0:11:27.26,0:11:28.90,Default,,0,0,0,,&lrm;I won't let you do this solo.
+Dialogue: ,0:11:32.22,0:11:34.90,Default,,0,0,0,,&lrm;[electronic music]
+Dialogue: ,0:11:37.98,0:11:40.82,Default,,0,0,0,,&lrm;You're an insult to the music world, XY!
+Dialogue: ,0:11:41.38,0:11:42.30,Default,,0,0,0,,&lrm;An hologram?
+Dialogue: ,0:11:44.74,0:11:45.94,Default,,0,0,0,,&lrm;[whimpering]
+Dialogue: ,0:11:47.50,0:11:48.74,Default,,0,0,0,,&lrm;Where's the real XY?
+Dialogue: ,0:11:48.90,0:11:50.26,Default,,0,0,0,,&lrm;He's not here.
+Dialogue: ,0:11:50.42,0:11:51.94,Default,,0,0,0,,&lrm;The concert's not till tonight.
+Dialogue: ,0:11:52.10,0:11:54.02,Default,,0,0,0,,&lrm;I'm just setting up the special effects.
+Dialogue: ,0:11:55.34,0:11:56.78,Default,,0,0,0,,&lrm;Awesome Solo!
+Dialogue: ,0:11:56.94,0:11:59.38,Default,,0,0,0,,&lrm;[rock music]\N&lrm;[exploding]
+Dialogue: ,0:12:00.34,0:12:02.02,Default,,0,0,0,,&lrm;Where's Mr XY? Answer me!
+Dialogue: ,0:12:02.42,0:12:04.26,Default,,0,0,0,,&lrm;On TV. He's at the TV station.
+Dialogue: ,0:12:04.42,0:12:06.66,Default,,0,0,0,,&lrm;Rockin' Riff Baby!
+Dialogue: ,0:12:07.50,0:12:09.30,Default,,0,0,0,,&lrm;[gasping] You again?
+Dialogue: ,0:12:09.46,0:12:11.42,Default,,0,0,0,,&lrm;To the TV studios, Fang.
+Dialogue: ,0:12:18.34,0:12:19.58,Default,,0,0,0,,&lrm;He'll get there before us!
+Dialogue: ,0:12:19.74,0:12:22.10,Default,,0,0,0,,&lrm;We'd better make sure\N&lrm;he doesn't find XY.
+Dialogue: ,0:12:22.26,0:12:23.10,Default,,0,0,0,,&lrm;[Mrs &lrm;Chamack]{\i1}&lrm; Kids plus TV,{\i0}
+Dialogue: ,0:12:23.26,0:12:24.46,Default,,0,0,0,,&lrm;how can I help?
+Dialogue: ,0:12:25.66,0:12:27.22,Default,,0,0,0,,&lrm;Ladybug says we're in danger.
+Dialogue: ,0:12:27.38,0:12:29.74,Default,,0,0,0,,&lrm;Mr XY, we have to leave now.
+Dialogue: ,0:12:29.90,0:12:31.82,Default,,0,0,0,,&lrm;What the heck?
+Dialogue: ,0:12:31.98,0:12:34.86,Default,,0,0,0,,&lrm;Ladybug said you're not safe.\N&lrm;Hit the credits.
+Dialogue: ,0:12:35.02,0:12:39.26,Default,,0,0,0,,&lrm;[dramatic music]
+Dialogue: ,0:12:39.74,0:12:41.42,Default,,0,0,0,,&lrm;Where's that studio?
+Dialogue: ,0:12:41.58,0:12:43.14,Default,,0,0,0,,&lrm;[Receptionist] Third... floor.
+Dialogue: ,0:12:50.54,0:12:52.26,Default,,0,0,0,,&lrm;[frustrated sigh]
+Dialogue: ,0:12:52.42,0:12:54.30,Default,,0,0,0,,&lrm;Awesome Solo!
+Dialogue: ,0:12:57.58,0:12:59.38,Default,,0,0,0,,&lrm;[Alec] Everything will be fine.
+Dialogue: ,0:12:59.54,0:13:01.02,Default,,0,0,0,,&lrm;It's just a precaution.
+Dialogue: ,0:13:01.18,0:13:02.74,Default,,0,0,0,,&lrm;We must get you to safety.
+Dialogue: ,0:13:02.90,0:13:04.06,Default,,0,0,0,,&lrm;What's he gonna do,
+Dialogue: ,0:13:04.22,0:13:06.42,Default,,0,0,0,,&lrm;blow me away with his "evil guitar solo"?
+Dialogue: ,0:13:06.58,0:13:07.30,Default,,0,0,0,,&lrm;YES!
+Dialogue: ,0:13:07.46,0:13:09.86,Default,,0,0,0,,&lrm;We'll catch him,\N&lrm;and get you to the Eiffel Tower
+Dialogue: ,0:13:10.02,0:13:11.46,Default,,0,0,0,,&lrm;in time for your live concert.
+Dialogue: ,0:13:11.62,0:13:12.66,Default,,0,0,0,,&lrm;[puffing] Who cares?
+Dialogue: ,0:13:12.82,0:13:14.94,Default,,0,0,0,,&lrm;My roadies can project my image.
+Dialogue: ,0:13:15.10,0:13:16.90,Default,,0,0,0,,&lrm;Live concerts are so 10-minutes-ago.
+Dialogue: ,0:13:18.30,0:13:22.58,Default,,0,0,0,,&lrm;[cackling]
+Dialogue: ,0:13:25.98,0:13:27.06,Default,,0,0,0,,&lrm;[whimpering]
+Dialogue: ,0:13:27.22,0:13:28.30,Default,,0,0,0,,&lrm;Good job, Fang.
+Dialogue: ,0:13:28.46,0:13:30.18,Default,,0,0,0,,&lrm;I've found you at last, XY.
+Dialogue: ,0:13:30.34,0:13:31.66,Default,,0,0,0,,&lrm;Ready for the show?
+Dialogue: ,0:13:31.82,0:13:33.42,Default,,0,0,0,,&lrm;Dude, are you Jagged Stone?
+Dialogue: ,0:13:33.58,0:13:36.62,Default,,0,0,0,,&lrm;Was Jagged Stone...\N&lrm;Now I'm Guitar Villain!
+Dialogue: ,0:13:36.78,0:13:38.22,Default,,0,0,0,,&lrm;[he laughs] Don't worry,
+Dialogue: ,0:13:38.38,0:13:41.06,Default,,0,0,0,,&lrm;you don't deserve to become\N&lrm;one of my fans.
+Dialogue: ,0:13:41.22,0:13:43.42,Default,,0,0,0,,&lrm;I've got something special\N&lrm;in store for you
+Dialogue: ,0:13:43.58,0:13:45.86,Default,,0,0,0,,&lrm;something with a little rock 'n' roll!
+Dialogue: ,0:13:46.02,0:13:47.06,Default,,0,0,0,,&lrm;No!
+Dialogue: ,0:13:48.30,0:13:50.10,Default,,0,0,0,,&lrm;[Cat Noir] Back to square one.
+Dialogue: ,0:13:50.26,0:13:52.82,Default,,0,0,0,,&lrm;We're in for quite a concert. You ready?
+Dialogue: ,0:13:52.98,0:13:54.74,Default,,0,0,0,,&lrm;To Rock 'n' Riff, baby!
+Dialogue: ,0:14:03.22,0:14:05.26,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:14:08.02,0:14:10.10,Default,,0,0,0,,&lrm;[cheering]
+Dialogue: ,0:14:15.94,0:14:18.02,Default,,0,0,0,,&lrm;[cheering]
+Dialogue: ,0:14:18.18,0:14:20.10,Default,,0,0,0,,&lrm;Hello, Paris!
+Dialogue: ,0:14:20.94,0:14:22.26,Default,,0,0,0,,&lrm;You said your music is
+Dialogue: ,0:14:22.42,0:14:24.30,Default,,0,0,0,,&lrm;the only killer music around,\N&lrm;is that right?
+Dialogue: ,0:14:24.46,0:14:26.14,Default,,0,0,0,,&lrm;I-I d-didn't mean it.
+Dialogue: ,0:14:26.30,0:14:27.98,Default,,0,0,0,,&lrm;Listen, Mr... Guitar...
+Dialogue: ,0:14:28.14,0:14:31.02,Default,,0,0,0,,&lrm;we can...do the duet your style.
+Dialogue: ,0:14:31.18,0:14:32.42,Default,,0,0,0,,&lrm;[whimpering]
+Dialogue: ,0:14:34.74,0:14:37.14,Default,,0,0,0,,&lrm;[whimpering]\N&lrm;[cackling]
+Dialogue: ,0:14:37.30,0:14:40.94,Default,,0,0,0,,&lrm;Too late. I'm going to show you\N&lrm;what killer music really is.
+Dialogue: ,0:14:41.98,0:14:43.82,Default,,0,0,0,,&lrm;Ultimate Solo!
+Dialogue: ,0:14:43.98,0:14:45.58,Default,,0,0,0,,&lrm;[rock music] Stop, please.
+Dialogue: ,0:14:57.42,0:14:59.62,Default,,0,0,0,,&lrm;[Ladybug] {\i1}&lrm;XY's gonna fall!{\i0}
+Dialogue: ,0:14:59.78,0:15:02.34,Default,,0,0,0,,&lrm;Talk about being\N&lrm;between a rock and a hard place.
+Dialogue: ,0:15:09.18,0:15:10.66,Default,,0,0,0,,&lrm;[yelling]
+Dialogue: ,0:15:18.86,0:15:21.26,Default,,0,0,0,,&lrm;Easy, easy, nice dragon.
+Dialogue: ,0:15:23.58,0:15:26.58,Default,,0,0,0,,&lrm;Enough already,\N&lrm;we've got a stuffed kitty to rescue.
+Dialogue: ,0:15:37.30,0:15:39.98,Default,,0,0,0,,&lrm;[Cat Noir]\N&lrm;Well, the bug mastered the dragon.
+Dialogue: ,0:15:40.78,0:15:42.34,Default,,0,0,0,,&lrm;How d'you like the concert?
+Dialogue: ,0:15:42.50,0:15:45.18,Default,,0,0,0,,&lrm;Still think your music is\N&lrm;the only killer music?
+Dialogue: ,0:15:45.34,0:15:47.34,Default,,0,0,0,,&lrm;N-No. Please... don't.
+Dialogue: ,0:15:47.50,0:15:49.46,Default,,0,0,0,,&lrm;[whimpering]
+Dialogue: ,0:15:49.62,0:15:52.34,Default,,0,0,0,,&lrm;-Awesome Solo...\N&lrm;-Not so fast!
+Dialogue: ,0:15:52.50,0:15:53.82,Default,,0,0,0,,&lrm;[dragon roars] My dragon?
+Dialogue: ,0:15:53.98,0:15:55.18,Default,,0,0,0,,&lrm;Ladybug, Cat Noir, hurry!
+Dialogue: ,0:15:59.30,0:16:00.34,Default,,0,0,0,,&lrm;Nice job.
+Dialogue: ,0:16:01.66,0:16:04.34,Default,,0,0,0,,&lrm;Too late.\N&lrm;Nothing can stop Guitar Villain.
+Dialogue: ,0:16:04.50,0:16:06.26,Default,,0,0,0,,&lrm;Rockin' Riff Baby!
+Dialogue: ,0:16:06.42,0:16:09.58,Default,,0,0,0,,&lrm;We only rock to the real Jagged Stone.
+Dialogue: ,0:16:11.94,0:16:13.82,Default,,0,0,0,,&lrm;The Akuma must be in his guitar.
+Dialogue: ,0:16:13.98,0:16:15.50,Default,,0,0,0,,&lrm;How we gonna get to that?
+Dialogue: ,0:16:15.66,0:16:17.86,Default,,0,0,0,,&lrm;[Ladybug] Let's go backstage.
+Dialogue: ,0:16:28.54,0:16:29.82,Default,,0,0,0,,&lrm;Where did they go?
+Dialogue: ,0:16:31.30,0:16:32.70,Default,,0,0,0,,&lrm;[groaning]
+Dialogue: ,0:16:32.86,0:16:34.10,Default,,0,0,0,,&lrm;You OK?
+Dialogue: ,0:16:39.06,0:16:41.66,Default,,0,0,0,,&lrm;Too bad.\N&lrm;They're gonna miss the final song.
+Dialogue: ,0:16:41.82,0:16:43.94,Default,,0,0,0,,&lrm;[cackling] Solo!
+Dialogue: ,0:16:46.98,0:16:48.66,Default,,0,0,0,,&lrm;[whimpering]
+Dialogue: ,0:16:48.82,0:16:50.34,Default,,0,0,0,,&lrm;Are you scared?
+Dialogue: ,0:16:50.50,0:16:52.62,Default,,0,0,0,,&lrm;Or is it too awesome for you?
+Dialogue: ,0:16:53.10,0:16:54.26,Default,,0,0,0,,&lrm;Please, Mr Guitar Villain.
+Dialogue: ,0:16:55.94,0:16:57.26,Default,,0,0,0,,&lrm;Lucky charm!
+Dialogue: ,0:17:02.70,0:17:05.66,Default,,0,0,0,,&lrm;-Extreme fixing gel?\N&lrm;-You plan on doing his hair?
+Dialogue: ,0:17:05.82,0:17:06.70,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:17:11.62,0:17:13.22,Default,,0,0,0,,&lrm;Actually, yes!
+Dialogue: ,0:17:13.66,0:17:14.90,Default,,0,0,0,,&lrm;Go get him, Cat Noir!
+Dialogue: ,0:17:17.34,0:17:19.58,Default,,0,0,0,,&lrm;Maybe you haven't heard it properly.
+Dialogue: ,0:17:33.58,0:17:34.98,Default,,0,0,0,,&lrm;Cataclysm!
+Dialogue: ,0:17:39.54,0:17:41.10,Default,,0,0,0,,&lrm;Awesome Solo!
+Dialogue: ,0:17:46.26,0:17:47.66,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:17:51.54,0:17:53.34,Default,,0,0,0,,&lrm;[he screams]
+Dialogue: ,0:17:53.50,0:17:55.38,Default,,0,0,0,,&lrm;I can't see! Where are my fans?
+Dialogue: ,0:17:58.06,0:17:58.94,Default,,0,0,0,,&lrm;[XY] {\i1}&lrm;Hey,{\i0}
+Dialogue: ,0:17:59.10,0:18:00.22,Default,,0,0,0,,&lrm;don't forget me!
+Dialogue: ,0:18:00.38,0:18:01.30,Default,,0,0,0,,&lrm;[screaming]
+Dialogue: ,0:18:03.14,0:18:05.06,Default,,0,0,0,,&lrm;[he squeals]
+Dialogue: ,0:18:10.70,0:18:12.38,Default,,0,0,0,,&lrm;Music's over, Akuma.
+Dialogue: ,0:18:16.82,0:18:18.66,Default,,0,0,0,,&lrm;Time to de-evilise!
+Dialogue: ,0:18:22.18,0:18:23.14,Default,,0,0,0,,&lrm;Rock 'n' Roll!
+Dialogue: ,0:18:24.26,0:18:26.06,Default,,0,0,0,,&lrm;Bye-bye, little butterfly.
+Dialogue: ,0:18:27.10,0:18:28.54,Default,,0,0,0,,&lrm;Miraculous Ladybug!
+Dialogue: ,0:18:37.74,0:18:38.94,Default,,0,0,0,,&lrm;POUND IT!
+Dialogue: ,0:18:39.10,0:18:41.02,Default,,0,0,0,,&lrm;What's he doing here?
+Dialogue: ,0:18:41.18,0:18:44.94,Default,,0,0,0,,&lrm;He came to tell you that\N&lrm;you've underestimated his music
+Dialogue: ,0:18:45.10,0:18:46.38,Default,,0,0,0,,&lrm;This guy's crazy!
+Dialogue: ,0:18:46.54,0:18:47.62,Default,,0,0,0,,&lrm;Thank you.
+Dialogue: ,0:18:47.78,0:18:49.70,Default,,0,0,0,,&lrm;How about an autograph, Jagged?
+Dialogue: ,0:18:50.66,0:18:53.14,Default,,0,0,0,,&lrm;I still have work to do. Bug out!
+Dialogue: ,0:18:53.30,0:18:54.58,Default,,0,0,0,,&lrm;[they gasp]
+Dialogue: ,0:18:56.46,0:18:59.98,Default,,0,0,0,,&lrm;Don't do your victory dance\N&lrm;just yet, because one day,
+Dialogue: ,0:19:00.14,0:19:02.14,Default,,0,0,0,,&lrm;I'll play you my favourite music,
+Dialogue: ,0:19:02.30,0:19:06.26,Default,,0,0,0,,&lrm;the anthem of your defeat,\N&lrm;Ladybug and Cat Noir!
+Dialogue: ,0:19:08.74,0:19:12.46,Default,,0,0,0,,&lrm;[rock music]
+Dialogue: ,0:19:12.62,0:19:13.74,Default,,0,0,0,,&lrm;Done!
+Dialogue: ,0:19:16.78,0:19:18.66,Default,,0,0,0,,&lrm;Jagged Stone will love it.
+Dialogue: ,0:19:18.82,0:19:21.58,Default,,0,0,0,,&lrm;I hope so, it's 100% Marinette.
+Dialogue: ,0:19:21.74,0:19:23.86,Default,,0,0,0,,&lrm;It's my... awesome solo!
+Dialogue: ,0:19:24.02,0:19:25.50,Default,,0,0,0,,&lrm;[Tikki] Rock 'n' Roll!
+Dialogue: ,0:19:29.50,0:19:30.74,Default,,0,0,0,,&lrm;Yeah, this is it.
+Dialogue: ,0:19:30.90,0:19:31.98,Default,,0,0,0,,&lrm;You did it, girl.
+Dialogue: ,0:19:32.14,0:19:33.94,Default,,0,0,0,,&lrm;I can almost smell\N&lrm;the leather and sweat
+Dialogue: ,0:19:34.10,0:19:35.74,Default,,0,0,0,,&lrm;radiating off of this design.
+Dialogue: ,0:19:35.90,0:19:36.94,Default,,0,0,0,,&lrm;[he sniffs]
+Dialogue: ,0:19:37.10,0:19:39.26,Default,,0,0,0,,&lrm;You actually are smelling it.
+Dialogue: ,0:19:39.42,0:19:42.02,Default,,0,0,0,,&lrm;I made a scented sticker\N&lrm;for your album.
+Dialogue: ,0:19:42.18,0:19:45.14,Default,,0,0,0,,&lrm;I want it. I gotta have it.\N&lrm;It's authentic. It's original.
+Dialogue: ,0:19:45.30,0:19:46.62,Default,,0,0,0,,&lrm;It's...so jagged.
+Dialogue: ,0:19:46.78,0:19:48.86,Default,,0,0,0,,&lrm;No, you can't. It's not what...
+Dialogue: ,0:19:49.02,0:19:50.02,Default,,0,0,0,,&lrm;Fine, then I'm outta here.
+Dialogue: ,0:19:50.18,0:19:52.26,Default,,0,0,0,,&lrm;I'm sure another record company\N&lrm;would be perfectly happy
+Dialogue: ,0:19:52.42,0:19:53.86,Default,,0,0,0,,&lrm;with a No 2 chart-topper.
+Dialogue: ,0:19:55.38,0:19:56.90,Default,,0,0,0,,&lrm;[Bob huffs]
+Dialogue: ,0:20:02.26,0:20:03.46,Default,,0,0,0,,&lrm;[excited squealing]
+Dialogue: ,0:20:03.62,0:20:05.30,Default,,0,0,0,,&lrm;I've just designed the cover
+Dialogue: ,0:20:05.46,0:20:07.34,Default,,0,0,0,,&lrm;for Jagged Stone's new album.
+Dialogue: ,0:20:07.50,0:20:09.62,Default,,0,0,0,,&lrm;I'm so proud of you, Marinette
+Dialogue: ,0:20:09.78,0:20:12.74,Default,,0,0,0,,{\i1}&lrm;Jagged Stone's new album{\i0}\N{\i1}&lrm;hit the charts at No 1,{\i0}
+Dialogue: ,0:20:12.90,0:20:15.14,Default,,0,0,0,,{\i1}&lrm;knocking Mr XY off of his throne.{\i0}
+Dialogue: ,0:20:15.30,0:20:17.02,Default,,0,0,0,,{\i1}&lrm;Welcome back, King of Rock.{\i0}
+Dialogue: ,0:20:20.86,0:20:21.90,Default,,0,0,0,,&lrm;Hey, Marinette.
+Dialogue: ,0:20:22.06,0:20:24.10,Default,,0,0,0,,&lrm;I'm a huge fan of Jagged Stone's
+Dialogue: ,0:20:24.26,0:20:26.50,Default,,0,0,0,,&lrm;and I saw you designed\N&lrm;his album cover.
+Dialogue: ,0:20:26.66,0:20:29.18,Default,,0,0,0,,&lrm;I-I did. Crazy, isn't it?
+Dialogue: ,0:20:29.34,0:20:32.42,Default,,0,0,0,,&lrm;I wanted to ask if...\N&lrm;I could get it... autographed?
+Dialogue: ,0:20:32.58,0:20:35.22,Default,,0,0,0,,&lrm;O-OK, sure... I'll ask him.
+Dialogue: ,0:20:35.90,0:20:38.50,Default,,0,0,0,,&lrm;No... actually, I meant you.
+Dialogue: ,0:20:40.06,0:20:40.94,Default,,0,0,0,,&lrm;Me?...Me?
+Dialogue: ,0:20:41.90,0:20:43.94,Default,,0,0,0,,&lrm;If you wouldn't mind.
+Dialogue: ,0:20:44.10,0:20:46.46,Default,,0,0,0,,&lrm;Awesome! Thanks, Marinette.
+Dialogue: ,0:20:48.06,0:20:49.42,Default,,0,0,0,,&lrm;[growling]
+Dialogue: ,0:20:49.58,0:20:53.26,Default,,0,0,0,,&lrm;Did I imagine it or did you sign\N&lrm;an autograph for Adrien?
+Dialogue: ,0:20:53.42,0:20:56.70,Default,,0,0,0,,&lrm;I can't feel my legs.\N&lrm;Hold me up. I'm gonna fall over.
+Dialogue: ,0:20:56.86,0:20:58.14,Default,,0,0,0,,&lrm;Is he still around?
+Dialogue: ,0:20:58.30,0:21:00.46,Default,,0,0,0,,&lrm;It's OK, he's gone. You can fall over.
+Dialogue: ,0:21:00.62,0:21:03.18,Default,,0,0,0,,&lrm;This is the happiest day of my life.
+Dialogue: ,0:21:03.34,0:21:06.34,Default,,0,0,0,,&lrm;[Marinette] Rock 'n' Roll!

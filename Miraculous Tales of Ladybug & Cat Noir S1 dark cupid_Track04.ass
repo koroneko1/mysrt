@@ -1,0 +1,409 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: ,0:00:02.14,0:00:04.58,Default,,0,0,0,,{\i1}&lrm;In the daytime I'm Marinette,{\i0}
+Dialogue: ,0:00:04.70,0:00:07.02,Default,,0,0,0,,{\i1}&lrm;just a normal girl with a normal life,{\i0}
+Dialogue: ,0:00:07.90,0:00:10.94,Default,,0,0,0,,{\i1}&lrm;but there's something about me{\i0}\N{\i1}&lrm;that no-one knows yet{\i0}
+Dialogue: ,0:00:11.22,0:00:12.82,Default,,0,0,0,,{\i1}&lrm;because I have a secret.{\i0}
+Dialogue: ,0:00:13.46,0:00:15.78,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! Simply the best! ♪{\i0}
+Dialogue: ,0:00:16.26,0:00:18.78,Default,,0,0,0,,{\i1}&lrm;♪ Up to the test when things go wrong! ♪{\i0}
+Dialogue: ,0:00:18.94,0:00:21.42,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! The luckiest! ♪{\i0}
+Dialogue: ,0:00:21.58,0:00:24.34,Default,,0,0,0,,{\i1}&lrm;♪ The power of love, always so strong! ♪{\i0}
+Dialogue: ,0:00:24.50,0:00:28.50,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! ♪{\i0}
+Dialogue: ,0:00:29.34,0:00:31.22,Default,,0,0,0,,&lrm;[Mrs. Bustier] {\i1}&lrm;In most fairy tales,{\i0}
+Dialogue: ,0:00:31.38,0:00:34.10,Default,,0,0,0,,&lrm;the prince breaks the spell\N&lrm;by kissing the princess.
+Dialogue: ,0:00:34.26,0:00:35.58,Default,,0,0,0,,&lrm;Who can tell us why?
+Dialogue: ,0:00:35.74,0:00:38.46,Default,,0,0,0,,&lrm;Because only love can conquer hate.
+Dialogue: ,0:00:38.62,0:00:39.90,Default,,0,0,0,,&lrm;[Mrs. Bustier] Correct.
+Dialogue: ,0:00:40.06,0:00:41.18,Default,,0,0,0,,&lrm;Technically,
+Dialogue: ,0:00:41.34,0:00:44.98,Default,,0,0,0,,&lrm;[Max continues]\N&lrm;this is only true in 87% of cases.
+Dialogue: ,0:00:45.82,0:00:46.86,Default,,0,0,0,,&lrm;Thank you, Max.
+Dialogue: ,0:00:47.02,0:00:49.14,Default,,0,0,0,,&lrm;Adrien, I hope that's about my lesson.
+Dialogue: ,0:00:50.46,0:00:51.50,Default,,0,0,0,,&lrm;What did I just say?
+Dialogue: ,0:00:51.66,0:00:54.30,Default,,0,0,0,,&lrm;The prince breaks the spell by\N&lrm;kissing the princess
+Dialogue: ,0:00:54.46,0:00:55.62,Default,,0,0,0,,&lrm;because love conquers hate.
+Dialogue: ,0:00:55.78,0:00:56.86,Default,,0,0,0,,&lrm;Very good.
+Dialogue: ,0:00:57.02,0:00:58.02,Default,,0,0,0,,&lrm;[bell rings]
+Dialogue: ,0:00:58.18,0:01:00.70,Default,,0,0,0,,&lrm;Don't forget to finish {\i1}&lrm;Sleeping Beauty{\i0}&lrm;.
+Dialogue: ,0:01:00.86,0:01:02.34,Default,,0,0,0,,&lrm;Happy Valentine's day.
+Dialogue: ,0:01:03.18,0:01:04.78,Default,,0,0,0,,&lrm;I'll meet you outside.
+Dialogue: ,0:01:04.94,0:01:05.98,Default,,0,0,0,,&lrm;OK.
+Dialogue: ,0:01:06.62,0:01:07.94,Default,,0,0,0,,&lrm;[Adrien sighs]
+Dialogue: ,0:01:11.10,0:01:12.46,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:01:13.94,0:01:15.46,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:01:16.18,0:01:17.34,Default,,0,0,0,,&lrm;[she chuckles]
+Dialogue: ,0:01:18.82,0:01:20.66,Default,,0,0,0,,&lrm;Hi, Adrien. Sign here, please.
+Dialogue: ,0:01:20.82,0:01:23.10,Default,,0,0,0,,&lrm;You know I hate signing autographs.
+Dialogue: ,0:01:23.26,0:01:24.98,Default,,0,0,0,,&lrm;That's not what this is.
+Dialogue: ,0:01:25.14,0:01:27.38,Default,,0,0,0,,&lrm;It's a petition\N&lrm;against cruelty to hamsters.
+Dialogue: ,0:01:27.54,0:01:30.30,Default,,0,0,0,,&lrm;Have you seen the sweaters\N&lrm;they're forced to wear?
+Dialogue: ,0:01:30.98,0:01:32.70,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:01:34.90,0:01:35.94,Default,,0,0,0,,&lrm;[they gasp]
+Dialogue: ,0:01:36.10,0:01:37.22,Default,,0,0,0,,&lrm;[Chloe giggles]
+Dialogue: ,0:01:40.38,0:01:43.58,Default,,0,0,0,,&lrm;Well, well, Marinette,\N&lrm;looking for something to eat?
+Dialogue: ,0:01:43.74,0:01:45.74,Default,,0,0,0,,&lrm;Maybe she's looking\N&lrm;for better clothes.
+Dialogue: ,0:01:45.90,0:01:46.94,Default,,0,0,0,,&lrm;[they giggle]
+Dialogue: ,0:01:47.38,0:01:48.46,Default,,0,0,0,,&lrm;[she growls]
+Dialogue: ,0:01:48.62,0:01:49.98,Default,,0,0,0,,&lrm;Ignore them.
+Dialogue: ,0:01:50.14,0:01:51.58,Default,,0,0,0,,&lrm;They're not worth it.
+Dialogue: ,0:01:51.74,0:01:52.94,Default,,0,0,0,,&lrm;You're right.
+Dialogue: ,0:01:53.10,0:01:55.54,Default,,0,0,0,,&lrm;"Your hair is dark as night,\N&lrm;Your pretty bluebell eyes.
+Dialogue: ,0:01:55.70,0:01:58.06,Default,,0,0,0,,&lrm;I wonder who you are\N&lrm;Beneath that strong disguise.
+Dialogue: ,0:01:58.22,0:02:01.18,Default,,0,0,0,,&lrm;Every day we see each other,\N&lrm;I hope that you'll be mine.
+Dialogue: ,0:02:01.34,0:02:05.02,Default,,0,0,0,,&lrm;Together our love could be so true,\N&lrm;Please be my Valentine."
+Dialogue: ,0:02:05.18,0:02:07.06,Default,,0,0,0,,&lrm;Wow, now that's a love poem.
+Dialogue: ,0:02:07.22,0:02:08.74,Default,,0,0,0,,&lrm;Who could it be to?
+Dialogue: ,0:02:08.90,0:02:11.02,Default,,0,0,0,,&lrm;"Hair dark as night",\N&lrm;"Bluebell eyes"?
+Dialogue: ,0:02:11.18,0:02:12.30,Default,,0,0,0,,&lrm;Well... you.
+Dialogue: ,0:02:12.70,0:02:14.14,Default,,0,0,0,,&lrm;[giggling]\N&lrm;No way.
+Dialogue: ,0:02:14.30,0:02:18.02,Default,,0,0,0,,&lrm;There are plenty of girls at school\N&lrm;with dark hair and blue eyes.
+Dialogue: ,0:02:18.18,0:02:19.66,Default,,0,0,0,,&lrm;Yes, but bluebell eyes?
+Dialogue: ,0:02:20.46,0:02:22.86,Default,,0,0,0,,&lrm;What does he mean by "strong disguise"?
+Dialogue: ,0:02:23.02,0:02:24.14,Default,,0,0,0,,&lrm;[Tikki sighs]
+Dialogue: ,0:02:24.30,0:02:27.38,Default,,0,0,0,,&lrm;This is poetry.\N&lrm;He means who you are deep down.
+Dialogue: ,0:02:27.54,0:02:30.54,Default,,0,0,0,,&lrm;He wants to get to know you.\N&lrm;He's talking about you.
+Dialogue: ,0:02:30.70,0:02:33.46,Default,,0,0,0,,&lrm;[she squeals with delight]\N&lrm;Pinch me.
+Dialogue: ,0:02:35.90,0:02:37.14,Default,,0,0,0,,&lrm;[shrieking]\N&lrm;Not literally!
+Dialogue: ,0:02:37.42,0:02:38.82,Default,,0,0,0,,&lrm;[Tikki giggles]
+Dialogue: ,0:02:43.70,0:02:45.94,Default,,0,0,0,,&lrm;Operation Valentine's Day\N&lrm;is commencing.
+Dialogue: ,0:02:46.10,0:02:48.78,Default,,0,0,0,,&lrm;According to my research\N&lrm;of shopping sites,
+Dialogue: ,0:02:48.94,0:02:51.90,Default,,0,0,0,,&lrm;this jewel was ranked\N&lrm;highest in popularity.
+Dialogue: ,0:02:53.62,0:02:56.18,Default,,0,0,0,,&lrm;Perfect. I'll hit a homerun\N&lrm;with this one.
+Dialogue: ,0:02:56.34,0:02:59.66,Default,,0,0,0,,&lrm;Love is like baseball, right?\N&lrm;You need a strategy.
+Dialogue: ,0:02:59.82,0:03:02.70,Default,,0,0,0,,&lrm;And if you aim right,\N&lrm;it's a homerun.
+Dialogue: ,0:03:03.54,0:03:05.94,Default,,0,0,0,,&lrm;-Great metaphor, Kim.\N&lrm;-Meta who?
+Dialogue: ,0:03:06.10,0:03:08.22,Default,,0,0,0,,&lrm;Wow, sparkly. Is that for me?
+Dialogue: ,0:03:09.58,0:03:11.94,Default,,0,0,0,,&lrm;No, Alya,\N&lrm;it's for someone else, it's...
+Dialogue: ,0:03:12.10,0:03:13.94,Default,,0,0,0,,&lrm;Shh! Keep quiet.
+Dialogue: ,0:03:14.10,0:03:16.14,Default,,0,0,0,,&lrm;Scoop! Kim's got a crush.
+Dialogue: ,0:03:16.30,0:03:18.02,Default,,0,0,0,,&lrm;Who's the lucky lady?
+Dialogue: ,0:03:18.18,0:03:20.42,Default,,0,0,0,,&lrm;It's gorgeous, Kim. She'll be ecstatic.
+Dialogue: ,0:03:20.58,0:03:22.94,Default,,0,0,0,,&lrm;She's still gotta accept it.
+Dialogue: ,0:03:23.10,0:03:25.26,Default,,0,0,0,,&lrm;-What if she says no?\N&lrm;-She won't.
+Dialogue: ,0:03:25.42,0:03:29.38,Default,,0,0,0,,&lrm;No way, don't hold back.\N&lrm;Go for it. No regrets!
+Dialogue: ,0:03:29.54,0:03:32.10,Default,,0,0,0,,&lrm;Operation Valentine's Day\N&lrm;is underway.
+Dialogue: ,0:03:32.42,0:03:34.70,Default,,0,0,0,,&lrm;Her route is in yellow, yours is in red.
+Dialogue: ,0:03:34.86,0:03:38.90,Default,,0,0,0,,&lrm;If you run at 10mph,\N&lrm;you'll have a 4-minute lead on her.
+Dialogue: ,0:03:39.06,0:03:42.02,Default,,0,0,0,,&lrm;Wait here. It's the 3rd\N&lrm;most romantic spot in Paris.
+Dialogue: ,0:03:42.18,0:03:43.82,Default,,0,0,0,,&lrm;-Go, go!\N&lrm;-Thanks, guys.
+Dialogue: ,0:03:45.70,0:03:47.90,Default,,0,0,0,,&lrm;I know someone who's good\N&lrm;at giving advice,
+Dialogue: ,0:03:48.06,0:03:49.66,Default,,0,0,0,,&lrm;but who can't take any.
+Dialogue: ,0:03:50.62,0:03:52.02,Default,,0,0,0,,&lrm;Let's go.
+Dialogue: ,0:03:53.42,0:03:55.50,Default,,0,0,0,,&lrm;You're right. It's time I told him.
+Dialogue: ,0:03:55.66,0:03:56.90,Default,,0,0,0,,&lrm;Say what?
+Dialogue: ,0:03:57.06,0:03:59.86,Default,,0,0,0,,&lrm;I'm gonna tell him my true feelings.
+Dialogue: ,0:04:00.02,0:04:02.74,Default,,0,0,0,,&lrm;Well, I'll write them,\N&lrm;on a card.
+Dialogue: ,0:04:03.46,0:04:04.50,Default,,0,0,0,,&lrm;Yeah.
+Dialogue: ,0:04:04.66,0:04:05.98,Default,,0,0,0,,&lrm;Yeah.
+Dialogue: ,0:04:06.14,0:04:08.10,Default,,0,0,0,,&lrm;OPERATION VALENTINE'S DAY!
+Dialogue: ,0:04:08.42,0:04:09.66,Default,,0,0,0,,&lrm;[they giggle]
+Dialogue: ,0:04:10.42,0:04:11.42,Default,,0,0,0,,&lrm;[admiring sighs]
+Dialogue: ,0:04:11.58,0:04:12.90,Default,,0,0,0,,&lrm;Wow, he's so cute.
+Dialogue: ,0:04:13.06,0:04:16.26,Default,,0,0,0,,&lrm;Keep dreaming, girls,\N&lrm;but the boy is mine.
+Dialogue: ,0:04:18.06,0:04:19.06,Default,,0,0,0,,&lrm;[gasping]
+Dialogue: ,0:04:19.38,0:04:21.94,Default,,0,0,0,,&lrm;"To Chloe, the most awesome girl\N&lrm;in the world,
+Dialogue: ,0:04:22.10,0:04:24.46,Default,,0,0,0,,&lrm;and the love of my life"\N&lrm;signed Adrien.
+Dialogue: ,0:04:24.62,0:04:27.46,Default,,0,0,0,,&lrm;[sobbing]
+Dialogue: ,0:04:27.62,0:04:29.78,Default,,0,0,0,,&lrm;[Chloe] She's not crying enough.
+Dialogue: ,0:04:33.90,0:04:36.58,Default,,0,0,0,,&lrm;[Marinette]\N{\i1}&lrm;"Dear, Adrien"... "Dear, Adrien"{\i0}
+Dialogue: ,0:04:37.98,0:04:39.66,Default,,0,0,0,,&lrm;"Dear Adrien"
+Dialogue: ,0:04:40.34,0:04:43.10,Default,,0,0,0,,&lrm;I'm no good at this\N&lrm;love-letter writing thing.
+Dialogue: ,0:04:43.26,0:04:45.06,Default,,0,0,0,,&lrm;I sound like a dorkasaurus.
+Dialogue: ,0:04:45.22,0:04:46.46,Default,,0,0,0,,&lrm;[she whines]
+Dialogue: ,0:04:46.62,0:04:49.62,Default,,0,0,0,,&lrm;Only when you say\N&lrm;words like "dorkasaurus".
+Dialogue: ,0:04:49.78,0:04:52.50,Default,,0,0,0,,&lrm;Relax, Marinette, I'm teasing.\N&lrm;Think of Adrien
+Dialogue: ,0:04:52.66,0:04:54.02,Default,,0,0,0,,&lrm;and speak from the heart.
+Dialogue: ,0:04:55.30,0:04:56.62,Default,,0,0,0,,&lrm;[she gasps]
+Dialogue: ,0:04:56.78,0:04:57.90,Default,,0,0,0,,&lrm;Adrien's letter.
+Dialogue: ,0:04:58.06,0:05:02.14,Default,,0,0,0,,&lrm;Why didn't I think of that before?\N&lrm;I'll answer his poem.
+Dialogue: ,0:05:02.30,0:05:03.58,Default,,0,0,0,,&lrm;[Alya] Marinette?
+Dialogue: ,0:05:04.42,0:05:05.90,Default,,0,0,0,,&lrm;Check... it... out!
+Dialogue: ,0:05:06.42,0:05:07.86,Default,,0,0,0,,&lrm;It's perfect.
+Dialogue: ,0:05:08.02,0:05:09.94,Default,,0,0,0,,&lrm;Oh, thank you, thank you.
+Dialogue: ,0:05:12.10,0:05:13.42,Default,,0,0,0,,&lrm;[questioning sigh]
+Dialogue: ,0:05:17.34,0:05:18.66,Default,,0,0,0,,&lrm;[Ayla gasps excitedly]
+Dialogue: ,0:05:18.82,0:05:19.90,Default,,0,0,0,,{\i1}&lrm;Voilà.{\i0}
+Dialogue: ,0:05:20.06,0:05:22.18,Default,,0,0,0,,&lrm;Don't forget to sign it.
+Dialogue: ,0:05:23.38,0:05:24.82,Default,,0,0,0,,&lrm;[Alya] It's a good omen.
+Dialogue: ,0:05:24.98,0:05:28.74,Default,,0,0,0,,&lrm;Ladybugs are good luck,\N&lrm;especially in the love department.
+Dialogue: ,0:05:28.90,0:05:30.02,Default,,0,0,0,,&lrm;Really?
+Dialogue: ,0:05:30.18,0:05:33.26,Default,,0,0,0,,&lrm;Yeah, you of all people\N&lrm;should know about ladybugs.
+Dialogue: ,0:05:33.42,0:05:35.90,Default,,0,0,0,,&lrm;Wh-Why do you say that?
+Dialogue: ,0:05:36.06,0:05:38.22,Default,,0,0,0,,&lrm;"The ladybug is a symbol of love,
+Dialogue: ,0:05:38.38,0:05:40.78,Default,,0,0,0,,&lrm;guiding hearts on the paths of devotion."
+Dialogue: ,0:05:40.94,0:05:42.78,Default,,0,0,0,,&lrm;It's on my blog. Didn't you read it?
+Dialogue: ,0:05:43.22,0:05:45.18,Default,,0,0,0,,&lrm;Yes, of course.
+Dialogue: ,0:05:45.82,0:05:47.06,Default,,0,0,0,,&lrm;[sigh of relief]
+Dialogue: ,0:05:47.42,0:05:49.50,Default,,0,0,0,,&lrm;[Plagg]\N&lrm;So, she's got eyes, arms, legs...
+Dialogue: ,0:05:49.66,0:05:51.54,Default,,0,0,0,,&lrm;Big deal.
+Dialogue: ,0:05:51.70,0:05:55.62,Default,,0,0,0,,&lrm;How can you be in love with Ladybug?\N&lrm;You don't even know who she is.
+Dialogue: ,0:05:56.14,0:05:57.98,Default,,0,0,0,,&lrm;You know nothing about love.
+Dialogue: ,0:05:58.14,0:06:00.26,Default,,0,0,0,,&lrm;Sure I do. I love cheddar, Swiss...
+Dialogue: ,0:06:00.42,0:06:02.34,Default,,0,0,0,,&lrm;and I love camembert.
+Dialogue: ,0:06:02.90,0:06:04.06,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:06:08.14,0:06:09.58,Default,,0,0,0,,&lrm;The poor boy's frustrated
+Dialogue: ,0:06:09.74,0:06:12.34,Default,,0,0,0,,&lrm;because he can't finish the poem\N&lrm;for his masked sweetheart.
+Dialogue: ,0:06:12.62,0:06:15.34,Default,,0,0,0,,&lrm;I don't need a poem.\N&lrm;I can tell her to her face.
+Dialogue: ,0:06:15.50,0:06:16.58,Default,,0,0,0,,&lrm;I love you.
+Dialogue: ,0:06:16.74,0:06:18.38,Default,,0,0,0,,&lrm;[disgusted]\N&lrm;That's gross.
+Dialogue: ,0:06:19.02,0:06:20.86,Default,,0,0,0,,&lrm;You're making me lose my appetite.
+Dialogue: ,0:06:21.94,0:06:23.98,Default,,0,0,0,,&lrm;[munching]\N&lrm;Almost.
+Dialogue: ,0:06:27.10,0:06:28.50,Default,,0,0,0,,&lrm;[Chloe] That's right,
+Dialogue: ,0:06:28.66,0:06:29.94,Default,,0,0,0,,&lrm;in a 24-carat frame.
+Dialogue: ,0:06:30.10,0:06:33.30,Default,,0,0,0,,&lrm;Deliver it to Le Grand Paris Hotel\N&lrm;and bill it to daddy.
+Dialogue: ,0:06:33.46,0:06:35.54,Default,,0,0,0,,&lrm;I mean Mr. Bourgeois.
+Dialogue: ,0:06:36.46,0:06:37.90,Default,,0,0,0,,&lrm;What are you doing here?
+Dialogue: ,0:06:38.06,0:06:39.34,Default,,0,0,0,,&lrm;[nervously]\N&lrm;I-I...
+Dialogue: ,0:06:39.50,0:06:40.98,Default,,0,0,0,,&lrm;You... you...
+Dialogue: ,0:06:41.14,0:06:41.98,Default,,0,0,0,,&lrm;[he coughs]
+Dialogue: ,0:06:43.18,0:06:45.78,Default,,0,0,0,,&lrm;Will you... be my Valentine?
+Dialogue: ,0:06:45.94,0:06:47.38,Default,,0,0,0,,&lrm;[bell rings]
+Dialogue: ,0:06:47.54,0:06:48.90,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:06:50.90,0:06:51.74,Default,,0,0,0,,&lrm;Don't move.
+Dialogue: ,0:06:53.78,0:06:55.46,Default,,0,0,0,,&lrm;[she laughs]
+Dialogue: ,0:06:55.62,0:06:57.10,Default,,0,0,0,,&lrm;Wait till people see this.
+Dialogue: ,0:06:57.26,0:07:00.58,Default,,0,0,0,,&lrm;No offence, Kim, my heart's saved\N&lrm;for someone more awesome.
+Dialogue: ,0:07:01.74,0:07:04.30,Default,,0,0,0,,&lrm;Don't you just hate\N&lrm;how harsh love can be?
+Dialogue: ,0:07:04.46,0:07:05.82,Default,,0,0,0,,&lrm;[she laughs]
+Dialogue: ,0:07:05.98,0:07:07.26,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:07:09.14,0:07:12.22,Default,,0,0,0,,&lrm;[he sobs]
+Dialogue: ,0:07:15.06,0:07:16.94,Default,,0,0,0,,&lrm;Valentine's Day,
+Dialogue: ,0:07:17.10,0:07:20.06,Default,,0,0,0,,&lrm;the day of love and the day of fools.
+Dialogue: ,0:07:20.22,0:07:24.34,Default,,0,0,0,,&lrm;So many delusions,\N&lrm;so much disappointment.
+Dialogue: ,0:07:24.50,0:07:25.82,Default,,0,0,0,,&lrm;My evil Akumas,
+Dialogue: ,0:07:25.98,0:07:29.10,Default,,0,0,0,,&lrm;you are going to have\N&lrm;such a field-day.
+Dialogue: ,0:07:30.26,0:07:32.54,Default,,0,0,0,,&lrm;Fly away, my little Akuma,
+Dialogue: ,0:07:32.70,0:07:34.54,Default,,0,0,0,,&lrm;and evilise him.
+Dialogue: ,0:07:46.46,0:07:49.50,Default,,0,0,0,,&lrm;Dark Cupid, I am Hawk Moth.
+Dialogue: ,0:07:49.66,0:07:51.70,Default,,0,0,0,,&lrm;I can give you the power
+Dialogue: ,0:07:51.86,0:07:55.18,Default,,0,0,0,,&lrm;to shoot your arrows,\N&lrm;pierce love and impale friendships.
+Dialogue: ,0:07:55.34,0:07:58.62,Default,,0,0,0,,&lrm;But, there's something\N&lrm;you must do for me in return.
+Dialogue: ,0:07:58.98,0:08:02.22,Default,,0,0,0,,&lrm;No love affair\N&lrm;or friendship will escape my fury.
+Dialogue: ,0:08:02.38,0:08:04.10,Default,,0,0,0,,&lrm;No-one will love again!
+Dialogue: ,0:08:20.66,0:08:21.90,Default,,0,0,0,,&lrm;[arrow whistles]
+Dialogue: ,0:08:24.26,0:08:26.82,Default,,0,0,0,,&lrm;[she shrieks]
+Dialogue: ,0:08:31.70,0:08:32.86,Default,,0,0,0,,&lrm;Stupid flowers.
+Dialogue: ,0:08:34.58,0:08:35.82,Default,,0,0,0,,&lrm;Get off me!
+Dialogue: ,0:08:40.02,0:08:42.94,Default,,0,0,0,,&lrm;[he cackles]
+Dialogue: ,0:08:43.58,0:08:45.46,Default,,0,0,0,,&lrm;[cackling]\N&lrm;Perfect.
+Dialogue: ,0:08:45.62,0:08:49.78,Default,,0,0,0,,&lrm;Soon, Ladybug and Cat Noir\N&lrm;will show up to meet their doom.
+Dialogue: ,0:08:49.94,0:08:52.14,Default,,0,0,0,,&lrm;[evil laugh]
+Dialogue: ,0:08:55.82,0:08:57.58,Default,,0,0,0,,&lrm;[giggling]
+Dialogue: ,0:08:57.74,0:08:59.18,Default,,0,0,0,,&lrm;Candy-apples, girls?
+Dialogue: ,0:08:59.34,0:09:00.70,Default,,0,0,0,,&lrm;Thanks, dad.
+Dialogue: ,0:09:02.58,0:09:04.98,Default,,0,0,0,,&lrm;Come on, do it\N&lrm;before you chicken out.
+Dialogue: ,0:09:15.30,0:09:16.62,Default,,0,0,0,,&lrm;[they cheer]\N&lrm;I did it.
+Dialogue: ,0:09:16.78,0:09:17.82,Default,,0,0,0,,&lrm;[vibrating]
+Dialogue: ,0:09:18.54,0:09:19.54,Default,,0,0,0,,&lrm;Chloe?
+Dialogue: ,0:09:19.94,0:09:22.02,Default,,0,0,0,,&lrm;Since when did she start texting us?
+Dialogue: ,0:09:22.18,0:09:24.02,Default,,0,0,0,,&lrm;[questioning sigh]\N&lrm;[they gasp]
+Dialogue: ,0:09:24.18,0:09:25.30,Default,,0,0,0,,&lrm;[Alya] What a witch!
+Dialogue: ,0:09:25.58,0:09:28.18,Default,,0,0,0,,&lrm;And I was the one\N&lrm;who told Kim to do it.
+Dialogue: ,0:09:28.34,0:09:30.86,Default,,0,0,0,,&lrm;I didn't know he was talking about her.
+Dialogue: ,0:09:31.02,0:09:33.10,Default,,0,0,0,,&lrm;I hope Adrien doesn't do that to you.
+Dialogue: ,0:09:33.26,0:09:34.86,Default,,0,0,0,,&lrm;[she gasps]\N&lrm;I mean...
+Dialogue: ,0:09:35.02,0:09:36.42,Default,,0,0,0,,&lrm;What have I done?
+Dialogue: ,0:09:36.58,0:09:39.38,Default,,0,0,0,,&lrm;Girl, calm down.\N&lrm;I was joking... kind of.
+Dialogue: ,0:09:39.54,0:09:41.30,Default,,0,0,0,,&lrm;Adrien would never do that.
+Dialogue: ,0:09:41.46,0:09:42.90,Default,,0,0,0,,&lrm;What is that?
+Dialogue: ,0:09:47.58,0:09:49.38,Default,,0,0,0,,&lrm;All hearts must be destroyed!
+Dialogue: ,0:09:49.70,0:09:50.98,Default,,0,0,0,,&lrm;[gasping]
+Dialogue: ,0:09:51.14,0:09:52.34,Default,,0,0,0,,&lrm;Ayla?
+Dialogue: ,0:09:52.50,0:09:53.94,Default,,0,0,0,,&lrm;Hey, seriously?
+Dialogue: ,0:09:54.54,0:09:56.90,Default,,0,0,0,,&lrm;You're not my BFF. You're a joke!
+Dialogue: ,0:09:57.06,0:10:00.54,Default,,0,0,0,,&lrm;Adrien will laugh his head off\N&lrm;at your lame attempt at poetry.
+Dialogue: ,0:10:01.14,0:10:02.82,Default,,0,0,0,,&lrm;[Ayla cackles]\N&lrm;Alya?
+Dialogue: ,0:10:02.98,0:10:04.38,Default,,0,0,0,,&lrm;What did he do to her?
+Dialogue: ,0:10:07.50,0:10:09.86,Default,,0,0,0,,&lrm;I've seen that jewel before.
+Dialogue: ,0:10:10.02,0:10:11.22,Default,,0,0,0,,&lrm;It's Kim's pin.
+Dialogue: ,0:10:11.38,0:10:12.66,Default,,0,0,0,,&lrm;He's been akumatised.
+Dialogue: ,0:10:13.22,0:10:15.14,Default,,0,0,0,,&lrm;[struggling]\N&lrm;This is... not good.
+Dialogue: ,0:10:15.30,0:10:16.98,Default,,0,0,0,,&lrm;We've gotta find him fast.
+Dialogue: ,0:10:19.66,0:10:22.50,Default,,0,0,0,,&lrm;Tikki, spots on!
+Dialogue: ,0:10:48.78,0:10:51.62,Default,,0,0,0,,&lrm;[Chloe groans]\N&lrm;I never said 18-carat gold.
+Dialogue: ,0:10:51.78,0:10:54.42,Default,,0,0,0,,&lrm;The tones will never match\N&lrm;my 24-carat toilet.
+Dialogue: ,0:10:54.58,0:10:55.42,Default,,0,0,0,,&lrm;[Chloe] Idiots!
+Dialogue: ,0:10:55.78,0:10:58.02,Default,,0,0,0,,&lrm;[he huffs]\N&lrm;[bow stretches]
+Dialogue: ,0:10:59.74,0:11:00.78,Default,,0,0,0,,&lrm;[gasping]
+Dialogue: ,0:11:00.94,0:11:02.58,Default,,0,0,0,,&lrm;-Ladybug!\N&lrm;-Stop, Kim.
+Dialogue: ,0:11:02.74,0:11:03.74,Default,,0,0,0,,&lrm;I'm not Kim,
+Dialogue: ,0:11:03.90,0:11:06.06,Default,,0,0,0,,&lrm;I'm Dark Cupid. I'll never stop.
+Dialogue: ,0:11:06.22,0:11:08.46,Default,,0,0,0,,&lrm;If I can't have love then no-one can.
+Dialogue: ,0:11:09.54,0:11:11.46,Default,,0,0,0,,&lrm;OK, I get it. Chloe burned you.
+Dialogue: ,0:11:11.62,0:11:14.10,Default,,0,0,0,,&lrm;You don't have to take it out\N&lrm;on all of Paris.
+Dialogue: ,0:11:14.26,0:11:15.34,Default,,0,0,0,,&lrm;Yes I do.
+Dialogue: ,0:11:15.50,0:11:17.50,Default,,0,0,0,,&lrm;I won't stop till all hearts are crushed.
+Dialogue: ,0:11:17.66,0:11:18.86,Default,,0,0,0,,&lrm;Say adios to your loved ones,
+Dialogue: ,0:11:19.02,0:11:20.26,Default,,0,0,0,,&lrm;now you'll hate them.
+Dialogue: ,0:11:33.94,0:11:36.42,Default,,0,0,0,,&lrm;[she screams]
+Dialogue: ,0:11:41.70,0:11:43.66,Default,,0,0,0,,&lrm;If you want to continue\N&lrm;destroying love,
+Dialogue: ,0:11:43.82,0:11:45.78,Default,,0,0,0,,&lrm;bring me Ladybug's Miraculous.
+Dialogue: ,0:11:45.94,0:11:47.90,Default,,0,0,0,,&lrm;or I'll remove your powers.
+Dialogue: ,0:11:53.42,0:11:55.34,Default,,0,0,0,,&lrm;[Cat Noir] Fallen for me already?
+Dialogue: ,0:11:55.50,0:11:58.42,Default,,0,0,0,,&lrm;-I need to talk to you.\N&lrm;-It's gotta wait...
+Dialogue: ,0:11:58.58,0:11:59.66,Default,,0,0,0,,&lrm;[he hushes her]
+Dialogue: ,0:11:59.82,0:12:02.58,Default,,0,0,0,,&lrm;I swore I'd tell you\N&lrm;as soon as I saw you.
+Dialogue: ,0:12:03.06,0:12:05.62,Default,,0,0,0,,&lrm;Ladybug, I-I... Look out!
+Dialogue: ,0:12:06.38,0:12:07.26,Default,,0,0,0,,&lrm;[arrow whistles]
+Dialogue: ,0:12:07.90,0:12:09.26,Default,,0,0,0,,&lrm;[she gasps]\N&lrm;Cat Noir?
+Dialogue: ,0:12:09.42,0:12:11.54,Default,,0,0,0,,&lrm;Ladybug, I...
+Dialogue: ,0:12:11.70,0:12:12.86,Default,,0,0,0,,&lrm;I loathe you!
+Dialogue: ,0:12:13.02,0:12:14.78,Default,,0,0,0,,&lrm;Cat Noir, snap out of it.
+Dialogue: ,0:12:14.94,0:12:17.74,Default,,0,0,0,,&lrm;You're nothing to me, Ladybug,\N&lrm;I hate you.
+Dialogue: ,0:12:18.78,0:12:19.98,Default,,0,0,0,,&lrm;[he shrieks]
+Dialogue: ,0:12:28.10,0:12:30.82,Default,,0,0,0,,&lrm;Ladybug, it's about time.\N&lrm;Where have you been?
+Dialogue: ,0:12:40.54,0:12:41.86,Default,,0,0,0,,&lrm;Offer to help him
+Dialogue: ,0:12:42.02,0:12:44.34,Default,,0,0,0,,&lrm;in return for Ladybug's Miraculous.
+Dialogue: ,0:12:44.98,0:12:49.06,Default,,0,0,0,,&lrm;I can help you crush Ladybug\N&lrm;but you must give me her Miraculous.
+Dialogue: ,0:12:49.78,0:12:51.46,Default,,0,0,0,,&lrm;No... problem.
+Dialogue: ,0:12:51.62,0:12:52.94,Default,,0,0,0,,&lrm;[he cackles]
+Dialogue: ,0:12:53.34,0:12:55.22,Default,,0,0,0,,&lrm;Yes... yes.
+Dialogue: ,0:12:55.38,0:12:58.70,Default,,0,0,0,,&lrm;Once I have Ladybug's Miraculous,
+Dialogue: ,0:12:58.86,0:13:00.86,Default,,0,0,0,,&lrm;taking Cat Noir's will be\N&lrm;child's play!
+Dialogue: ,0:13:01.02,0:13:03.86,Default,,0,0,0,,&lrm;You have to leave.\N&lrm;Kim's turned into Dark Cupid.
+Dialogue: ,0:13:04.02,0:13:05.90,Default,,0,0,0,,&lrm;He can't find you here.
+Dialogue: ,0:13:06.06,0:13:10.06,Default,,0,0,0,,&lrm;Me? But how could he have\N&lrm;a vendetta against me?
+Dialogue: ,0:13:10.22,0:13:11.74,Default,,0,0,0,,&lrm;[whispering]\N&lrm;Who doesn't?
+Dialogue: ,0:13:11.90,0:13:13.34,Default,,0,0,0,,&lrm;It's because of this.
+Dialogue: ,0:13:13.86,0:13:15.66,Default,,0,0,0,,&lrm;Everyone would love to have it.
+Dialogue: ,0:13:15.82,0:13:18.34,Default,,0,0,0,,&lrm;That's Adrien,\N&lrm;a super-hot guy in my class,
+Dialogue: ,0:13:18.50,0:13:21.26,Default,,0,0,0,,&lrm;and rich too.\N&lrm;He's hot for me, of course.
+Dialogue: ,0:13:21.42,0:13:23.14,Default,,0,0,0,,&lrm;Not according to the poem.
+Dialogue: ,0:13:23.30,0:13:25.18,Default,,0,0,0,,&lrm;[Sabrina shrieks]\N&lrm;It's alive!
+Dialogue: ,0:13:27.46,0:13:28.50,Default,,0,0,0,,&lrm;[screaming]
+Dialogue: ,0:13:33.86,0:13:35.50,Default,,0,0,0,,&lrm;[Chloe screams]
+Dialogue: ,0:13:35.66,0:13:37.50,Default,,0,0,0,,&lrm;[Marinette] Chloe, run!
+Dialogue: ,0:13:40.58,0:13:42.18,Default,,0,0,0,,&lrm;Well, well, Ladybug.
+Dialogue: ,0:13:42.34,0:13:44.26,Default,,0,0,0,,&lrm;I don't want to fight you.
+Dialogue: ,0:13:45.10,0:13:47.50,Default,,0,0,0,,&lrm;That friendliness is so revolting.
+Dialogue: ,0:13:47.90,0:13:49.38,Default,,0,0,0,,&lrm;You're not my friend.
+Dialogue: ,0:13:50.90,0:13:53.10,Default,,0,0,0,,&lrm;[he yells]
+Dialogue: ,0:14:06.14,0:14:07.98,Default,,0,0,0,,&lrm;Why are you so full of hate?
+Dialogue: ,0:14:08.14,0:14:09.74,Default,,0,0,0,,&lrm;Because hate conquers all.
+Dialogue: ,0:14:09.90,0:14:11.58,Default,,0,0,0,,&lrm;I hate to burst your bubble,
+Dialogue: ,0:14:11.74,0:14:14.98,Default,,0,0,0,,&lrm;but hate doesn't conquer all,\N&lrm;love does.
+Dialogue: ,0:14:15.14,0:14:16.22,Default,,0,0,0,,&lrm;[she gasps]
+Dialogue: ,0:14:16.38,0:14:19.34,Default,,0,0,0,,{\i1}&lrm;The prince breaks the spell{\i0}\N{\i1}&lrm;by kissing the princess.{\i0}
+Dialogue: ,0:14:19.50,0:14:21.74,Default,,0,0,0,,{\i1}&lrm;Only love conquers hate.{\i0}
+Dialogue: ,0:14:21.90,0:14:24.90,Default,,0,0,0,,&lrm;You're just buying time....\N&lrm;Fight!
+Dialogue: ,0:14:26.70,0:14:28.54,Default,,0,0,0,,&lrm;I'll do better than that.
+Dialogue: ,0:14:28.70,0:14:30.02,Default,,0,0,0,,&lrm;[he gasps]
+Dialogue: ,0:14:31.62,0:14:34.58,Default,,0,0,0,,&lrm;Come on, kitty-kitty, just a peck.
+Dialogue: ,0:14:35.98,0:14:36.82,Default,,0,0,0,,&lrm;Almost.
+Dialogue: ,0:14:37.66,0:14:39.70,Default,,0,0,0,,&lrm;[he yells]\N&lrm;Get back, you savage.
+Dialogue: ,0:14:39.86,0:14:41.70,Default,,0,0,0,,&lrm;Here, kitty-kitty, come here.
+Dialogue: ,0:14:44.02,0:14:45.90,Default,,0,0,0,,&lrm;[he cackles]
+Dialogue: ,0:14:46.06,0:14:47.66,Default,,0,0,0,,&lrm;You can't outrun me.
+Dialogue: ,0:14:48.34,0:14:49.78,Default,,0,0,0,,&lrm;[she screams]
+Dialogue: ,0:14:49.94,0:14:51.18,Default,,0,0,0,,&lrm;Help.
+Dialogue: ,0:14:51.98,0:14:53.18,Default,,0,0,0,,&lrm;[they scream]
+Dialogue: ,0:14:55.14,0:14:57.86,Default,,0,0,0,,&lrm;Happy Valentine's Day, Chloe.
+Dialogue: ,0:14:58.02,0:14:59.90,Default,,0,0,0,,&lrm;Now you'll get what you deserve.
+Dialogue: ,0:15:00.06,0:15:01.10,Default,,0,0,0,,&lrm;[Chloe] My hair!
+Dialogue: ,0:15:01.26,0:15:04.46,Default,,0,0,0,,&lrm;There's nothing worse\N&lrm;than a bad-hair day.
+Dialogue: ,0:15:04.62,0:15:09.10,Default,,0,0,0,,&lrm;First, Ladybug wrinkles my jacket,\N&lrm;second, you totally ruined my hair.
+Dialogue: ,0:15:09.26,0:15:13.78,Default,,0,0,0,,&lrm;Go ahead and change me.\N&lrm;This day can't get any worse.
+Dialogue: ,0:15:14.62,0:15:16.82,Default,,0,0,0,,&lrm;I don't need to waste\N&lrm;my arrow on you.
+Dialogue: ,0:15:16.98,0:15:20.62,Default,,0,0,0,,&lrm;Your heart is so dark and shrivelled\N&lrm;there's no room for love.
+Dialogue: ,0:15:20.78,0:15:22.46,Default,,0,0,0,,&lrm;[he laughs]
+Dialogue: ,0:15:22.62,0:15:24.90,Default,,0,0,0,,&lrm;How dare you?
+Dialogue: ,0:15:28.14,0:15:31.30,Default,,0,0,0,,&lrm;Why are you just standing there?\N&lrm;Help me up!
+Dialogue: ,0:15:31.46,0:15:34.78,Default,,0,0,0,,&lrm;You think I'd help someone\N&lrm;as stuck up as you?
+Dialogue: ,0:15:36.82,0:15:38.30,Default,,0,0,0,,&lrm;Wait till people see this.
+Dialogue: ,0:15:38.46,0:15:39.66,Default,,0,0,0,,&lrm;[she cackles]
+Dialogue: ,0:15:39.94,0:15:40.94,Default,,0,0,0,,&lrm;[she groans]
+Dialogue: ,0:15:48.30,0:15:49.38,Default,,0,0,0,,&lrm;No, no!
+Dialogue: ,0:15:49.54,0:15:52.30,Default,,0,0,0,,&lrm;I'm not looking forward to it either.
+Dialogue: ,0:15:53.98,0:15:56.26,Default,,0,0,0,,&lrm;I can't believe I'm doing this.
+Dialogue: ,0:15:56.70,0:15:58.94,Default,,0,0,0,,&lrm;[kissing]\N&lrm;[he whimpers]
+Dialogue: ,0:16:00.30,0:16:02.30,Default,,0,0,0,,&lrm;[explosions]
+Dialogue: ,0:16:05.26,0:16:08.06,Default,,0,0,0,,&lrm;How you gonna fight\N&lrm;both of us now, bug-eyes?
+Dialogue: ,0:16:09.70,0:16:11.58,Default,,0,0,0,,&lrm;Cataclysm!
+Dialogue: ,0:16:16.38,0:16:19.70,Default,,0,0,0,,&lrm;I often wonder what\N&lrm;my cataclysm will do to someone.
+Dialogue: ,0:16:21.50,0:16:22.78,Default,,0,0,0,,&lrm;Lucky charm!
+Dialogue: ,0:16:27.50,0:16:30.58,Default,,0,0,0,,&lrm;A candy-apple?\N&lrm;What am I supposed to do with this?
+Dialogue: ,0:16:30.86,0:16:31.86,Default,,0,0,0,,&lrm;Think, Ladybug.
+Dialogue: ,0:16:36.34,0:16:37.18,Default,,0,0,0,,&lrm;Hey.
+Dialogue: ,0:16:38.06,0:16:39.94,Default,,0,0,0,,&lrm;I've a Valentine's gift for you.
+Dialogue: ,0:16:40.90,0:16:41.98,Default,,0,0,0,,&lrm;[they roar]
+Dialogue: ,0:16:59.54,0:17:01.98,Default,,0,0,0,,&lrm;Looks like you're in a sticky situation.
+Dialogue: ,0:17:03.46,0:17:04.74,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:17:10.66,0:17:12.06,Default,,0,0,0,,&lrm;Ladybug!
+Dialogue: ,0:17:13.34,0:17:15.46,Default,,0,0,0,,&lrm;And now for the pussycat.
+Dialogue: ,0:17:21.06,0:17:23.02,Default,,0,0,0,,&lrm;Cat Noir, her Miraculous.
+Dialogue: ,0:17:23.18,0:17:24.22,Default,,0,0,0,,&lrm;With pleasure.
+Dialogue: ,0:17:25.90,0:17:27.90,Default,,0,0,0,,&lrm;Finally, I'll find out who you are.
+Dialogue: ,0:17:29.26,0:17:31.26,Default,,0,0,0,,&lrm;Your secret will be out of the bag.
+Dialogue: ,0:17:35.58,0:17:39.22,Default,,0,0,0,,&lrm;[romantic music]
+Dialogue: ,0:17:39.38,0:17:41.58,Default,,0,0,0,,&lrm;[he gasps]\N&lrm;Wh-What am I doing here?
+Dialogue: ,0:17:43.14,0:17:45.14,Default,,0,0,0,,&lrm;No time, the quiver pin, Cat Noir, now!
+Dialogue: ,0:17:45.82,0:17:47.38,Default,,0,0,0,,&lrm;[he yells]
+Dialogue: ,0:17:47.54,0:17:49.82,Default,,0,0,0,,&lrm;[Ladybug] Grab the pin!
+Dialogue: ,0:17:49.98,0:17:52.06,Default,,0,0,0,,&lrm;-No !\N&lrm;-Sorry, need that.
+Dialogue: ,0:17:52.22,0:17:54.02,Default,,0,0,0,,&lrm;Happy Valentine's Day.
+Dialogue: ,0:17:54.98,0:17:56.90,Default,,0,0,0,,&lrm;You shouldn't have... Woops.
+Dialogue: ,0:17:59.94,0:18:01.78,Default,,0,0,0,,&lrm;No more evil-doing for you,\N&lrm;little Akuma.
+Dialogue: ,0:18:06.14,0:18:08.58,Default,,0,0,0,,&lrm;Time to de-evilise.
+Dialogue: ,0:18:11.38,0:18:12.22,Default,,0,0,0,,&lrm;Gotcha!
+Dialogue: ,0:18:13.50,0:18:15.02,Default,,0,0,0,,&lrm;Bye-bye, little butterfly.
+Dialogue: ,0:18:15.18,0:18:17.06,Default,,0,0,0,,&lrm;Miraculous Ladybug!
+Dialogue: ,0:18:20.62,0:18:22.10,Default,,0,0,0,,&lrm;What the heck am I doing?
+Dialogue: ,0:18:23.94,0:18:25.70,Default,,0,0,0,,&lrm;What the heck are you doing?
+Dialogue: ,0:18:26.34,0:18:28.42,Default,,0,0,0,,&lrm;[Sabrina] I-I have no idea.
+Dialogue: ,0:18:29.02,0:18:30.78,Default,,0,0,0,,&lrm;[they sob]
+Dialogue: ,0:18:33.94,0:18:35.10,Default,,0,0,0,,&lrm;POUND IT!
+Dialogue: ,0:18:35.26,0:18:36.54,Default,,0,0,0,,&lrm;[bleeping]\N&lrm;Woops.
+Dialogue: ,0:18:36.70,0:18:39.02,Default,,0,0,0,,&lrm;Wait, I gotta tell you something.
+Dialogue: ,0:18:39.46,0:18:42.94,Default,,0,0,0,,&lrm;Look, the kiss...\N&lrm;I had to break the spell.
+Dialogue: ,0:18:43.10,0:18:45.22,Default,,0,0,0,,&lrm;What? A kiss? What kiss?
+Dialogue: ,0:18:45.38,0:18:47.38,Default,,0,0,0,,&lrm;I just wanted to say...
+Dialogue: ,0:18:48.18,0:18:49.22,Default,,0,0,0,,&lrm;Your ring's flashing.
+Dialogue: ,0:18:50.62,0:18:51.50,Default,,0,0,0,,&lrm;Yours too.
+Dialogue: ,0:18:51.66,0:18:54.74,Default,,0,0,0,,&lrm;[she giggles]\N&lrm;We're about to turn into pumpkins.
+Dialogue: ,0:18:54.90,0:18:56.82,Default,,0,0,0,,&lrm;And I'd rather not see that.
+Dialogue: ,0:18:58.98,0:19:00.34,Default,,0,0,0,,&lrm;[he roars]
+Dialogue: ,0:19:00.50,0:19:02.22,Default,,0,0,0,,&lrm;Blasted Ladybug!
+Dialogue: ,0:19:02.70,0:19:05.58,Default,,0,0,0,,&lrm;Blasted Valentine's Day!
+Dialogue: ,0:19:13.34,0:19:16.46,Default,,0,0,0,,&lrm;Hey, there's your chance\N&lrm;to get your card back.
+Dialogue: ,0:19:16.62,0:19:19.02,Default,,0,0,0,,&lrm;-That was before.\N&lrm;-Before what?
+Dialogue: ,0:19:19.18,0:19:22.98,Default,,0,0,0,,&lrm;I realised that even with\N&lrm;all this hate, love still wins.
+Dialogue: ,0:19:23.14,0:19:26.34,Default,,0,0,0,,&lrm;If I wanna win-over Adrien,\N&lrm;he needs to know the truth.
+Dialogue: ,0:19:26.50,0:19:28.70,Default,,0,0,0,,&lrm;This is a big day.
+Dialogue: ,0:19:29.66,0:19:31.06,Default,,0,0,0,,&lrm;[Plagg laughs]
+Dialogue: ,0:19:31.22,0:19:35.42,Default,,0,0,0,,&lrm;Can you believe all the horrible,\N&lrm;thoughtless things you said?
+Dialogue: ,0:19:36.38,0:19:38.30,Default,,0,0,0,,&lrm;You think it's funny?
+Dialogue: ,0:19:38.46,0:19:40.30,Default,,0,0,0,,&lrm;[Plagg] What's the big deal?
+Dialogue: ,0:19:40.46,0:19:43.98,Default,,0,0,0,,&lrm;You've got so many cards\N&lrm;from all these lady-fans,
+Dialogue: ,0:19:44.14,0:19:45.66,Default,,0,0,0,,&lrm;just take your pick.
+Dialogue: ,0:19:48.42,0:19:53.78,Default,,0,0,0,,&lrm;[mysterious music]
+Dialogue: ,0:19:53.94,0:19:57.38,Default,,0,0,0,,&lrm;Someone answered my poem?\N&lrm;But I threw it away.
+Dialogue: ,0:19:57.54,0:20:00.58,Default,,0,0,0,,&lrm;"Your hair shines like the sun,\N&lrm;Your eyes are gorgeous green,
+Dialogue: ,0:20:00.74,0:20:03.82,Default,,0,0,0,,&lrm;I look at you and wonder,\N&lrm;Your innermost thoughts and dreams.
+Dialogue: ,0:20:03.98,0:20:06.74,Default,,0,0,0,,&lrm;Your Valentine, I will be,\N&lrm;Our love will be so true,
+Dialogue: ,0:20:06.90,0:20:09.46,Default,,0,0,0,,&lrm;Together for eternity,\N&lrm;My heart belongs to you."
+Dialogue: ,0:20:09.62,0:20:12.06,Default,,0,0,0,,&lrm;Anyone who writes\N&lrm;as sickeningly sweet as you
+Dialogue: ,0:20:12.22,0:20:14.22,Default,,0,0,0,,&lrm;must be your soulmate.
+Dialogue: ,0:20:14.38,0:20:16.06,Default,,0,0,0,,&lrm;It isn't signed.
+Dialogue: ,0:20:27.74,0:20:31.18,Default,,0,0,0,,&lrm;Could it have come from Ladybug?
+Dialogue: ,0:20:32.58,0:20:34.50,Default,,0,0,0,,&lrm;Oh, please.
+Dialogue: ,0:20:37.30,0:20:40.66,Default,,0,0,0,,&lrm;What? You don't remember?\N&lrm;Did you sign it or not?
+Dialogue: ,0:20:40.82,0:20:41.94,Default,,0,0,0,,&lrm;I don't know.
+Dialogue: ,0:20:42.10,0:20:44.22,Default,,0,0,0,,&lrm;The ladybug came while I was writing.
+Dialogue: ,0:20:44.38,0:20:46.70,Default,,0,0,0,,&lrm;Then you were yapping about your blog.
+Dialogue: ,0:20:46.86,0:20:48.22,Default,,0,0,0,,&lrm;It's all a blur.
+Dialogue: ,0:20:48.98,0:20:51.50,Default,,0,0,0,,&lrm;[she giggles]\N&lrm;I don't believe you.
+Dialogue: ,0:20:51.66,0:20:54.02,Default,,0,0,0,,&lrm;The girl didn't even sign it!
+Dialogue: ,0:20:54.18,0:20:57.30,Default,,0,0,0,,&lrm;I love you,\N&lrm;but sometimes, you seriously bug.
+Dialogue: ,0:20:57.62,0:20:58.94,Default,,0,0,0,,&lrm;You know that, right?
+Dialogue: ,0:20:59.10,0:21:01.34,Default,,0,0,0,,&lrm;[they giggle]

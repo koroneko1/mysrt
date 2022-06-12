@@ -1,0 +1,437 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: ,0:00:02.10,0:00:04.38,Default,,0,0,0,,{\i1}&lrm;In the daytime I'm Marinette,{\i0}
+Dialogue: ,0:00:04.50,0:00:06.98,Default,,0,0,0,,{\i1}&lrm;just a normal girl with a normal life.{\i0}
+Dialogue: ,0:00:07.94,0:00:10.86,Default,,0,0,0,,{\i1}&lrm;but there's something about me{\i0}\N{\i1}&lrm;that no-one knows yet{\i0}
+Dialogue: ,0:00:11.14,0:00:13.02,Default,,0,0,0,,{\i1}&lrm;because I have a secret.{\i0}
+Dialogue: ,0:00:13.46,0:00:15.78,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! Simply the best! ♪{\i0}
+Dialogue: ,0:00:16.26,0:00:18.78,Default,,0,0,0,,{\i1}&lrm;♪ Up to the test when things go wrong! ♪{\i0}
+Dialogue: ,0:00:18.94,0:00:21.42,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! The luckiest! ♪{\i0}
+Dialogue: ,0:00:21.58,0:00:24.34,Default,,0,0,0,,{\i1}&lrm;♪ The power of love, always so strong! ♪{\i0}
+Dialogue: ,0:00:24.50,0:00:28.50,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! ♪{\i0}
+Dialogue: ,0:00:34.50,0:00:37.22,Default,,0,0,0,,&lrm;-Ready, dad?\N&lrm;-As much as I'll ever be.
+Dialogue: ,0:00:39.06,0:00:41.50,Default,,0,0,0,,&lrm;Happy career day, my darlings.
+Dialogue: ,0:00:43.58,0:00:44.66,Default,,0,0,0,,&lrm;[Dad] My day begins
+Dialogue: ,0:00:44.82,0:00:48.70,Default,,0,0,0,,&lrm;at 4 am every morning\N&lrm;because the bakery opens at 7.
+Dialogue: ,0:00:48.86,0:00:51.18,Default,,0,0,0,,{\i1}&lrm;You'd think it's a routine life,{\i0}
+Dialogue: ,0:00:51.34,0:00:53.58,Default,,0,0,0,,{\i1}&lrm;making the same pastries, rolls, cakes...{\i0}
+Dialogue: ,0:00:53.74,0:00:54.90,Default,,0,0,0,,&lrm;but every day's different.
+Dialogue: ,0:00:55.06,0:00:59.98,Default,,0,0,0,,&lrm;One day someone might order\N&lrm;an Eiffel Tower cake and the next...
+Dialogue: ,0:01:00.14,0:01:02.38,Default,,0,0,0,,{\i1}&lrm;You've reached Gabriel Agreste's{\i0}\N{\i1}&lrm;voicemail.{\i0}
+Dialogue: ,0:01:02.54,0:01:03.78,Default,,0,0,0,,{\i1}&lrm;Please leave a message.{\i0}
+Dialogue: ,0:01:03.94,0:01:05.22,Default,,0,0,0,,&lrm;Hi, father, it's me.
+Dialogue: ,0:01:05.38,0:01:07.62,Default,,0,0,0,,&lrm;It's parents' career day, remember?
+Dialogue: ,0:01:07.78,0:01:10.22,Default,,0,0,0,,&lrm;I was hoping you'd show up.\N&lrm;Call me back.
+Dialogue: ,0:01:12.74,0:01:16.06,Default,,0,0,0,,&lrm;-You OK?\N&lrm;-Yeah, whatever. Nothing new.
+Dialogue: ,0:01:20.50,0:01:22.34,Default,,0,0,0,,&lrm;[he sighs sadly]
+Dialogue: ,0:01:22.50,0:01:24.34,Default,,0,0,0,,&lrm;[Dad] Marinette will come round
+Dialogue: ,0:01:24.50,0:01:26.30,Default,,0,0,0,,&lrm;to pass out some fresh croissants.
+Dialogue: ,0:01:26.46,0:01:27.90,Default,,0,0,0,,&lrm;Thank you, Mr. Dupain.
+Dialogue: ,0:01:28.06,0:01:29.54,Default,,0,0,0,,&lrm;Now, let's meet Alya's mom.
+Dialogue: ,0:01:29.70,0:01:32.26,Default,,0,0,0,,&lrm;She's head-chef at Le Grand Paris hotel
+Dialogue: ,0:01:32.42,0:01:33.86,Default,,0,0,0,,&lrm;owned by Mayor Bourgeois.
+Dialogue: ,0:01:34.02,0:01:35.66,Default,,0,0,0,,&lrm;[she sighs]
+Dialogue: ,0:01:36.90,0:01:38.38,Default,,0,0,0,,&lrm;It's beautiful.
+Dialogue: ,0:01:39.66,0:01:40.78,Default,,0,0,0,,&lrm;Look, don't touch.
+Dialogue: ,0:01:40.94,0:01:41.90,Default,,0,0,0,,&lrm;[Mayor] Put it away, Chloe.
+Dialogue: ,0:01:42.06,0:01:43.46,Default,,0,0,0,,&lrm;It could get in the wrong hands.
+Dialogue: ,0:01:47.14,0:01:50.70,Default,,0,0,0,,&lrm;How many croissants would your dad\N&lrm;have to sell to buy one of these?
+Dialogue: ,0:01:50.86,0:01:53.70,Default,,0,0,0,,&lrm;What am I saying?\N&lrm;He'd have to sell the whole store.
+Dialogue: ,0:01:53.86,0:01:56.70,Default,,0,0,0,,&lrm;If you're so rich,\N&lrm;you don't need free croissants.
+Dialogue: ,0:01:56.86,0:01:58.26,Default,,0,0,0,,&lrm;[she groans] Jealous.
+Dialogue: ,0:02:00.42,0:02:02.46,Default,,0,0,0,,&lrm;Is that camembert?
+Dialogue: ,0:02:05.02,0:02:06.62,Default,,0,0,0,,&lrm;[he gasps]
+Dialogue: ,0:02:06.78,0:02:09.46,Default,,0,0,0,,&lrm;That's not camembert,\N&lrm;but it is very shiny.
+Dialogue: ,0:02:09.62,0:02:11.10,Default,,0,0,0,,&lrm;I like shiny.
+Dialogue: ,0:02:11.26,0:02:13.26,Default,,0,0,0,,&lrm;I have no dishes to share
+Dialogue: ,0:02:13.42,0:02:17.22,Default,,0,0,0,,&lrm;but maybe Mr. Bourgeois will invite you all\N&lrm;to the hotel for lunch.
+Dialogue: ,0:02:17.66,0:02:20.02,Default,,0,0,0,,&lrm;[policeman chuckles]
+Dialogue: ,0:02:20.18,0:02:21.66,Default,,0,0,0,,&lrm;[Plagg giggles]
+Dialogue: ,0:02:23.14,0:02:25.22,Default,,0,0,0,,&lrm;[Plagg giggles]
+Dialogue: ,0:02:26.86,0:02:27.94,Default,,0,0,0,,&lrm;[she squeals]
+Dialogue: ,0:02:28.42,0:02:29.46,Default,,0,0,0,,&lrm;[giggling]
+Dialogue: ,0:02:29.62,0:02:31.18,Default,,0,0,0,,&lrm;Do you ever not trip up?
+Dialogue: ,0:02:32.30,0:02:33.34,Default,,0,0,0,,&lrm;[Marinette groans]
+Dialogue: ,0:02:33.74,0:02:34.94,Default,,0,0,0,,&lrm;[Plagg struggles]
+Dialogue: ,0:02:35.10,0:02:37.18,Default,,0,0,0,,&lrm;Next is Sabrina's father, a policeman,
+Dialogue: ,0:02:37.62,0:02:39.22,Default,,0,0,0,,&lrm;Officer Roger.
+Dialogue: ,0:02:40.22,0:02:42.50,Default,,0,0,0,,&lrm;I've been a police officer for 15 years,
+Dialogue: ,0:02:42.66,0:02:46.42,Default,,0,0,0,,&lrm;and I believe that everyone\N&lrm;is innocent until proven guilty.
+Dialogue: ,0:02:46.58,0:02:48.86,Default,,0,0,0,,&lrm;My bracelet, it's gone!
+Dialogue: ,0:02:49.02,0:02:51.06,Default,,0,0,0,,&lrm;I had it a second ago.
+Dialogue: ,0:02:51.22,0:02:52.94,Default,,0,0,0,,&lrm;You, you stole it!
+Dialogue: ,0:02:53.10,0:02:55.06,Default,,0,0,0,,&lrm;What are you talking about?
+Dialogue: ,0:02:55.22,0:02:58.78,Default,,0,0,0,,&lrm;You tripped on my bag\N&lrm;so you could steal it.
+Dialogue: ,0:02:58.94,0:03:00.74,Default,,0,0,0,,&lrm;You're a policeman, arrest her.
+Dialogue: ,0:03:00.90,0:03:02.74,Default,,0,0,0,,&lrm;[angrily] My daughter is not a thief.
+Dialogue: ,0:03:03.94,0:03:05.30,Default,,0,0,0,,&lrm;Hold on, Miss Bourgeois.
+Dialogue: ,0:03:05.46,0:03:07.30,Default,,0,0,0,,&lrm;We don't accuse without proof.
+Dialogue: ,0:03:07.46,0:03:11.10,Default,,0,0,0,,&lrm;Everyone calm down.\N&lrm;Maybe you simply misplaced it.
+Dialogue: ,0:03:11.26,0:03:13.18,Default,,0,0,0,,&lrm;You're calling me a liar?
+Dialogue: ,0:03:13.34,0:03:14.34,Default,,0,0,0,,&lrm;Daddy!
+Dialogue: ,0:03:14.50,0:03:16.46,Default,,0,0,0,,&lrm;Roger, I demand you search this girl.
+Dialogue: ,0:03:16.62,0:03:17.70,Default,,0,0,0,,&lrm;[Chloe chuckles]
+Dialogue: ,0:03:17.86,0:03:19.10,Default,,0,0,0,,&lrm;[teacher] Please, everybody.
+Dialogue: ,0:03:19.26,0:03:20.70,Default,,0,0,0,,&lrm;Need I remind you
+Dialogue: ,0:03:20.86,0:03:23.02,Default,,0,0,0,,&lrm;that as mayor, I am your superior?
+Dialogue: ,0:03:23.42,0:03:26.50,Default,,0,0,0,,&lrm;But it's against the law.\N&lrm;I can't just go...
+Dialogue: ,0:03:26.66,0:03:28.10,Default,,0,0,0,,&lrm;OK, then you're fired.
+Dialogue: ,0:03:28.46,0:03:31.94,Default,,0,0,0,,&lrm;Mayor, you can't be serious.\N&lrm;Over a missing bracelet?
+Dialogue: ,0:03:32.10,0:03:34.34,Default,,0,0,0,,&lrm;This is my daughter's bracelet.
+Dialogue: ,0:03:34.50,0:03:37.26,Default,,0,0,0,,&lrm;You're incompetent, and you're fired.\N&lrm;Get out!
+Dialogue: ,0:03:37.90,0:03:39.18,Default,,0,0,0,,&lrm;[he sighs sadly]
+Dialogue: ,0:03:39.34,0:03:40.94,Default,,0,0,0,,&lrm;[Chloe] Let's call Ladybug.
+Dialogue: ,0:03:41.10,0:03:42.74,Default,,0,0,0,,&lrm;She'll actually do something.
+Dialogue: ,0:03:43.30,0:03:45.02,Default,,0,0,0,,&lrm;[she sighs]
+Dialogue: ,0:03:48.26,0:03:51.78,Default,,0,0,0,,&lrm;Parent-child relationships\N&lrm;can be so complicated...
+Dialogue: ,0:03:51.94,0:03:55.10,Default,,0,0,0,,&lrm;and a perfect breeding-ground for stress.
+Dialogue: ,0:03:55.62,0:03:59.46,Default,,0,0,0,,&lrm;When there's no more law and order,\N&lrm;there's only chaos left.
+Dialogue: ,0:04:03.58,0:04:06.42,Default,,0,0,0,,&lrm;Fly away, my evil little Akuma,
+Dialogue: ,0:04:06.58,0:04:08.70,Default,,0,0,0,,&lrm;and take control of this policeman.
+Dialogue: ,0:04:17.10,0:04:18.42,Default,,0,0,0,,&lrm;[flapping]
+Dialogue: ,0:04:18.58,0:04:22.50,Default,,0,0,0,,&lrm;He expects me to break the law?\N&lrm;That's just... criminal.
+Dialogue: ,0:04:23.30,0:04:24.46,Default,,0,0,0,,&lrm;[whooshing]
+Dialogue: ,0:04:24.62,0:04:25.82,Default,,0,0,0,,&lrm;[Hawk Moth] Rogercop,
+Dialogue: ,0:04:26.22,0:04:27.78,Default,,0,0,0,,&lrm;I am Hawk Moth.
+Dialogue: ,0:04:27.94,0:04:31.18,Default,,0,0,0,,&lrm;This city needs a true, ruthless,\N&lrm;righter of wrongs
+Dialogue: ,0:04:31.34,0:04:33.22,Default,,0,0,0,,&lrm;and that is where you come in.
+Dialogue: ,0:04:33.66,0:04:35.30,Default,,0,0,0,,&lrm;Yes, sir.
+Dialogue: ,0:04:37.94,0:04:42.66,Default,,0,0,0,,&lrm;Ladybug and Cat Noir\N&lrm;must be destroyed if you want retribution.
+Dialogue: ,0:04:42.82,0:04:45.86,Default,,0,0,0,,&lrm;You will seize their Miraculouses for me.
+Dialogue: ,0:04:46.02,0:04:47.66,Default,,0,0,0,,&lrm;Do we have an agreement?
+Dialogue: ,0:04:49.38,0:04:50.78,Default,,0,0,0,,&lrm;[robotic voice] {\i1}&lrm;Affirmative!{\i0}
+Dialogue: ,0:04:50.94,0:04:53.58,Default,,0,0,0,,{\i1}&lrm;Cat Noir and Ladybug{\i0}\N{\i1}&lrm;will be powerless against me.{\i0}
+Dialogue: ,0:04:53.74,0:04:55.74,Default,,0,0,0,,{\i1}&lrm;Justice will prevail in Paris.{\i0}
+Dialogue: ,0:04:56.22,0:04:59.14,Default,,0,0,0,,&lrm;Don't even think of going\N&lrm;near my daughter's bag!
+Dialogue: ,0:04:59.30,0:05:01.38,Default,,0,0,0,,&lrm;Do you know who I am?
+Dialogue: ,0:05:01.54,0:05:04.66,Default,,0,0,0,,&lrm;Gentlemen, this is a school.\N&lrm;Think of the children.
+Dialogue: ,0:05:04.82,0:05:06.54,Default,,0,0,0,,&lrm;I'm sure the bracelet is
+Dialogue: ,0:05:06.70,0:05:07.82,Default,,0,0,0,,&lrm;around here somewhere.
+Dialogue: ,0:05:07.98,0:05:10.82,Default,,0,0,0,,&lrm;It probably just rolled out of her bag.
+Dialogue: ,0:05:10.98,0:05:14.82,Default,,0,0,0,,&lrm;I'd try and get as far away\N&lrm;as possible from that brat too.
+Dialogue: ,0:05:14.98,0:05:16.22,Default,,0,0,0,,&lrm;[giggling]
+Dialogue: ,0:05:16.38,0:05:20.50,Default,,0,0,0,,&lrm;Hey, Nino's been filming everything.\N&lrm;We can see what really happened.
+Dialogue: ,0:05:20.94,0:05:23.46,Default,,0,0,0,,{\i1}&lrm;Marinette will come round{\i0}\N{\i1}&lrm;to pass out some fresh croissants.{\i0}
+Dialogue: ,0:05:23.62,0:05:24.66,Default,,0,0,0,,&lrm;[accelerated voice]
+Dialogue: ,0:05:25.30,0:05:26.74,Default,,0,0,0,,&lrm;[Marinette] There you have it.
+Dialogue: ,0:05:26.90,0:05:28.98,Default,,0,0,0,,&lrm;Sabrina was holding it.
+Dialogue: ,0:05:29.14,0:05:31.46,Default,,0,0,0,,&lrm;Yes, but I gave it back straight after.
+Dialogue: ,0:05:31.62,0:05:34.22,Default,,0,0,0,,&lrm;Chloe, take a look in your BFF's bag.
+Dialogue: ,0:05:34.38,0:05:36.50,Default,,0,0,0,,&lrm;Are you saying I'm a thief?
+Dialogue: ,0:05:36.66,0:05:39.22,Default,,0,0,0,,&lrm;No.\N&lrm;Chloe's the one calling people thieves.
+Dialogue: ,0:05:39.38,0:05:41.18,Default,,0,0,0,,&lrm;I'm going by what's on the video.
+Dialogue: ,0:05:41.34,0:05:42.62,Default,,0,0,0,,&lrm;[irritated groan]
+Dialogue: ,0:05:42.78,0:05:43.90,Default,,0,0,0,,&lrm;[gasps]
+Dialogue: ,0:05:46.26,0:05:47.78,Default,,0,0,0,,&lrm;[gasps]
+Dialogue: ,0:05:48.90,0:05:51.90,Default,,0,0,0,,&lrm;Yes, I sketched it,\N&lrm;but I didn't do anything else.
+Dialogue: ,0:05:58.38,0:05:59.30,Default,,0,0,0,,&lrm;[questioning sigh]
+Dialogue: ,0:06:00.98,0:06:02.02,Default,,0,0,0,,&lrm;[she gasps]
+Dialogue: ,0:06:02.34,0:06:03.62,Default,,0,0,0,,{\i1}&lrm;You're under arrest.{\i0}
+Dialogue: ,0:06:04.10,0:06:05.58,Default,,0,0,0,,&lrm;What? What for?
+Dialogue: ,0:06:05.74,0:06:06.78,Default,,0,0,0,,{\i1}&lrm;Littering,{\i0}
+Dialogue: ,0:06:06.94,0:06:08.98,Default,,0,0,0,,{\i1}&lrm;jaywalking, and crossing on a red light.{\i0}
+Dialogue: ,0:06:09.70,0:06:12.94,Default,,0,0,0,,&lrm;Well, I suppose...\N&lrm;I did but you can't arrest me.
+Dialogue: ,0:06:13.10,0:06:16.90,Default,,0,0,0,,&lrm;Who are you any anyway?\N&lrm;You don't look like a policeman.
+Dialogue: ,0:06:19.74,0:06:21.42,Default,,0,0,0,,{\i1}&lrm;I sentence you to litter duty.{\i0}
+Dialogue: ,0:06:21.82,0:06:23.38,Default,,0,0,0,,&lrm;[whistle blows]
+Dialogue: ,0:06:23.54,0:06:25.38,Default,,0,0,0,,&lrm;[she gasps]\N&lrm;[whirring]
+Dialogue: ,0:06:25.54,0:06:28.46,Default,,0,0,0,,{\i1}&lrm;Next mission,{\i0}\N{\i1}&lrm;seek justice from Mayor Bourgeois.{\i0}
+Dialogue: ,0:06:28.62,0:06:29.86,Default,,0,0,0,,&lrm;[Mayor] Give me the tape.
+Dialogue: ,0:06:30.02,0:06:31.14,Default,,0,0,0,,&lrm;I'll have it analysed.
+Dialogue: ,0:06:31.30,0:06:33.54,Default,,0,0,0,,&lrm;-No, it's my camera.\N&lrm;-Do you know who I am?
+Dialogue: ,0:06:33.70,0:06:35.94,Default,,0,0,0,,&lrm;[Plagg struggles] I'm the Mayor!
+Dialogue: ,0:06:36.10,0:06:37.94,Default,,0,0,0,,&lrm;[Mayor] Where's the principle?
+Dialogue: ,0:06:38.10,0:06:39.82,Default,,0,0,0,,&lrm;I want to see him now!
+Dialogue: ,0:06:42.02,0:06:45.66,Default,,0,0,0,,&lrm;I won't bother you with the story,\N&lrm;it's a long, boring...
+Dialogue: ,0:06:45.82,0:06:48.82,Default,,0,0,0,,&lrm;Yes you will, and fast.\N&lrm;We have a big problem.
+Dialogue: ,0:06:48.98,0:06:53.98,Default,,0,0,0,,&lrm;If by big you're referring to my hard abs,\N&lrm;thanks for noticing.
+Dialogue: ,0:06:54.14,0:06:55.94,Default,,0,0,0,,&lrm;[whirring and stomping]
+Dialogue: ,0:06:56.10,0:06:58.46,Default,,0,0,0,,&lrm;[Cat Noir] Now we have a bigger problem.
+Dialogue: ,0:06:58.62,0:07:00.66,Default,,0,0,0,,&lrm;Hey! You can't just walk in here.
+Dialogue: ,0:07:00.82,0:07:03.38,Default,,0,0,0,,{\i1}&lrm;I can go wherever I want,{\i0}\N{\i1}&lrm;whenever I want.{\i0}
+Dialogue: ,0:07:03.54,0:07:05.02,Default,,0,0,0,,{\i1}&lrm;I am the law.{\i0}
+Dialogue: ,0:07:05.18,0:07:06.86,Default,,0,0,0,,&lrm;Well, I'm the authority here.
+Dialogue: ,0:07:07.02,0:07:09.82,Default,,0,0,0,,{\i1}&lrm;You are guilty of obstructing{\i0}\N{\i1}&lrm;the path of justice.{\i0}
+Dialogue: ,0:07:09.98,0:07:12.14,Default,,0,0,0,,&lrm;[zapping] {\i1}&lrm;I sentence you to do laps.{\i0}
+Dialogue: ,0:07:12.30,0:07:13.34,Default,,0,0,0,,&lrm;[he sighs]
+Dialogue: ,0:07:13.62,0:07:15.22,Default,,0,0,0,,&lrm;[whistle blows]
+Dialogue: ,0:07:15.38,0:07:18.10,Default,,0,0,0,,&lrm;[yelling] Wait.\N&lrm;I can't... control... my arms.
+Dialogue: ,0:07:18.26,0:07:19.62,Default,,0,0,0,,&lrm;Why can't I transform?
+Dialogue: ,0:07:19.78,0:07:24.42,Default,,0,0,0,,&lrm;The bracelet will get absorbed\N&lrm;with me and damage your powers.
+Dialogue: ,0:07:24.58,0:07:26.22,Default,,0,0,0,,&lrm;[irritated groan]
+Dialogue: ,0:07:26.38,0:07:28.42,Default,,0,0,0,,&lrm;[evil cackling]
+Dialogue: ,0:07:28.58,0:07:32.90,Default,,0,0,0,,&lrm;Soon, Ladybug and Cat Noir\N&lrm;will show up to meet their doom.
+Dialogue: ,0:07:35.26,0:07:37.14,Default,,0,0,0,,&lrm;See, Chloe? I tripped on the bag,
+Dialogue: ,0:07:37.30,0:07:39.74,Default,,0,0,0,,&lrm;Sabrina held the bracelet\N&lrm;and Nathaniel sketched it.
+Dialogue: ,0:07:39.90,0:07:41.46,Default,,0,0,0,,&lrm;We are all suspects.
+Dialogue: ,0:07:41.82,0:07:44.34,Default,,0,0,0,,&lrm;What's that supposed to mean?\N&lrm;I didn't swipe it.
+Dialogue: ,0:07:44.50,0:07:46.02,Default,,0,0,0,,&lrm;And neither did I
+Dialogue: ,0:07:46.18,0:07:48.90,Default,,0,0,0,,&lrm;but Chloe could accuse\N&lrm;anyone and everyone.
+Dialogue: ,0:07:49.30,0:07:52.78,Default,,0,0,0,,&lrm;Fine, since you're a suspect,\N&lrm;you'll let me search your bag.
+Dialogue: ,0:07:52.94,0:07:55.74,Default,,0,0,0,,&lrm;Ok, but only if search everyone else's\N&lrm;too.
+Dialogue: ,0:07:55.90,0:07:57.18,Default,,0,0,0,,&lrm;No-one's rummaging in my bag.
+Dialogue: ,0:07:57.34,0:07:59.42,Default,,0,0,0,,&lrm;Marinette, let the adults handle this.
+Dialogue: ,0:07:59.58,0:08:02.94,Default,,0,0,0,,&lrm;She called me a thief.\N&lrm;I'm just defending myself.
+Dialogue: ,0:08:03.10,0:08:05.94,Default,,0,0,0,,&lrm;You're also accusing your friends\N&lrm;like Chloe's doing.
+Dialogue: ,0:08:06.10,0:08:09.02,Default,,0,0,0,,&lrm;I'm Chloe's BFF.\N&lrm;I wouldn't steal from her.
+Dialogue: ,0:08:09.18,0:08:12.46,Default,,0,0,0,,&lrm;What about Adrien?\N&lrm;He's in 4 seconds of that video.
+Dialogue: ,0:08:12.62,0:08:14.46,Default,,0,0,0,,&lrm;And we haven't seen him since.
+Dialogue: ,0:08:14.62,0:08:17.62,Default,,0,0,0,,&lrm;Not Adrien.\N&lrm;Why would he steal a bracelet?
+Dialogue: ,0:08:17.78,0:08:19.86,Default,,0,0,0,,&lrm;If anyone's guilty, it's one of us.
+Dialogue: ,0:08:20.02,0:08:21.18,Default,,0,0,0,,&lrm;Are you accusing us?
+Dialogue: ,0:08:21.34,0:08:22.34,Default,,0,0,0,,&lrm;I want an attorney.
+Dialogue: ,0:08:22.50,0:08:23.58,Default,,0,0,0,,&lrm;[Dad] Marinette, stop.
+Dialogue: ,0:08:23.74,0:08:24.90,Default,,0,0,0,,&lrm;[Max] We should search the parents.
+Dialogue: ,0:08:25.06,0:08:26.62,Default,,0,0,0,,&lrm;[Rogercop] {\i1}&lrm;Where is the Mayor?{\i0}
+Dialogue: ,0:08:26.94,0:08:27.74,Default,,0,0,0,,&lrm;Dad?
+Dialogue: ,0:08:27.86,0:08:28.90,Default,,0,0,0,,&lrm;That's your dad?
+Dialogue: ,0:08:29.62,0:08:32.22,Default,,0,0,0,,&lrm;-Hello, may I help you?\N{\i1}&lrm;-Where is the Mayor?{\i0}
+Dialogue: ,0:08:32.50,0:08:33.90,Default,,0,0,0,,&lrm;I think he already left.
+Dialogue: ,0:08:34.06,0:08:35.06,Default,,0,0,0,,{\i1}&lrm;Are you lying?{\i0}
+Dialogue: ,0:08:35.22,0:08:37.14,Default,,0,0,0,,&lrm;Yes... I mean no.
+Dialogue: ,0:08:37.30,0:08:40.22,Default,,0,0,0,,{\i1}&lrm;If nobody speaks up, I'll arrest you all.{\i0}
+Dialogue: ,0:08:40.38,0:08:41.98,Default,,0,0,0,,{\i1}&lrm;Where is your father?{\i0}
+Dialogue: ,0:08:42.14,0:08:43.18,Default,,0,0,0,,&lrm;I don't know.
+Dialogue: ,0:08:43.34,0:08:45.54,Default,,0,0,0,,&lrm;[Mayor shouting] Mr. Principle,
+Dialogue: ,0:08:45.70,0:08:47.22,Default,,0,0,0,,&lrm;find out who stole it ASAP!
+Dialogue: ,0:08:47.38,0:08:49.50,Default,,0,0,0,,&lrm;[Mayor] Or your job is on the line.
+Dialogue: ,0:08:49.66,0:08:52.06,Default,,0,0,0,,&lrm;My Daughter has been treated\N&lrm;with disrespect.
+Dialogue: ,0:08:52.22,0:08:54.02,Default,,0,0,0,,&lrm;I was only defending myself.
+Dialogue: ,0:08:54.18,0:08:57.42,Default,,0,0,0,,&lrm;My dad's right,\N&lrm;I accused everyone in the process.
+Dialogue: ,0:08:57.58,0:08:59.82,Default,,0,0,0,,&lrm;I don't think any of us took it.
+Dialogue: ,0:08:59.98,0:09:01.94,Default,,0,0,0,,&lrm;You'll find a way to make it right.
+Dialogue: ,0:09:02.10,0:09:04.74,Default,,0,0,0,,&lrm;Yeah, well, right now,\N&lrm;I've gotta transform.
+Dialogue: ,0:09:06.18,0:09:07.98,Default,,0,0,0,,&lrm;Tikki, spots on!
+Dialogue: ,0:09:22.38,0:09:24.82,Default,,0,0,0,,&lrm;[struggling]\N&lrm;[groaning]
+Dialogue: ,0:09:25.62,0:09:29.46,Default,,0,0,0,,&lrm;I thought it was camembert.\N&lrm;Anyone can make a mistake.
+Dialogue: ,0:09:29.74,0:09:33.18,Default,,0,0,0,,&lrm;You're always thinking\N&lrm;with your stomach... Wait.
+Dialogue: ,0:09:35.54,0:09:36.58,Default,,0,0,0,,&lrm;A bit of pepper...
+Dialogue: ,0:09:36.98,0:09:38.30,Default,,0,0,0,,&lrm;[Plagg sniffs]
+Dialogue: ,0:09:38.46,0:09:39.70,Default,,0,0,0,,&lrm;[he sneezes loudly]
+Dialogue: ,0:09:39.86,0:09:41.10,Default,,0,0,0,,&lrm;[Adrien] {\i1}&lrm;Gesundheit!{\i0}
+Dialogue: ,0:09:41.50,0:09:42.86,Default,,0,0,0,,&lrm;Plagg, claws out!
+Dialogue: ,0:09:57.70,0:09:58.82,Default,,0,0,0,,&lrm;I'm warning you,
+Dialogue: ,0:09:58.98,0:10:01.18,Default,,0,0,0,,&lrm;if you don't find it by this evening,
+Dialogue: ,0:10:01.34,0:10:04.38,Default,,0,0,0,,&lrm;I'll cut off all funding for the school.\N&lrm;Understood?
+Dialogue: ,0:10:04.54,0:10:06.50,Default,,0,0,0,,&lrm;But how am I supposed to...
+Dialogue: ,0:10:06.94,0:10:08.30,Default,,0,0,0,,&lrm;[they gasp]
+Dialogue: ,0:10:08.70,0:10:11.22,Default,,0,0,0,,&lrm;Didn't anyone ever teach you to knock?
+Dialogue: ,0:10:11.38,0:10:12.98,Default,,0,0,0,,{\i1}&lrm;Justice doesn't need an invitation.{\i0}
+Dialogue: ,0:10:13.14,0:10:15.62,Default,,0,0,0,,{\i1}&lrm;Mayor, you're under arrest{\i0}\N{\i1}&lrm;for abuse of power.{\i0}
+Dialogue: ,0:10:16.06,0:10:17.66,Default,,0,0,0,,&lrm;[Gasping] Look who's talking.
+Dialogue: ,0:10:20.42,0:10:22.42,Default,,0,0,0,,{\i1}&lrm;Paris has a new righter of wrongs.{\i0}
+Dialogue: ,0:10:22.58,0:10:24.62,Default,,0,0,0,,{\i1}&lrm;Your services are no longer required.{\i0}
+Dialogue: ,0:10:24.78,0:10:26.66,Default,,0,0,0,,&lrm;[zapping]\N&lrm;[panting]
+Dialogue: ,0:10:27.02,0:10:30.10,Default,,0,0,0,,&lrm;You can't accuse everyone\N&lrm;of every little wrong-doing!
+Dialogue: ,0:10:30.26,0:10:32.22,Default,,0,0,0,,&lrm;[zapping]\N&lrm;[panting]
+Dialogue: ,0:10:32.38,0:10:35.98,Default,,0,0,0,,&lrm;[zapping]
+Dialogue: ,0:10:38.06,0:10:41.74,Default,,0,0,0,,&lrm;[caretaker whimpers]
+Dialogue: ,0:10:41.90,0:10:43.46,Default,,0,0,0,,&lrm;[sigh of relief]
+Dialogue: ,0:10:44.42,0:10:47.78,Default,,0,0,0,,&lrm;Mr. Rogercop, I need your help.
+Dialogue: ,0:10:48.26,0:10:50.58,Default,,0,0,0,,&lrm;[bleeping]
+Dialogue: ,0:10:50.74,0:10:51.74,Default,,0,0,0,,&lrm;[he gasps]
+Dialogue: ,0:10:52.58,0:10:54.46,Default,,0,0,0,,&lrm;[she gasps] Hey, come back.
+Dialogue: ,0:10:55.66,0:10:56.86,Default,,0,0,0,,&lrm;[thudding footsteps]
+Dialogue: ,0:10:57.66,0:10:58.66,Default,,0,0,0,,&lrm;[she yells]
+Dialogue: ,0:10:59.82,0:11:01.62,Default,,0,0,0,,&lrm;[she struggles]
+Dialogue: ,0:11:01.78,0:11:03.06,Default,,0,0,0,,&lrm;[she squeals]
+Dialogue: ,0:11:03.66,0:11:08.14,Default,,0,0,0,,&lrm;[zapping]
+Dialogue: ,0:11:08.30,0:11:10.46,Default,,0,0,0,,&lrm;[bleeping]
+Dialogue: ,0:11:13.02,0:11:14.78,Default,,0,0,0,,{\i1}&lrm;You're obstructing justice.{\i0}
+Dialogue: ,0:11:14.94,0:11:16.30,Default,,0,0,0,,{\i1}&lrm;You'll pay for this.{\i0}
+Dialogue: ,0:11:16.58,0:11:18.46,Default,,0,0,0,,&lrm;You can add bodily harm\N&lrm;to the charges.
+Dialogue: ,0:11:18.62,0:11:19.94,Default,,0,0,0,,&lrm;[zapping]
+Dialogue: ,0:11:20.10,0:11:22.50,Default,,0,0,0,,&lrm;[panting]
+Dialogue: ,0:11:22.66,0:11:23.62,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:11:24.50,0:11:27.58,Default,,0,0,0,,&lrm;Listen,\N&lrm;you're Sabrina's dad and a good cop.
+Dialogue: ,0:11:27.74,0:11:30.66,Default,,0,0,0,,&lrm;Don't let the evil person\N&lrm;who gave you these powers
+Dialogue: ,0:11:30.82,0:11:32.50,Default,,0,0,0,,&lrm;make an evil cop out of you.
+Dialogue: ,0:11:32.66,0:11:34.46,Default,,0,0,0,,&lrm;Don't listen to her.\N&lrm;Take their Miraculouses!
+Dialogue: ,0:11:34.62,0:11:35.74,Default,,0,0,0,,&lrm;Their powers belong to me!
+Dialogue: ,0:11:36.58,0:11:38.94,Default,,0,0,0,,{\i1}&lrm;Justice must prevail{\i0}\N{\i1}&lrm;in the streets of Paris.{\i0}
+Dialogue: ,0:11:39.30,0:11:41.62,Default,,0,0,0,,&lrm;[zapping]\N&lrm;[panting]
+Dialogue: ,0:11:43.14,0:11:44.50,Default,,0,0,0,,&lrm;[she screams]
+Dialogue: ,0:11:45.26,0:11:49.90,Default,,0,0,0,,{\i1}&lrm;The mayor must pay for getting rid{\i0}\N{\i1}&lrm;of his best police officer.{\i0}
+Dialogue: ,0:11:50.06,0:11:51.34,Default,,0,0,0,,&lrm;Mr. Rogercop!
+Dialogue: ,0:11:51.50,0:11:53.34,Default,,0,0,0,,&lrm;I've got a serious problem,
+Dialogue: ,0:11:53.50,0:11:55.14,Default,,0,0,0,,&lrm;worse than a bad hair day.
+Dialogue: ,0:11:55.30,0:11:57.58,Default,,0,0,0,,{\i1}&lrm;-Come, we'll talk about it.{\i0}\N&lrm;-OK
+Dialogue: ,0:11:59.30,0:12:01.22,Default,,0,0,0,,&lrm;[Cat Noir] Chloe, no!
+Dialogue: ,0:12:02.50,0:12:03.34,Default,,0,0,0,,&lrm;[thud]
+Dialogue: ,0:12:05.70,0:12:08.02,Default,,0,0,0,,&lrm;[whooshing]
+Dialogue: ,0:12:09.22,0:12:10.70,Default,,0,0,0,,&lrm;[ladybird pants]
+Dialogue: ,0:12:10.86,0:12:12.10,Default,,0,0,0,,&lrm;I bet you missed me.
+Dialogue: ,0:12:12.62,0:12:15.38,Default,,0,0,0,,&lrm;[they yell]
+Dialogue: ,0:12:16.06,0:12:17.14,Default,,0,0,0,,&lrm;[she huffs]
+Dialogue: ,0:12:17.30,0:12:20.74,Default,,0,0,0,,&lrm;I know that Marinette stole my bracelet.
+Dialogue: ,0:12:20.90,0:12:22.54,Default,,0,0,0,,&lrm;She must be arrested.
+Dialogue: ,0:12:30.62,0:12:32.02,Default,,0,0,0,,&lrm;[car] {\i1}&lrm;Auto-pilot engaged.{\i0}
+Dialogue: ,0:12:32.74,0:12:35.46,Default,,0,0,0,,&lrm;[Chloe] Hello, are you listening to me?
+Dialogue: ,0:12:35.62,0:12:37.82,Default,,0,0,0,,&lrm;Thanks for the lasso, Lassy.
+Dialogue: ,0:12:39.30,0:12:42.58,Default,,0,0,0,,&lrm;Where are you going?\N&lrm;Who's going to drive this car?
+Dialogue: ,0:12:44.46,0:12:46.06,Default,,0,0,0,,&lrm;Did I thank you for the lift?
+Dialogue: ,0:12:46.22,0:12:50.70,Default,,0,0,0,,&lrm;[struggling]
+Dialogue: ,0:12:51.50,0:12:53.10,Default,,0,0,0,,&lrm;[yelling]
+Dialogue: ,0:12:55.54,0:12:58.42,Default,,0,0,0,,&lrm;Nice shoes.\N&lrm;I could use a pair like that.
+Dialogue: ,0:12:58.82,0:13:00.02,Default,,0,0,0,,&lrm;[Ladybug screams]
+Dialogue: ,0:13:00.18,0:13:01.46,Default,,0,0,0,,&lrm;Grab onto me.
+Dialogue: ,0:13:02.34,0:13:04.34,Default,,0,0,0,,&lrm;[Ladybug screams]\N&lrm;No, Ladybug!
+Dialogue: ,0:13:06.98,0:13:08.22,Default,,0,0,0,,&lrm;What have you done?
+Dialogue: ,0:13:08.38,0:13:10.02,Default,,0,0,0,,&lrm;Snatch his Miraculous!
+Dialogue: ,0:13:10.18,0:13:11.74,Default,,0,0,0,,&lrm;[Hawk Moth] His ring!
+Dialogue: ,0:13:16.02,0:13:17.66,Default,,0,0,0,,&lrm;[whirring]
+Dialogue: ,0:13:17.82,0:13:19.70,Default,,0,0,0,,&lrm;[Cat Noir yells]
+Dialogue: ,0:13:22.34,0:13:25.86,Default,,0,0,0,,&lrm;[struggling] Nice day for a swim.
+Dialogue: ,0:13:28.46,0:13:29.62,Default,,0,0,0,,&lrm;[he whimpers]
+Dialogue: ,0:13:30.90,0:13:31.82,Default,,0,0,0,,&lrm;[sigh of relief]
+Dialogue: ,0:13:34.42,0:13:37.74,Default,,0,0,0,,&lrm;Well, hey. I'm head over heels\N&lrm;to see you, milady.
+Dialogue: ,0:13:37.90,0:13:39.22,Default,,0,0,0,,&lrm;[kissing]
+Dialogue: ,0:13:40.14,0:13:41.10,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:13:41.26,0:13:43.10,Default,,0,0,0,,&lrm;You're welcome. You owe me one.
+Dialogue: ,0:13:43.38,0:13:45.46,Default,,0,0,0,,&lrm;Sure but I'll take credit for that.
+Dialogue: ,0:13:48.02,0:13:49.86,Default,,0,0,0,,&lrm;[car] {\i1}&lrm;Mayor's Limousine located.{\i0}
+Dialogue: ,0:13:50.02,0:13:52.86,Default,,0,0,0,,&lrm;[whooshing]
+Dialogue: ,0:13:53.94,0:13:55.10,Default,,0,0,0,,&lrm;[panting]
+Dialogue: ,0:13:55.26,0:13:57.70,Default,,0,0,0,,&lrm;[Ladybug] There's no point\N&lrm;running after him.
+Dialogue: ,0:13:57.86,0:13:59.66,Default,,0,0,0,,&lrm;He's way out of reach now.
+Dialogue: ,0:13:59.82,0:14:01.42,Default,,0,0,0,,&lrm;Well, if it's the mayor he wants...
+Dialogue: ,0:14:01.58,0:14:03.82,Default,,0,0,0,,&lrm;He'll be heading for the city hall.
+Dialogue: ,0:14:03.98,0:14:05.66,Default,,0,0,0,,&lrm;Do I sense a plan?
+Dialogue: ,0:14:08.86,0:14:14.78,Default,,0,0,0,,&lrm;[whooshing]
+Dialogue: ,0:14:14.94,0:14:16.50,Default,,0,0,0,,&lrm;[bleeping]
+Dialogue: ,0:14:16.94,0:14:17.78,Default,,0,0,0,,{\i1}&lrm;Let's go.{\i0}
+Dialogue: ,0:14:18.70,0:14:19.90,Default,,0,0,0,,&lrm;[sizzling]
+Dialogue: ,0:14:20.06,0:14:24.06,Default,,0,0,0,,&lrm;Call all available police forces ASAP.\N&lrm;That's an order!
+Dialogue: ,0:14:24.22,0:14:25.30,Default,,0,0,0,,&lrm;[shouting]
+Dialogue: ,0:14:25.74,0:14:27.38,Default,,0,0,0,,&lrm;[fearful cries]\N&lrm;[sizzling]
+Dialogue: ,0:14:36.10,0:14:37.14,Default,,0,0,0,,{\i1}&lrm;Bourgeois,{\i0}
+Dialogue: ,0:14:37.30,0:14:39.98,Default,,0,0,0,,{\i1}&lrm;I'm taking over.{\i0}\N{\i1}&lrm;Relinquish your powers.{\i0}
+Dialogue: ,0:14:40.14,0:14:41.10,Default,,0,0,0,,&lrm;Never!
+Dialogue: ,0:14:41.26,0:14:42.38,Default,,0,0,0,,&lrm;[whirring]
+Dialogue: ,0:14:42.54,0:14:43.98,Default,,0,0,0,,&lrm;[zapping]
+Dialogue: ,0:14:44.62,0:14:46.66,Default,,0,0,0,,&lrm;These handcuffs won't change my mind.
+Dialogue: ,0:14:46.82,0:14:48.46,Default,,0,0,0,,{\i1}&lrm;Then maybe this will.{\i0}
+Dialogue: ,0:14:48.62,0:14:49.70,Default,,0,0,0,,&lrm;[whistle]
+Dialogue: ,0:14:49.86,0:14:50.74,Default,,0,0,0,,&lrm;Hey!
+Dialogue: ,0:14:51.18,0:14:53.82,Default,,0,0,0,,&lrm;Don't you dare lay a finger\N&lrm;on my little girl.
+Dialogue: ,0:14:53.98,0:14:56.14,Default,,0,0,0,,{\i1}&lrm;So much for your powers.{\i0}
+Dialogue: ,0:14:56.30,0:14:58.02,Default,,0,0,0,,&lrm;[mocking laugh]
+Dialogue: ,0:14:58.78,0:15:00.82,Default,,0,0,0,,{\i1}&lrm;Paris has a new superpower.{\i0}
+Dialogue: ,0:15:00.98,0:15:04.18,Default,,0,0,0,,{\i1}&lrm;His name is Rogercop.{\i0}\N{\i1}&lrm;I hereby relinquish{\i0}
+Dialogue: ,0:15:04.34,0:15:06.50,Default,,0,0,0,,{\i1}&lrm;all authority to Rogercop.{\i0}
+Dialogue: ,0:15:06.66,0:15:09.14,Default,,0,0,0,,{\i1}&lrm;All citizens are ordered to answer to him.{\i0}
+Dialogue: ,0:15:09.62,0:15:12.10,Default,,0,0,0,,{\i1}&lrm;Ladybug and Cat Noir are now outlaws.{\i0}
+Dialogue: ,0:15:12.26,0:15:16.46,Default,,0,0,0,,{\i1}&lrm;They must be hunted down{\i0}\N{\i1}&lrm;and taken into custody immediately.{\i0}
+Dialogue: ,0:15:16.62,0:15:17.58,Default,,0,0,0,,&lrm;[grunting]
+Dialogue: ,0:15:17.74,0:15:19.02,Default,,0,0,0,,&lrm;[struggling]
+Dialogue: ,0:15:21.82,0:15:23.26,Default,,0,0,0,,&lrm;Let's go get 'em.
+Dialogue: ,0:15:26.74,0:15:28.18,Default,,0,0,0,,&lrm;[he grunts]
+Dialogue: ,0:15:28.34,0:15:31.06,Default,,0,0,0,,&lrm;[helicopters whir]
+Dialogue: ,0:15:31.22,0:15:34.02,Default,,0,0,0,,&lrm;So now we're the nation's\N&lrm;most wanted felons?
+Dialogue: ,0:15:34.18,0:15:35.66,Default,,0,0,0,,&lrm;We haven't done anything.
+Dialogue: ,0:15:35.82,0:15:38.18,Default,,0,0,0,,&lrm;You can't accuse someone\N&lrm;without proof.
+Dialogue: ,0:15:38.34,0:15:40.74,Default,,0,0,0,,&lrm;We should defend ourselves in court.
+Dialogue: ,0:15:40.90,0:15:43.26,Default,,0,0,0,,&lrm;Not while Rogercop's\N&lrm;the Chief of Justice.
+Dialogue: ,0:15:43.42,0:15:46.02,Default,,0,0,0,,&lrm;[sighing]\N&lrm;How many times have we saved Paris?
+Dialogue: ,0:15:46.18,0:15:48.66,Default,,0,0,0,,&lrm;We're still saving Paris.
+Dialogue: ,0:15:52.90,0:15:56.30,Default,,0,0,0,,&lrm;[Cat Noir pants]
+Dialogue: ,0:16:00.10,0:16:03.02,Default,,0,0,0,,&lrm;Something about Paris\N&lrm;just makes you wanna dance.
+Dialogue: ,0:16:03.18,0:16:05.82,Default,,0,0,0,,{\i1}&lrm;You won't be dancing{\i0}\N{\i1}&lrm;after I'm done with you.{\i0}
+Dialogue: ,0:16:05.98,0:16:07.18,Default,,0,0,0,,{\i1}&lrm;Arrest him.{\i0}
+Dialogue: ,0:16:07.54,0:16:09.26,Default,,0,0,0,,&lrm;So you won't be joining me?
+Dialogue: ,0:16:09.42,0:16:12.74,Default,,0,0,0,,&lrm;[thumping]\N&lrm;[groaning]
+Dialogue: ,0:16:13.42,0:16:15.38,Default,,0,0,0,,&lrm;[door creaks]\N&lrm;[tiptoeing]
+Dialogue: ,0:16:18.06,0:16:18.90,Default,,0,0,0,,&lrm;[hushing]
+Dialogue: ,0:16:19.54,0:16:21.34,Default,,0,0,0,,&lrm;[whispering loudly]\N&lrm;Go, Ladybug, go!
+Dialogue: ,0:16:21.50,0:16:22.38,Default,,0,0,0,,&lrm;[she groans]
+Dialogue: ,0:16:23.90,0:16:27.30,Default,,0,0,0,,{\i1}&lrm;Ladybug, it's time for justice to prevail.{\i0}
+Dialogue: ,0:16:30.02,0:16:33.94,Default,,0,0,0,,&lrm;You've got justice and revenge\N&lrm;all mixed up, Rogercop.
+Dialogue: ,0:16:34.86,0:16:36.42,Default,,0,0,0,,&lrm;Lucky charm!
+Dialogue: ,0:16:41.98,0:16:44.82,Default,,0,0,0,,&lrm;Oven mitts?\N&lrm;What am I supposed to do with these?
+Dialogue: ,0:16:50.78,0:16:52.18,Default,,0,0,0,,&lrm;[she whimpers]
+Dialogue: ,0:16:52.34,0:16:56.38,Default,,0,0,0,,&lrm;Fabulous, so wretchedly fabulous!
+Dialogue: ,0:16:58.10,0:16:59.42,Default,,0,0,0,,&lrm;[groaning]
+Dialogue: ,0:16:59.58,0:17:02.54,Default,,0,0,0,,&lrm;OK, show's over.\N&lrm;Sorry, no encore tonight.
+Dialogue: ,0:17:03.14,0:17:04.66,Default,,0,0,0,,&lrm;[policemen groan]
+Dialogue: ,0:17:04.82,0:17:06.98,Default,,0,0,0,,&lrm;[Ladybug groans]
+Dialogue: ,0:17:07.86,0:17:09.10,Default,,0,0,0,,&lrm;[panting]
+Dialogue: ,0:17:10.70,0:17:11.54,Default,,0,0,0,,{\i1}&lrm;Get Ladybug{\i0}
+Dialogue: ,0:17:11.70,0:17:13.14,Default,,0,0,0,,{\i1}&lrm;and Cat Noir.{\i0}
+Dialogue: ,0:17:13.30,0:17:17.54,Default,,0,0,0,,&lrm;[squealing]
+Dialogue: ,0:17:18.02,0:17:19.98,Default,,0,0,0,,&lrm;[angrily] Hey, my hair!
+Dialogue: ,0:17:23.50,0:17:25.22,Default,,0,0,0,,&lrm;Stop shooting like an idiot.
+Dialogue: ,0:17:25.38,0:17:27.90,Default,,0,0,0,,&lrm;You're supposed to seize\N&lrm;their Miraculouses!
+Dialogue: ,0:17:28.06,0:17:31.38,Default,,0,0,0,,&lrm;The Akuma must be in his whistle.\N&lrm;We've got to get to it.
+Dialogue: ,0:17:31.54,0:17:32.42,Default,,0,0,0,,&lrm;How?
+Dialogue: ,0:17:32.58,0:17:33.34,Default,,0,0,0,,&lrm;[they gasp]
+Dialogue: ,0:17:33.46,0:17:37.22,Default,,0,0,0,,&lrm;[zapping]\N&lrm;[panting]
+Dialogue: ,0:17:37.78,0:17:38.86,Default,,0,0,0,,&lrm;[zapping]
+Dialogue: ,0:17:39.02,0:17:41.78,Default,,0,0,0,,&lrm;Whenever you're ready milady.
+Dialogue: ,0:17:44.46,0:17:46.70,Default,,0,0,0,,&lrm;[tinkling]
+Dialogue: ,0:17:47.22,0:17:48.34,Default,,0,0,0,,&lrm;[she sighs]
+Dialogue: ,0:17:48.50,0:17:49.98,Default,,0,0,0,,&lrm;[tinkling]
+Dialogue: ,0:17:51.94,0:17:55.18,Default,,0,0,0,,&lrm;I have an idea,\N&lrm;but I need something like... a ring.
+Dialogue: ,0:17:57.54,0:18:01.82,Default,,0,0,0,,&lrm;[panting]\N&lrm;[zapping]
+Dialogue: ,0:18:01.98,0:18:04.30,Default,,0,0,0,,&lrm;[zapping]\N&lrm;Where am I gonna get a ring?
+Dialogue: ,0:18:08.54,0:18:10.46,Default,,0,0,0,,&lrm;[tinkling]
+Dialogue: ,0:18:11.10,0:18:12.66,Default,,0,0,0,,&lrm;Ladybug, over there.
+Dialogue: ,0:18:13.34,0:18:15.10,Default,,0,0,0,,&lrm;That's Chloe's bracelet.
+Dialogue: ,0:18:15.26,0:18:16.86,Default,,0,0,0,,&lrm;Exactly what I need.
+Dialogue: ,0:18:19.30,0:18:21.14,Default,,0,0,0,,&lrm;Fend off Rogercop as long as you can.
+Dialogue: ,0:18:21.30,0:18:22.62,Default,,0,0,0,,&lrm;Whenever you're ready.
+Dialogue: ,0:18:23.82,0:18:25.86,Default,,0,0,0,,&lrm;Cataclysm!
+Dialogue: ,0:18:36.86,0:18:37.98,Default,,0,0,0,,&lrm;[he groans]
+Dialogue: ,0:18:38.14,0:18:39.10,Default,,0,0,0,,&lrm;[he chuckles]
+Dialogue: ,0:18:54.82,0:18:56.06,Default,,0,0,0,,{\i1}&lrm;Gotcha.{\i0}
+Dialogue: ,0:18:56.42,0:18:58.18,Default,,0,0,0,,&lrm;[fading cry] {\i1}&lrm;No!{\i0}
+Dialogue: ,0:19:00.74,0:19:02.54,Default,,0,0,0,,&lrm;Do more evil-doing for you,\N&lrm;little Akuma.
+Dialogue: ,0:19:06.74,0:19:08.62,Default,,0,0,0,,&lrm;Time to de-evilise!
+Dialogue: ,0:19:12.42,0:19:13.10,Default,,0,0,0,,&lrm;Gotcha!
+Dialogue: ,0:19:14.30,0:19:16.02,Default,,0,0,0,,&lrm;Bye-bye, little butterfly.
+Dialogue: ,0:19:16.78,0:19:18.54,Default,,0,0,0,,&lrm;Miraculous Ladybug!
+Dialogue: ,0:19:24.78,0:19:25.62,Default,,0,0,0,,&lrm;[she cheers]
+Dialogue: ,0:19:27.14,0:19:28.62,Default,,0,0,0,,&lrm;[he gasps and laughs]
+Dialogue: ,0:19:30.02,0:19:32.62,Default,,0,0,0,,&lrm;[gasping] What am I doing up here?
+Dialogue: ,0:19:33.18,0:19:34.30,Default,,0,0,0,,&lrm;[together] Pount it!
+Dialogue: ,0:19:34.46,0:19:35.78,Default,,0,0,0,,&lrm;As Rogercop would say,
+Dialogue: ,0:19:35.94,0:19:38.42,Default,,0,0,0,,&lrm;[Robotically]\N&lrm;Justice has prevailed in Paris.
+Dialogue: ,0:19:38.74,0:19:39.78,Default,,0,0,0,,&lrm;[bleeping]
+Dialogue: ,0:19:40.50,0:19:43.38,Default,,0,0,0,,&lrm;I'd stick around\N&lrm;but you'd see me without my mask
+Dialogue: ,0:19:43.54,0:19:45.42,Default,,0,0,0,,&lrm;and you wouldn't be able to resist me.
+Dialogue: ,0:19:45.78,0:19:49.22,Default,,0,0,0,,&lrm;I doubt it,\N&lrm;but I'll take your word for it.
+Dialogue: ,0:19:52.86,0:19:54.10,Default,,0,0,0,,&lrm;[she chuckles]
+Dialogue: ,0:19:59.34,0:20:02.14,Default,,0,0,0,,&lrm;You may have eluded me this time,\N&lrm;Ladybug,
+Dialogue: ,0:20:02.30,0:20:05.58,Default,,0,0,0,,&lrm;but one of these days,\N&lrm;I'll be ruling the world,
+Dialogue: ,0:20:05.74,0:20:08.94,Default,,0,0,0,,&lrm;and you and Cat Noir\N&lrm;won't be a part of it!
+Dialogue: ,0:20:12.34,0:20:14.30,Default,,0,0,0,,&lrm;[Roger] I think this belongs to you.
+Dialogue: ,0:20:15.66,0:20:18.54,Default,,0,0,0,,&lrm;My bag... my...my bracelet.
+Dialogue: ,0:20:18.70,0:20:19.86,Default,,0,0,0,,&lrm;But... how?
+Dialogue: ,0:20:20.02,0:20:22.54,Default,,0,0,0,,&lrm;Roger... you found the bracelet?
+Dialogue: ,0:20:22.86,0:20:26.14,Default,,0,0,0,,&lrm;It was in Chloe's bag all along.\N&lrm;It must have fallen
+Dialogue: ,0:20:26.30,0:20:29.34,Default,,0,0,0,,&lrm;into a side-pocket\N&lrm;when that girl tripped.
+Dialogue: ,0:20:29.50,0:20:31.86,Default,,0,0,0,,&lrm;Roger, I apologize for being accusatory
+Dialogue: ,0:20:32.02,0:20:34.26,Default,,0,0,0,,&lrm;and for firing you for no good reason.
+Dialogue: ,0:20:34.42,0:20:37.18,Default,,0,0,0,,&lrm;I think Officer Roger\N&lrm;has proven his worth.
+Dialogue: ,0:20:37.34,0:20:38.78,Default,,0,0,0,,&lrm;You'd be wrong not to keep him.
+Dialogue: ,0:20:38.94,0:20:41.26,Default,,0,0,0,,&lrm;Of course, Ladybug,\N&lrm;you're absolutely right.
+Dialogue: ,0:20:41.42,0:20:43.78,Default,,0,0,0,,&lrm;And it's actually Lieutenant Roger now.
+Dialogue: ,0:20:43.94,0:20:45.46,Default,,0,0,0,,&lrm;Thank you, Mr. Mayor.
+Dialogue: ,0:20:45.62,0:20:47.06,Default,,0,0,0,,&lrm;I'm proud to be on the force
+Dialogue: ,0:20:47.22,0:20:48.82,Default,,0,0,0,,&lrm;and I vow to uphold my belief
+Dialogue: ,0:20:48.98,0:20:51.62,Default,,0,0,0,,&lrm;that everyone is innocent\N&lrm;until proven guilty.
+Dialogue: ,0:20:51.94,0:20:53.26,Default,,0,0,0,,&lrm;[earing bleeps]
+Dialogue: ,0:20:53.42,0:20:57.58,Default,,0,0,0,,&lrm;Very good, a valuable lesson learnt,\N&lrm;right Chloe?
+Dialogue: ,0:20:57.74,0:20:59.50,Default,,0,0,0,,&lrm;[she groans] Yes, daddy.
+Dialogue: ,0:21:00.26,0:21:01.66,Default,,0,0,0,,&lrm;Lesson learnt.

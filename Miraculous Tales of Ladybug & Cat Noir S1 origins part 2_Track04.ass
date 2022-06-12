@@ -1,0 +1,395 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: ,0:00:02.06,0:00:04.06,Default,,0,0,0,,{\i1}&lrm;In the daytime, I'm Marinette,{\i0}
+Dialogue: ,0:00:04.74,0:00:06.94,Default,,0,0,0,,{\i1}&lrm;just a normal girl with a normal life.{\i0}
+Dialogue: ,0:00:07.78,0:00:10.78,Default,,0,0,0,,{\i1}&lrm;but there's something about me{\i0}\N{\i1}&lrm;that no-one knows yet{\i0}
+Dialogue: ,0:00:11.10,0:00:12.66,Default,,0,0,0,,{\i1}&lrm;because I have a secret.{\i0}
+Dialogue: ,0:00:13.50,0:00:15.62,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! Simply the best! ♪{\i0}
+Dialogue: ,0:00:16.30,0:00:18.82,Default,,0,0,0,,{\i1}&lrm;♪ Up to the test when things go wrong! ♪{\i0}
+Dialogue: ,0:00:18.98,0:00:21.46,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! The luckiest! ♪{\i0}
+Dialogue: ,0:00:21.62,0:00:24.38,Default,,0,0,0,,{\i1}&lrm;♪ The power of love, always so strong! ♪{\i0}
+Dialogue: ,0:00:24.58,0:00:28.54,Default,,0,0,0,,{\i1}&lrm;♪ Miraculous! ♪{\i0}
+Dialogue: ,0:00:29.30,0:00:30.90,Default,,0,0,0,,{\i1}&lrm;The Stonebeings are all over Paris.{\i0}
+Dialogue: ,0:00:31.02,0:00:33.86,Default,,0,0,0,,{\i1}&lrm;For now, they're showing{\i0}\N{\i1}&lrm;no signs of movement.{\i0}
+Dialogue: ,0:00:34.02,0:00:35.70,Default,,0,0,0,,{\i1}&lrm;Police have cordoned off the areas.{\i0}
+Dialogue: ,0:00:35.82,0:00:39.50,Default,,0,0,0,,{\i1}&lrm;We won't stop until{\i0}\N{\i1}&lrm;we get these people back to normal{\i0}
+Dialogue: ,0:00:39.66,0:00:41.50,Default,,0,0,0,,{\i1}&lrm;but we're not making much headway.{\i0}
+Dialogue: ,0:00:41.62,0:00:43.94,Default,,0,0,0,,{\i1}&lrm;Paris is relying{\i0}\N{\i1}&lrm;on our new guardian angels,{\i0}
+Dialogue: ,0:00:44.10,0:00:46.22,Default,,0,0,0,,{\i1}&lrm;Ladybug and Cat Noir to save us.{\i0}
+Dialogue: ,0:00:46.38,0:00:48.10,Default,,0,0,0,,{\i1}&lrm;Our lives depend on them.{\i0}
+Dialogue: ,0:00:48.86,0:00:51.06,Default,,0,0,0,,&lrm;I know how upsetting and scary this is
+Dialogue: ,0:00:51.22,0:00:52.38,Default,,0,0,0,,&lrm;but don't worry,
+Dialogue: ,0:00:52.54,0:00:55.18,Default,,0,0,0,,&lrm;we've got 2 superheroes\N&lrm;looking out for Paris.
+Dialogue: ,0:00:55.34,0:00:57.98,Default,,0,0,0,,&lrm;We have to show them we're not scared
+Dialogue: ,0:00:58.14,0:00:59.58,Default,,0,0,0,,&lrm;because we trust them.
+Dialogue: ,0:00:59.74,0:01:01.70,Default,,0,0,0,,&lrm;But what if Ladybug fails?
+Dialogue: ,0:01:01.86,0:01:03.54,Default,,0,0,0,,&lrm;Then, I'd come and save you.
+Dialogue: ,0:01:03.70,0:01:05.62,Default,,0,0,0,,&lrm;Superbaker to the rescue!
+Dialogue: ,0:01:05.78,0:01:07.62,Default,,0,0,0,,&lrm;[she giggles]\N&lrm;Thanks, Superdad.
+Dialogue: ,0:01:32.30,0:01:34.10,Default,,0,0,0,,&lrm;[clock chimes] What's he doing?
+Dialogue: ,0:01:35.18,0:01:36.50,Default,,0,0,0,,&lrm;Adrien?
+Dialogue: ,0:01:37.18,0:01:38.38,Default,,0,0,0,,&lrm;You didn't see him leave?
+Dialogue: ,0:01:38.50,0:01:40.18,Default,,0,0,0,,&lrm;If anything happens to him,
+Dialogue: ,0:01:40.30,0:01:41.62,Default,,0,0,0,,&lrm;you'll be responsible!
+Dialogue: ,0:01:45.10,0:01:46.94,Default,,0,0,0,,&lrm;[Plagg] You're a strange kid.
+Dialogue: ,0:01:47.10,0:01:49.26,Default,,0,0,0,,&lrm;Who'd want to be at school\N&lrm;when he could stay at home?
+Dialogue: ,0:01:49.42,0:01:52.82,Default,,0,0,0,,&lrm;You don't get it. I've had enough\N&lrm;of being shut up at home.
+Dialogue: ,0:01:52.98,0:01:54.34,Default,,0,0,0,,&lrm;I wanna make friends,
+Dialogue: ,0:01:54.50,0:01:56.98,Default,,0,0,0,,&lrm;go to a normal school like everyone else.
+Dialogue: ,0:01:57.14,0:01:59.50,Default,,0,0,0,,&lrm;[Plagg groans] I think I'm feeling weak.
+Dialogue: ,0:01:59.66,0:02:01.66,Default,,0,0,0,,&lrm;You know what's strange?
+Dialogue: ,0:02:01.78,0:02:04.22,Default,,0,0,0,,&lrm;You eating this smelly camembert cheese
+Dialogue: ,0:02:04.38,0:02:06.54,Default,,0,0,0,,&lrm;and that I have to smell like it 24/7.
+Dialogue: ,0:02:06.70,0:02:07.82,Default,,0,0,0,,&lrm;That's strange.
+Dialogue: ,0:02:07.98,0:02:10.42,Default,,0,0,0,,&lrm;If you want to transform into a superhero,
+Dialogue: ,0:02:10.58,0:02:13.26,Default,,0,0,0,,&lrm;then stinky cheese is the deal, my friend.
+Dialogue: ,0:02:15.38,0:02:17.62,Default,,0,0,0,,&lrm;"Ladyblog: bringing you all the news
+Dialogue: ,0:02:17.74,0:02:19.70,Default,,0,0,0,,&lrm;about the coolest superhero, Ladybug."
+Dialogue: ,0:02:19.82,0:02:22.90,Default,,0,0,0,,&lrm;How awesome is that?\N&lrm;Check out the number of views.
+Dialogue: ,0:02:23.06,0:02:25.46,Default,,0,0,0,,&lrm;But why do you trust Ladybug so much?
+Dialogue: ,0:02:25.62,0:02:27.06,Default,,0,0,0,,&lrm;All these Stonebeings...
+Dialogue: ,0:02:27.22,0:02:28.46,Default,,0,0,0,,&lrm;She'll handle them.
+Dialogue: ,0:02:28.62,0:02:32.34,Default,,0,0,0,,&lrm;What if she's not cut out\N&lrm;to be a superhero like people think?
+Dialogue: ,0:02:32.78,0:02:34.58,Default,,0,0,0,,&lrm;What're you talkin' about?
+Dialogue: ,0:02:34.74,0:02:36.62,Default,,0,0,0,,&lrm;Oh, wait.
+Dialogue: ,0:02:37.34,0:02:38.98,Default,,0,0,0,,&lrm;I know what this is about.
+Dialogue: ,0:02:39.82,0:02:41.58,Default,,0,0,0,,&lrm;You're scared, but don't be.
+Dialogue: ,0:02:41.74,0:02:43.82,Default,,0,0,0,,&lrm;I've seen her with my own two eyes,
+Dialogue: ,0:02:43.98,0:02:47.46,Default,,0,0,0,,&lrm;Ladybug is a true superheroine.\N&lrm;She'll protect us all.
+Dialogue: ,0:02:47.58,0:02:49.14,Default,,0,0,0,,&lrm;I believe in her.
+Dialogue: ,0:02:53.46,0:02:55.22,Default,,0,0,0,,&lrm;[Alix] You don't remember?
+Dialogue: ,0:02:55.34,0:02:57.54,Default,,0,0,0,,&lrm;[Juleka] You went totally ballistic.
+Dialogue: ,0:02:57.70,0:02:59.78,Default,,0,0,0,,&lrm;It was so cool.
+Dialogue: ,0:02:59.94,0:03:01.58,Default,,0,0,0,,&lrm;You were out to crush me.
+Dialogue: ,0:03:04.46,0:03:05.42,Default,,0,0,0,,&lrm;Sorry, I wasn't myself.
+Dialogue: ,0:03:06.42,0:03:08.50,Default,,0,0,0,,&lrm;Once a monster, always a monster.
+Dialogue: ,0:03:13.50,0:03:16.22,Default,,0,0,0,,&lrm;Don't let the door hit you on the way out.
+Dialogue: ,0:03:16.34,0:03:19.74,Default,,0,0,0,,&lrm;[evil voice]\N&lrm;Yes, feel the burn of those words.
+Dialogue: ,0:03:19.90,0:03:23.14,Default,,0,0,0,,&lrm;Lose your temper, Ivan.\N&lrm;Your Akuma awaits you.
+Dialogue: ,0:03:23.30,0:03:24.46,Default,,0,0,0,,&lrm;[dull ring]
+Dialogue: ,0:03:29.34,0:03:30.66,Default,,0,0,0,,&lrm;[Nathalie] Adrien!
+Dialogue: ,0:03:30.78,0:03:32.46,Default,,0,0,0,,&lrm;Your father will be furious.
+Dialogue: ,0:03:32.58,0:03:33.90,Default,,0,0,0,,&lrm;[Adrien] Say you were too late,
+Dialogue: ,0:03:34.02,0:03:35.02,Default,,0,0,0,,&lrm;please.
+Dialogue: ,0:03:37.82,0:03:40.66,Default,,0,0,0,,&lrm;How could you say that?\N&lrm;You're the Stoneheart.
+Dialogue: ,0:03:40.78,0:03:42.02,Default,,0,0,0,,&lrm;[sarcatic] So I'm the one
+Dialogue: ,0:03:42.18,0:03:43.78,Default,,0,0,0,,&lrm;who broke Sabrina's dad's arm?
+Dialogue: ,0:03:43.94,0:03:46.78,Default,,0,0,0,,&lrm;Just because your footage\N&lrm;of those lame heroes was on TV,
+Dialogue: ,0:03:46.94,0:03:49.46,Default,,0,0,0,,&lrm;you don't have to get\N&lrm;so high and mighty.
+Dialogue: ,0:03:49.78,0:03:51.02,Default,,0,0,0,,&lrm;You little...
+Dialogue: ,0:03:51.46,0:03:53.50,Default,,0,0,0,,&lrm;Look out, she's angry.
+Dialogue: ,0:03:53.66,0:03:57.94,Default,,0,0,0,,&lrm;She's going to split her underwear\N&lrm;and turn into a huge monster.
+Dialogue: ,0:03:59.90,0:04:01.54,Default,,0,0,0,,&lrm;[Adrien] Hey, Chloe.
+Dialogue: ,0:04:01.66,0:04:04.02,Default,,0,0,0,,&lrm;Adrikins, you came!
+Dialogue: ,0:04:04.62,0:04:06.18,Default,,0,0,0,,&lrm;[excited chattering] I know him!
+Dialogue: ,0:04:06.30,0:04:08.54,Default,,0,0,0,,&lrm;[excited muttering] He's so handsome!
+Dialogue: ,0:04:11.02,0:04:12.46,Default,,0,0,0,,&lrm;I'll handle it.
+Dialogue: ,0:04:22.78,0:04:24.98,Default,,0,0,0,,&lrm;You should tell Mylene how you feel.
+Dialogue: ,0:04:25.14,0:04:27.42,Default,,0,0,0,,&lrm;I don't know what you're talking about.
+Dialogue: ,0:04:27.58,0:04:29.74,Default,,0,0,0,,&lrm;Come on, I saw how you look at her.
+Dialogue: ,0:04:31.18,0:04:32.74,Default,,0,0,0,,&lrm;No, no negative emotions.
+Dialogue: ,0:04:32.86,0:04:35.18,Default,,0,0,0,,&lrm;What I mean is... be positive.
+Dialogue: ,0:04:35.34,0:04:37.18,Default,,0,0,0,,&lrm;I'm sure she likes you too.
+Dialogue: ,0:04:37.34,0:04:38.66,Default,,0,0,0,,&lrm;[whispering] Go talk to her.
+Dialogue: ,0:04:38.82,0:04:40.58,Default,,0,0,0,,&lrm;I'm no good with words.
+Dialogue: ,0:04:41.38,0:04:42.58,Default,,0,0,0,,&lrm;Who needs words?
+Dialogue: ,0:04:42.74,0:04:45.94,Default,,0,0,0,,&lrm;You could draw her a picture,\N&lrm;send her flowers...
+Dialogue: ,0:04:46.10,0:04:48.02,Default,,0,0,0,,&lrm;I could write her a song?
+Dialogue: ,0:04:48.18,0:04:49.58,Default,,0,0,0,,&lrm;That's a great idea.
+Dialogue: ,0:04:49.74,0:04:52.34,Default,,0,0,0,,&lrm;Who wouldn't want\N&lrm;a love song written for her?
+Dialogue: ,0:04:52.50,0:04:54.50,Default,,0,0,0,,&lrm;Go for it, Ivan, and stay positive.
+Dialogue: ,0:04:55.22,0:04:56.46,Default,,0,0,0,,&lrm;[he chuckles]
+Dialogue: ,0:04:58.42,0:05:00.50,Default,,0,0,0,,&lrm;The negative emotions are fading.
+Dialogue: ,0:05:01.98,0:05:03.54,Default,,0,0,0,,&lrm;Can I have your autograph?
+Dialogue: ,0:05:03.70,0:05:06.34,Default,,0,0,0,,&lrm;Can I have an autograph? I'm a huge fan.
+Dialogue: ,0:05:06.50,0:05:10.50,Default,,0,0,0,,&lrm;This is your seat, Adrikins.\N&lrm;I saved it for you,
+Dialogue: ,0:05:10.62,0:05:12.46,Default,,0,0,0,,&lrm;right in front of me.
+Dialogue: ,0:05:12.98,0:05:14.10,Default,,0,0,0,,&lrm;Thanks, Chloe.
+Dialogue: ,0:05:15.90,0:05:17.02,Default,,0,0,0,,&lrm;Hey... Adrien.
+Dialogue: ,0:05:17.42,0:05:20.14,Default,,0,0,0,,&lrm;[suspiciously] You're friends with Chloe?
+Dialogue: ,0:05:22.46,0:05:24.02,Default,,0,0,0,,&lrm;Hey, what's that all about?
+Dialogue: ,0:05:24.18,0:05:27.98,Default,,0,0,0,,&lrm;The brats who sat here yesterday\N&lrm;need some attitude adjustment.
+Dialogue: ,0:05:28.14,0:05:30.82,Default,,0,0,0,,&lrm;I'm just commanding\N&lrm;a bit of respect, that's all.
+Dialogue: ,0:05:30.98,0:05:32.70,Default,,0,0,0,,&lrm;Think that's really necessary?
+Dialogue: ,0:05:32.86,0:05:36.14,Default,,0,0,0,,&lrm;You've got a lot to learn\N&lrm;about school culture, Adrikins.
+Dialogue: ,0:05:36.30,0:05:37.82,Default,,0,0,0,,&lrm;Watch the master.
+Dialogue: ,0:05:38.10,0:05:40.42,Default,,0,0,0,,&lrm;Alya, wouldn't you like to be a superhero
+Dialogue: ,0:05:40.54,0:05:42.90,Default,,0,0,0,,&lrm;and fight monsters and villains?
+Dialogue: ,0:05:43.06,0:05:45.74,Default,,0,0,0,,&lrm;Totally. I'm not scared of anyone. Why?
+Dialogue: ,0:05:45.90,0:05:47.90,Default,,0,0,0,,&lrm;No reason.
+Dialogue: ,0:05:54.26,0:05:55.58,Default,,0,0,0,,&lrm;[Alya gasps]
+Dialogue: ,0:05:55.70,0:05:56.98,Default,,0,0,0,,&lrm;What are you doing?
+Dialogue: ,0:05:57.46,0:05:59.10,Default,,0,0,0,,&lrm;I...
+Dialogue: ,0:05:59.26,0:06:00.66,Default,,0,0,0,,&lrm;[giggling]
+Dialogue: ,0:06:00.82,0:06:03.26,Default,,0,0,0,,&lrm;OK, I get it.\N&lrm;Good job, you 3. Very funny.
+Dialogue: ,0:06:03.70,0:06:06.02,Default,,0,0,0,,&lrm;No, no. I was trying to take it off.
+Dialogue: ,0:06:06.18,0:06:07.54,Default,,0,0,0,,&lrm;Really?
+Dialogue: ,0:06:09.98,0:06:12.26,Default,,0,0,0,,&lrm;You're friends with Chloe, right?
+Dialogue: ,0:06:12.38,0:06:14.30,Default,,0,0,0,,&lrm;Why do people keep saying that?
+Dialogue: ,0:06:17.62,0:06:19.90,Default,,0,0,0,,&lrm;See what I mean about respect?
+Dialogue: ,0:06:21.22,0:06:23.74,Default,,0,0,0,,&lrm;I know I've seen him somewhere before.
+Dialogue: ,0:06:23.90,0:06:25.34,Default,,0,0,0,,&lrm;[gasping] Of course.
+Dialogue: ,0:06:25.46,0:06:28.46,Default,,0,0,0,,&lrm;He's the son of fave' designer,\N&lrm;Gabriel Agreste!
+Dialogue: ,0:06:28.62,0:06:31.26,Default,,0,0,0,,&lrm;Daddy's boy,\N&lrm;teen supermodel and Chloe's buddy?
+Dialogue: ,0:06:31.42,0:06:32.50,Default,,0,0,0,,&lrm;[scoffing] Forget it.
+Dialogue: ,0:06:32.62,0:06:34.46,Default,,0,0,0,,&lrm;Why not tell her it was Chloe?
+Dialogue: ,0:06:34.58,0:06:36.34,Default,,0,0,0,,&lrm;I've known Chloe since I was a kid.
+Dialogue: ,0:06:36.50,0:06:39.30,Default,,0,0,0,,&lrm;She's not perfect\N&lrm;but I can't throw her under the bus.
+Dialogue: ,0:06:39.46,0:06:40.62,Default,,0,0,0,,&lrm;She's my only friend.
+Dialogue: ,0:06:41.90,0:06:44.06,Default,,0,0,0,,&lrm;I'm Nino. It's time for you to make
+Dialogue: ,0:06:44.18,0:06:45.58,Default,,0,0,0,,&lrm;some new friends.
+Dialogue: ,0:06:47.30,0:06:48.74,Default,,0,0,0,,&lrm;I'm going to be late.
+Dialogue: ,0:06:48.90,0:06:50.34,Default,,0,0,0,,&lrm;[she shrieks] Ivan...
+Dialogue: ,0:06:50.46,0:06:51.50,Default,,0,0,0,,&lrm;you scared me.
+Dialogue: ,0:06:51.62,0:06:53.30,Default,,0,0,0,,&lrm;I made this for you.
+Dialogue: ,0:06:53.78,0:06:55.10,Default,,0,0,0,,&lrm;[heavy metal music]
+Dialogue: ,0:06:55.22,0:06:58.42,Default,,0,0,0,,&lrm;[singing loudly] Mylene, be serene!
+Dialogue: ,0:06:59.50,0:07:01.26,Default,,0,0,0,,&lrm;[higher pitch] Be serene...!
+Dialogue: ,0:07:08.58,0:07:09.62,Default,,0,0,0,,&lrm;[evil voice] Yes...
+Dialogue: ,0:07:10.50,0:07:14.94,Default,,0,0,0,,&lrm;I've been waiting for this.\N&lrm;You know the way, evil Akuma.
+Dialogue: ,0:07:15.10,0:07:16.46,Default,,0,0,0,,&lrm;Track down your prey.
+Dialogue: ,0:07:17.10,0:07:19.74,Default,,0,0,0,,&lrm;Fly away, and evilise him!
+Dialogue: ,0:07:27.42,0:07:31.06,Default,,0,0,0,,&lrm;This is your 2nd chance,\N&lrm;Stoneheart and now you have extra help.
+Dialogue: ,0:07:31.22,0:07:34.10,Default,,0,0,0,,&lrm;No-one will stop you\N&lrm;capturing your loved one,
+Dialogue: ,0:07:34.26,0:07:36.38,Default,,0,0,0,,&lrm;but I'll need something in return.
+Dialogue: ,0:07:40.50,0:07:44.10,Default,,0,0,0,,&lrm;[thudding]
+Dialogue: ,0:07:45.54,0:07:46.54,Default,,0,0,0,,&lrm;[screaming]
+Dialogue: ,0:07:54.18,0:07:56.02,Default,,0,0,0,,&lrm;[Miss Bustier] Agreste, Adrien?
+Dialogue: ,0:07:56.66,0:07:58.02,Default,,0,0,0,,&lrm;You say present.
+Dialogue: ,0:07:58.18,0:07:59.62,Default,,0,0,0,,&lrm;Present!
+Dialogue: ,0:07:59.78,0:08:02.26,Default,,0,0,0,,&lrm;[giggling]
+Dialogue: ,0:08:02.42,0:08:04.78,Default,,0,0,0,,&lrm;-Bourgeois, Chloe?\N&lrm;-Present.
+Dialogue: ,0:08:05.14,0:08:06.06,Default,,0,0,0,,&lrm;Bruel, Ivan?
+Dialogue: ,0:08:06.26,0:08:07.50,Default,,0,0,0,,&lrm;[roaring] Present!
+Dialogue: ,0:08:08.18,0:08:09.98,Default,,0,0,0,,&lrm;[roaring] Mylene?
+Dialogue: ,0:08:10.14,0:08:11.74,Default,,0,0,0,,&lrm;[screaming]
+Dialogue: ,0:08:13.34,0:08:15.06,Default,,0,0,0,,&lrm;Let go of me, Ivan.
+Dialogue: ,0:08:15.22,0:08:17.90,Default,,0,0,0,,&lrm;I'm not Ivan anymore. I'm Stoneheart.
+Dialogue: ,0:08:18.02,0:08:19.06,Default,,0,0,0,,&lrm;Why are you doing this?
+Dialogue: ,0:08:19.58,0:08:22.06,Default,,0,0,0,,&lrm;So you and I can be together, forever!
+Dialogue: ,0:08:22.22,0:08:24.50,Default,,0,0,0,,&lrm;[Chloe whimpers]\N&lrm;Daddy, the monster is back.
+Dialogue: ,0:08:24.86,0:08:25.90,Default,,0,0,0,,&lrm;You!
+Dialogue: ,0:08:27.50,0:08:29.10,Default,,0,0,0,,&lrm;Please, my hair.
+Dialogue: ,0:08:32.62,0:08:34.22,Default,,0,0,0,,&lrm;[Mylene] Put us down, Ivan.
+Dialogue: ,0:08:34.70,0:08:35.58,Default,,0,0,0,,&lrm;Let's follow him.
+Dialogue: ,0:08:35.98,0:08:39.22,Default,,0,0,0,,&lrm;Oh no, you go.\N&lrm;I'm finding a place to hide.
+Dialogue: ,0:08:39.34,0:08:41.74,Default,,0,0,0,,&lrm;You're gonna miss Ladybug in action.
+Dialogue: ,0:08:44.54,0:08:46.62,Default,,0,0,0,,&lrm;You and Ladybug will be\N&lrm;better off without me.
+Dialogue: ,0:08:46.74,0:08:48.18,Default,,0,0,0,,&lrm;If you say so.
+Dialogue: ,0:08:49.14,0:08:50.62,Default,,0,0,0,,&lrm;Wait, your bag.
+Dialogue: ,0:08:52.06,0:08:54.50,Default,,0,0,0,,&lrm;My first day and I didn't\N&lrm;make it past roll call.
+Dialogue: ,0:08:54.90,0:08:57.14,Default,,0,0,0,,&lrm;A day off? I like the sound of that.
+Dialogue: ,0:08:57.42,0:08:59.58,Default,,0,0,0,,&lrm;No, no. We've got homework to do.
+Dialogue: ,0:08:59.90,0:09:01.94,Default,,0,0,0,,&lrm;Plagg, claws out!
+Dialogue: ,0:09:16.30,0:09:18.42,Default,,0,0,0,,&lrm;You've no idea who you're dealing with.
+Dialogue: ,0:09:18.54,0:09:22.22,Default,,0,0,0,,&lrm;My daddy, the mayor, will bring in\N&lrm;the army and the entire cavalry.
+Dialogue: ,0:09:22.82,0:09:24.78,Default,,0,0,0,,&lrm;Don't forget the superheroes!
+Dialogue: ,0:09:26.54,0:09:27.94,Default,,0,0,0,,&lrm;[Cat Noir] Oh no, my bad.
+Dialogue: ,0:09:28.34,0:09:30.78,Default,,0,0,0,,&lrm;Super-incompetent, you mean.
+Dialogue: ,0:09:30.94,0:09:32.62,Default,,0,0,0,,&lrm;You wanted the cavalry?
+Dialogue: ,0:09:32.74,0:09:34.06,Default,,0,0,0,,&lrm;Here it is!
+Dialogue: ,0:09:35.26,0:09:37.06,Default,,0,0,0,,&lrm;[Mylene] No!
+Dialogue: ,0:09:39.34,0:09:40.38,Default,,0,0,0,,&lrm;Seize him!
+Dialogue: ,0:09:43.54,0:09:44.50,Default,,0,0,0,,&lrm;[Mylene] Watch out!
+Dialogue: ,0:09:46.78,0:09:47.86,Default,,0,0,0,,&lrm;[Mylene] Ivan,
+Dialogue: ,0:09:47.98,0:09:49.06,Default,,0,0,0,,&lrm;where are we going?
+Dialogue: ,0:09:49.62,0:09:51.02,Default,,0,0,0,,&lrm;To deliver a message.
+Dialogue: ,0:09:51.18,0:09:54.18,Default,,0,0,0,,&lrm;We'll be brought together forever.
+Dialogue: ,0:09:54.34,0:09:56.70,Default,,0,0,0,,&lrm;This lovey-dovey stuff makes me sick.
+Dialogue: ,0:09:56.82,0:10:00.30,Default,,0,0,0,,&lrm;Don't worry, little monster,\N&lrm;I'll take care of you too.
+Dialogue: ,0:10:04.86,0:10:05.74,Default,,0,0,0,,&lrm;Ladybug,
+Dialogue: ,0:10:05.86,0:10:07.30,Default,,0,0,0,,&lrm;I need help.
+Dialogue: ,0:10:07.46,0:10:08.54,Default,,0,0,0,,&lrm;What's she waiting for?
+Dialogue: ,0:10:15.22,0:10:16.22,Default,,0,0,0,,&lrm;[Alya screams]
+Dialogue: ,0:10:20.62,0:10:21.98,Default,,0,0,0,,&lrm;Let go, you rock-head!
+Dialogue: ,0:10:24.94,0:10:26.66,Default,,0,0,0,,&lrm;Help!
+Dialogue: ,0:10:38.38,0:10:40.90,Default,,0,0,0,,&lrm;-I need Ladybug.\N&lrm;-I knew you'd come around.
+Dialogue: ,0:10:41.02,0:10:43.10,Default,,0,0,0,,&lrm;I'm still not sure I'm up for this
+Dialogue: ,0:10:43.26,0:10:44.50,Default,,0,0,0,,&lrm;but Alya's in danger.
+Dialogue: ,0:10:44.62,0:10:46.06,Default,,0,0,0,,&lrm;I can't do nothing.
+Dialogue: ,0:10:47.50,0:10:49.42,Default,,0,0,0,,&lrm;Tikki, spots on!
+Dialogue: ,0:11:11.66,0:11:14.06,Default,,0,0,0,,&lrm;You can't stay here. It's too dangerous.
+Dialogue: ,0:11:21.14,0:11:23.34,Default,,0,0,0,,&lrm;Cat Noir, extend it!
+Dialogue: ,0:11:27.70,0:11:29.10,Default,,0,0,0,,&lrm;[Ladybug] Sorry I was late.
+Dialogue: ,0:11:29.54,0:11:32.38,Default,,0,0,0,,&lrm;Have I ever told you\N&lrm;you turn my world upside down?
+Dialogue: ,0:11:32.66,0:11:34.38,Default,,0,0,0,,&lrm;You're quite a joker.
+Dialogue: ,0:11:35.98,0:11:37.66,Default,,0,0,0,,&lrm;But your timing needs work.
+Dialogue: ,0:11:37.78,0:11:38.98,Default,,0,0,0,,&lrm;We gotta go.
+Dialogue: ,0:11:43.02,0:11:44.70,Default,,0,0,0,,&lrm;Aren't we gonna take care of them?
+Dialogue: ,0:11:46.02,0:11:49.34,Default,,0,0,0,,&lrm;No, if we want to save them all\N&lrm;then we go to the source...
+Dialogue: ,0:11:49.50,0:11:50.90,Default,,0,0,0,,&lrm;that one.
+Dialogue: ,0:11:59.54,0:12:01.54,Default,,0,0,0,,&lrm;I demand my daughter's safe return.
+Dialogue: ,0:12:01.70,0:12:02.66,Default,,0,0,0,,&lrm;Daddy!
+Dialogue: ,0:12:02.86,0:12:04.74,Default,,0,0,0,,&lrm;You're welcome to her!
+Dialogue: ,0:12:05.38,0:12:06.38,Default,,0,0,0,,&lrm;[she screams]
+Dialogue: ,0:12:07.34,0:12:09.58,Default,,0,0,0,,&lrm;I promise to be nice, be polite and...
+Dialogue: ,0:12:11.14,0:12:12.86,Default,,0,0,0,,&lrm;-I didn't promise.\N&lrm;-What?
+Dialogue: ,0:12:13.34,0:12:14.74,Default,,0,0,0,,&lrm;My little princess.
+Dialogue: ,0:12:15.06,0:12:16.46,Default,,0,0,0,,&lrm;We're clear to attack!
+Dialogue: ,0:12:16.58,0:12:19.18,Default,,0,0,0,,&lrm;Wait, don't attack. You'll make it worse.
+Dialogue: ,0:12:19.62,0:12:20.74,Default,,0,0,0,,&lrm;I've a new plan.
+Dialogue: ,0:12:20.90,0:12:23.78,Default,,0,0,0,,&lrm;Leave it to the pros.\N&lrm;You already failed once.
+Dialogue: ,0:12:26.18,0:12:27.10,Default,,0,0,0,,&lrm;He's right.
+Dialogue: ,0:12:27.30,0:12:29.54,Default,,0,0,0,,&lrm;Had I captured the Akuma the 1st time,
+Dialogue: ,0:12:29.70,0:12:30.98,Default,,0,0,0,,&lrm;this wouldn't have happened.
+Dialogue: ,0:12:31.14,0:12:33.10,Default,,0,0,0,,&lrm;I knew I wasn't the one for this job.
+Dialogue: ,0:12:33.26,0:12:36.26,Default,,0,0,0,,&lrm;No. He's wrong.\N&lrm;Without you, she wouldn't be here.
+Dialogue: ,0:12:36.42,0:12:39.38,Default,,0,0,0,,&lrm;Without us, they won't make it.\N&lrm;We'll prove it.
+Dialogue: ,0:12:39.54,0:12:41.74,Default,,0,0,0,,&lrm;Trust me on this, OK?
+Dialogue: ,0:12:41.90,0:12:42.98,Default,,0,0,0,,&lrm;OK.
+Dialogue: ,0:12:43.14,0:12:44.66,Default,,0,0,0,,&lrm;[roaring]
+Dialogue: ,0:12:44.82,0:12:48.26,Default,,0,0,0,,&lrm;[coughing and spluttering]
+Dialogue: ,0:12:50.38,0:12:51.50,Default,,0,0,0,,&lrm;[weak groan]
+Dialogue: ,0:12:55.10,0:12:56.50,Default,,0,0,0,,&lrm;People of Paris,
+Dialogue: ,0:12:56.62,0:12:57.90,Default,,0,0,0,,&lrm;listen carefully...
+Dialogue: ,0:12:58.02,0:12:59.74,Default,,0,0,0,,&lrm;I am Hawk Moth.
+Dialogue: ,0:12:59.86,0:13:00.70,Default,,0,0,0,,&lrm;Hawk moth?
+Dialogue: ,0:13:01.18,0:13:02.78,Default,,0,0,0,,&lrm;[evil voice] Ladybug, Cat Noir,
+Dialogue: ,0:13:02.90,0:13:04.02,Default,,0,0,0,,{\i1}&lrm;give me{\i0}
+Dialogue: ,0:13:04.14,0:13:06.78,Default,,0,0,0,,{\i1}&lrm;the Ladybug earrings and the cat ring now!{\i0}
+Dialogue: ,0:13:06.90,0:13:09.62,Default,,0,0,0,,&lrm;You've done enough damage\N&lrm;to these innocent people.
+Dialogue: ,0:13:09.78,0:13:12.26,Default,,0,0,0,,&lrm;Nice try, but we know who the bad guy is.
+Dialogue: ,0:13:12.38,0:13:14.26,Default,,0,0,0,,&lrm;Let's not reverse the roles.
+Dialogue: ,0:13:14.42,0:13:17.42,Default,,0,0,0,,&lrm;You turned these\N&lrm;innocent victims into villains.
+Dialogue: ,0:13:17.54,0:13:19.86,Default,,0,0,0,,&lrm;Hawk Moth, no matter how long it takes,
+Dialogue: ,0:13:20.02,0:13:21.42,Default,,0,0,0,,&lrm;we will find you
+Dialogue: ,0:13:21.58,0:13:23.94,Default,,0,0,0,,&lrm;and you'll hand us your Miraculous!
+Dialogue: ,0:13:28.90,0:13:30.70,Default,,0,0,0,,&lrm;Time to de-evilise!
+Dialogue: ,0:13:31.74,0:13:33.02,Default,,0,0,0,,&lrm;[Hawk Moth groans]
+Dialogue: ,0:13:33.18,0:13:35.34,Default,,0,0,0,,&lrm;[Ladybug yells]
+Dialogue: ,0:13:42.50,0:13:43.94,Default,,0,0,0,,&lrm;Let me make this promise.
+Dialogue: ,0:13:44.06,0:13:45.62,Default,,0,0,0,,&lrm;Whoever wants to harm you,
+Dialogue: ,0:13:45.74,0:13:48.78,Default,,0,0,0,,&lrm;Cat Noir and I will do\N&lrm;all we can to keep you safe.
+Dialogue: ,0:13:53.42,0:13:54.30,Default,,0,0,0,,&lrm;Yes!
+Dialogue: ,0:13:58.22,0:14:00.50,Default,,0,0,0,,&lrm;Whoever she is beneath that mask
+Dialogue: ,0:14:00.66,0:14:01.90,Default,,0,0,0,,&lrm;I love that girl.
+Dialogue: ,0:14:03.10,0:14:06.54,Default,,0,0,0,,&lrm;That's the problem with superheroes,\N&lrm;they're too... heroic!
+Dialogue: ,0:14:06.66,0:14:10.06,Default,,0,0,0,,&lrm;Stoneheart, they're trying to take\N&lrm;your loved one away.
+Dialogue: ,0:14:10.22,0:14:13.58,Default,,0,0,0,,&lrm;Snatch their Miraculouses,\N&lrm;they'll be powerless against you.
+Dialogue: ,0:14:13.74,0:14:15.38,Default,,0,0,0,,&lrm;OK, Hawk Moth.
+Dialogue: ,0:14:17.10,0:14:18.30,Default,,0,0,0,,&lrm;[Mylene] Help me!
+Dialogue: ,0:14:18.46,0:14:20.50,Default,,0,0,0,,&lrm;You'll never take Mylene from me!
+Dialogue: ,0:14:22.18,0:14:24.78,Default,,0,0,0,,&lrm;[Stoneheart] Come to me, my Stonebeings!
+Dialogue: ,0:14:26.90,0:14:28.70,Default,,0,0,0,,&lrm;We're surrounded.
+Dialogue: ,0:14:28.86,0:14:30.54,Default,,0,0,0,,&lrm;What now? We can't attack him.
+Dialogue: ,0:14:30.70,0:14:32.70,Default,,0,0,0,,&lrm;But we know where the Akuma is.
+Dialogue: ,0:14:32.82,0:14:35.70,Default,,0,0,0,,&lrm;[Cat Noir] In the fist he's got Mylene in.
+Dialogue: ,0:14:35.82,0:14:37.50,Default,,0,0,0,,&lrm;So, he's in love with her...
+Dialogue: ,0:14:37.66,0:14:38.74,Default,,0,0,0,,&lrm;That's it!
+Dialogue: ,0:14:38.86,0:14:42.26,Default,,0,0,0,,&lrm;We don't separate them,\N&lrm;we bring them closer together.
+Dialogue: ,0:14:42.42,0:14:45.34,Default,,0,0,0,,&lrm;They're made each other,\N&lrm;they just don't know it.
+Dialogue: ,0:14:45.46,0:14:48.38,Default,,0,0,0,,&lrm;I don't get it,\N&lrm;but I guess I better trust you.
+Dialogue: ,0:14:48.54,0:14:51.66,Default,,0,0,0,,&lrm;Something tells me\N&lrm;this is how it'll be in future.
+Dialogue: ,0:14:54.90,0:14:58.54,Default,,0,0,0,,&lrm;[helicopters hum]
+Dialogue: ,0:15:03.74,0:15:05.54,Default,,0,0,0,,&lrm;Help! I'm scared of heights!
+Dialogue: ,0:15:05.70,0:15:07.18,Default,,0,0,0,,&lrm;It'll be alright!
+Dialogue: ,0:15:08.06,0:15:09.58,Default,,0,0,0,,&lrm;[Stoneheart roars]
+Dialogue: ,0:15:12.50,0:15:14.78,Default,,0,0,0,,&lrm;How will you get them even closer?
+Dialogue: ,0:15:15.14,0:15:16.54,Default,,0,0,0,,&lrm;By using our powers!
+Dialogue: ,0:15:16.66,0:15:19.14,Default,,0,0,0,,&lrm;Lucky charm!
+Dialogue: ,0:15:24.90,0:15:27.34,Default,,0,0,0,,&lrm;A parachute?\N&lrm;What do I do with this?
+Dialogue: ,0:15:27.50,0:15:28.74,Default,,0,0,0,,&lrm;[Cat Noir yells]
+Dialogue: ,0:15:30.18,0:15:31.86,Default,,0,0,0,,&lrm;You know what you're doing?
+Dialogue: ,0:15:31.98,0:15:33.70,Default,,0,0,0,,&lrm;We'll find out soon enough.
+Dialogue: ,0:15:38.34,0:15:39.94,Default,,0,0,0,,&lrm;His hand... get ready!
+Dialogue: ,0:15:42.18,0:15:43.62,Default,,0,0,0,,&lrm;[kissing]
+Dialogue: ,0:15:46.02,0:15:48.66,Default,,0,0,0,,&lrm;[she yells]
+Dialogue: ,0:15:56.50,0:15:57.54,Default,,0,0,0,,&lrm;Home run!
+Dialogue: ,0:15:59.78,0:16:01.62,Default,,0,0,0,,&lrm;No more evil-doing for you, little Akuma.
+Dialogue: ,0:16:05.02,0:16:06.18,Default,,0,0,0,,&lrm;Time to de-evilise!
+Dialogue: ,0:16:07.38,0:16:10.26,Default,,0,0,0,,&lrm;[he yells]
+Dialogue: ,0:16:10.38,0:16:12.02,Default,,0,0,0,,&lrm;[they yell]
+Dialogue: ,0:16:15.22,0:16:16.90,Default,,0,0,0,,&lrm;Cat Noir, take care of Ivan!
+Dialogue: ,0:16:18.22,0:16:19.70,Default,,0,0,0,,&lrm;Cataclysm!
+Dialogue: ,0:16:32.82,0:16:34.18,Default,,0,0,0,,&lrm;Gotcha!
+Dialogue: ,0:16:35.10,0:16:36.66,Default,,0,0,0,,&lrm;[sigh of relief]
+Dialogue: ,0:16:43.06,0:16:44.98,Default,,0,0,0,,&lrm;Bye-bye, little butterfly.
+Dialogue: ,0:16:46.26,0:16:47.58,Default,,0,0,0,,&lrm;Miraculous Ladybug!
+Dialogue: ,0:16:55.06,0:16:57.54,Default,,0,0,0,,&lrm;[Cat noir amazed] Are you seeing this?
+Dialogue: ,0:16:57.70,0:17:01.94,Default,,0,0,0,,&lrm;Yeah, it's beautiful and amazing, it's...
+Dialogue: ,0:17:02.10,0:17:03.78,Default,,0,0,0,,&lrm;miraculous!
+Dialogue: ,0:17:04.42,0:17:06.38,Default,,0,0,0,,&lrm;This is just the beginning, Ladybug.
+Dialogue: ,0:17:06.54,0:17:08.38,Default,,0,0,0,,&lrm;You may have won this battle
+Dialogue: ,0:17:08.50,0:17:10.34,Default,,0,0,0,,&lrm;but I will win the war!
+Dialogue: ,0:17:10.98,0:17:14.50,Default,,0,0,0,,&lrm;I will get your Miraculouses,\N&lrm;I will get the absolute power,
+Dialogue: ,0:17:14.66,0:17:17.46,Default,,0,0,0,,&lrm;and then, my secret dream will come true!
+Dialogue: ,0:17:19.46,0:17:21.70,Default,,0,0,0,,&lrm;I think you two need to talk.
+Dialogue: ,0:17:21.82,0:17:23.54,Default,,0,0,0,,&lrm;I...I...
+Dialogue: ,0:17:24.42,0:17:27.54,Default,,0,0,0,,&lrm;It may help if you read\N&lrm;the lyrics to Ivan's song.
+Dialogue: ,0:17:29.74,0:17:31.18,Default,,0,0,0,,&lrm;It's beautiful.
+Dialogue: ,0:17:31.34,0:17:34.30,Default,,0,0,0,,&lrm;It's a shame you can't hear them\N&lrm;when you scream...
+Dialogue: ,0:17:34.46,0:17:35.54,Default,,0,0,0,,&lrm;I mean sing.
+Dialogue: ,0:17:35.70,0:17:38.66,Default,,0,0,0,,&lrm;It was scary, wasn't it?\N&lrm;Is that why you left?
+Dialogue: ,0:17:39.58,0:17:41.34,Default,,0,0,0,,&lrm;I'm sorry. I'll be gentle.
+Dialogue: ,0:17:45.22,0:17:47.10,Default,,0,0,0,,&lrm;They're made for each other.
+Dialogue: ,0:17:47.26,0:17:48.34,Default,,0,0,0,,&lrm;Like us two.
+Dialogue: ,0:17:48.50,0:17:49.74,Default,,0,0,0,,&lrm;[bleeping] See that?
+Dialogue: ,0:17:49.86,0:17:52.22,Default,,0,0,0,,&lrm;Time to split. See you soon, Cat Noir.
+Dialogue: ,0:17:54.66,0:17:56.66,Default,,0,0,0,,&lrm;Can't wait, Milady.
+Dialogue: ,0:18:01.78,0:18:04.06,Default,,0,0,0,,&lrm;By the time I biked to the Eiffel Tower,
+Dialogue: ,0:18:04.22,0:18:06.18,Default,,0,0,0,,&lrm;it was all over. I'm way bummed.
+Dialogue: ,0:18:06.34,0:18:08.78,Default,,0,0,0,,&lrm;You'll get your scoop eventually.
+Dialogue: ,0:18:08.94,0:18:12.54,Default,,0,0,0,,&lrm;You're right. next target,\N&lrm;"Ladybug: An Exclusive Interview."
+Dialogue: ,0:18:12.70,0:18:14.18,Default,,0,0,0,,&lrm;Sounds exciting.
+Dialogue: ,0:18:14.34,0:18:15.90,Default,,0,0,0,,&lrm;Oh, wait, even better,
+Dialogue: ,0:18:16.06,0:18:18.58,Default,,0,0,0,,&lrm;"Finding out\N&lrm;who's really under that mask!"
+Dialogue: ,0:18:18.74,0:18:20.46,Default,,0,0,0,,&lrm;Good luck with that one.
+Dialogue: ,0:18:21.46,0:18:22.42,Default,,0,0,0,,{\i1}&lrm;You disobeyed me.{\i0}
+Dialogue: ,0:18:22.54,0:18:24.58,Default,,0,0,0,,{\i1}&lrm;You see that school?{\i0}
+Dialogue: ,0:18:25.18,0:18:26.06,Default,,0,0,0,,&lrm;Yes, Father.
+Dialogue: ,0:18:26.18,0:18:28.98,Default,,0,0,0,,{\i1}&lrm;You will never,{\i0}\N{\i1}&lrm;I say never, go back there again,{\i0}
+Dialogue: ,0:18:29.34,0:18:31.34,Default,,0,0,0,,&lrm;-Father...\N&lrm;-{\i1}&lrm;without your bodyguard.{\i0}
+Dialogue: ,0:18:31.50,0:18:33.06,Default,,0,0,0,,{\i1}&lrm;He'll drop you off and pick you up.{\i0}
+Dialogue: ,0:18:33.18,0:18:35.26,Default,,0,0,0,,{\i1}&lrm;Nathalie will organise your schedule.{\i0}
+Dialogue: ,0:18:35.42,0:18:38.70,Default,,0,0,0,,{\i1}&lrm;You'll continue music, Chinese,{\i0}\N{\i1}&lrm;fencing and your photo shoots.{\i0}
+Dialogue: ,0:18:38.82,0:18:41.22,Default,,0,0,0,,&lrm;Thank you, Nathalie,\N&lrm;Thank you, father.
+Dialogue: ,0:18:43.18,0:18:44.42,Default,,0,0,0,,&lrm;No, wait.
+Dialogue: ,0:18:51.66,0:18:52.62,Default,,0,0,0,,&lrm;[Chloe] You're in
+Dialogue: ,0:18:52.74,0:18:53.78,Default,,0,0,0,,&lrm;the wrong seat.
+Dialogue: ,0:18:53.94,0:18:55.02,Default,,0,0,0,,&lrm;Go on, get lost.
+Dialogue: ,0:18:55.38,0:18:57.34,Default,,0,0,0,,&lrm;All that's necessary\N&lrm;for the triumph of evil
+Dialogue: ,0:18:57.50,0:18:59.18,Default,,0,0,0,,&lrm;is that good people do nothing.
+Dialogue: ,0:18:59.30,0:19:00.98,Default,,0,0,0,,&lrm;What's that supposed to mean?
+Dialogue: ,0:19:01.10,0:19:03.34,Default,,0,0,0,,&lrm;It means I'm not putting up\N&lrm;with your crud anymore,
+Dialogue: ,0:19:03.50,0:19:05.02,Default,,0,0,0,,&lrm;neither is anyone else.
+Dialogue: ,0:19:05.18,0:19:07.82,Default,,0,0,0,,&lrm;So take your attitude and go and get lost.
+Dialogue: ,0:19:07.94,0:19:10.62,Default,,0,0,0,,&lrm;[laughing]
+Dialogue: ,0:19:15.26,0:19:16.22,Default,,0,0,0,,&lrm;Good job.
+Dialogue: ,0:19:23.66,0:19:25.42,Default,,0,0,0,,&lrm;You wanna make friends, right?
+Dialogue: ,0:19:25.58,0:19:27.50,Default,,0,0,0,,&lrm;Talk to Marinette about the gum.
+Dialogue: ,0:19:27.62,0:19:28.78,Default,,0,0,0,,&lrm;What should I say?
+Dialogue: ,0:19:28.90,0:19:30.42,Default,,0,0,0,,&lrm;Just be yourself.
+Dialogue: ,0:19:37.98,0:19:39.06,Default,,0,0,0,,&lrm;Hey.
+Dialogue: ,0:19:39.22,0:19:40.14,Default,,0,0,0,,&lrm;[she huffs]
+Dialogue: ,0:19:44.58,0:19:45.94,Default,,0,0,0,,&lrm;I just want you to know
+Dialogue: ,0:19:46.10,0:19:48.22,Default,,0,0,0,,&lrm;I was only trying to get the gum off,
+Dialogue: ,0:19:48.34,0:19:49.22,Default,,0,0,0,,&lrm;I swear.
+Dialogue: ,0:19:50.70,0:19:52.74,Default,,0,0,0,,&lrm;I've never been to school before.
+Dialogue: ,0:19:52.90,0:19:54.38,Default,,0,0,0,,&lrm;I've never had friends.
+Dialogue: ,0:19:54.54,0:19:56.66,Default,,0,0,0,,&lrm;It's all sort of new to me.
+Dialogue: ,0:19:56.82,0:20:03.18,Default,,0,0,0,,&lrm;[romantic music]
+Dialogue: ,0:20:03.30,0:20:05.06,Default,,0,0,0,,&lrm;[thunder rumbles]
+Dialogue: ,0:20:05.18,0:20:11.90,Default,,0,0,0,,&lrm;[romantic music]
+Dialogue: ,0:20:18.62,0:20:21.18,Default,,0,0,0,,&lrm;See you tomorrow.
+Dialogue: ,0:20:21.34,0:20:24.02,Default,,0,0,0,,&lrm;[romantic music]
+Dialogue: ,0:20:24.18,0:20:26.54,Default,,0,0,0,,&lrm;[stammering] See you tomorrow...
+Dialogue: ,0:20:26.70,0:20:28.70,Default,,0,0,0,,&lrm;[chuckling] Why am I stammering?
+Dialogue: ,0:20:29.18,0:20:32.22,Default,,0,0,0,,&lrm;Hey. I think I might have an idea.
+Dialogue: ,0:20:35.50,0:20:38.78,Default,,0,0,0,,&lrm;First day of school\N&lrm;and we already have two love-birds.
+Dialogue: ,0:20:38.94,0:20:41.06,Default,,0,0,0,,&lrm;[puffing] Whatever, she's just a friend.
+Dialogue: ,0:20:41.18,0:20:43.38,Default,,0,0,0,,&lrm;A friend.
+Dialogue: ,0:20:44.26,0:20:49.10,Default,,0,0,0,,&lrm;[romantic music]
+Dialogue: ,0:20:55.86,0:20:57.62,Default,,0,0,0,,&lrm;[Waizze] Excellent choice, master.
+Dialogue: ,0:20:57.78,0:21:00.34,Default,,0,0,0,,&lrm;Those two are made for each other.
