@@ -1,8 +1,8 @@
 ﻿1
 00:00:01,050 --> 00:00:25,666
-<b><font face="Rockwell" color="#FFFF00">Subtitle By: Ivandrofly</font></b>
-<b><font face="Rockwell" color="#00FFFF">& Improved By: Fidel33
-Sub Upload Date: July 10, 2018</font></b>
+<b><font face="Rockwell" color="#FFFF00">You're watching from Stream Flex App</font></b>
+<b><font face="Rockwell" color="#00FFFF">Please stay for more videos
+Watch for free.</font></b>
 
 2
 00:00:33,720 --> 00:00:38,269
